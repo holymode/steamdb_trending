@@ -124,6 +124,10 @@
     "name": "Luna Abyss"
   },
   {
+    "appid": "4573080",
+    "name": "执念刑警之消失的证人"
+  },
+  {
     "appid": "3633770",
     "name": "LAT The Punk World of Tentacled Monsters"
   },
@@ -146,10 +150,6 @@
   {
     "appid": "4671490",
     "name": "Armu's Sokoban Adventure"
-  },
-  {
-    "appid": "4573080",
-    "name": "执念刑警之消失的证人"
   },
   {
     "appid": "3412160",
@@ -420,6 +420,10 @@
     "name": "Three Kingdoms Club Manager"
   },
   {
+    "appid": "3607440",
+    "name": "A.A.U. Black Site"
+  },
+  {
     "appid": "4019130",
     "name": "Psyvariar 3"
   },
@@ -430,10 +434,6 @@
   {
     "appid": "4337210",
     "name": "Berserker Onslaught"
-  },
-  {
-    "appid": "3607440",
-    "name": "A.A.U. Black Site"
   },
   {
     "appid": "2600830",
@@ -780,10 +780,6 @@
     "name": "A Long Survive"
   },
   {
-    "appid": "3770700",
-    "name": "Cosmic Run"
-  },
-  {
     "appid": "2988140",
     "name": "Lacrosse 26"
   },
@@ -802,6 +798,10 @@
   {
     "appid": "4389400",
     "name": "Bouncy Weapons"
+  },
+  {
+    "appid": "3770700",
+    "name": "Cosmic Run"
   },
   {
     "appid": "2600960",
