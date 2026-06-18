@@ -1,1238 +1,1769 @@
 [
   {
     "appid": 4064510,
-    "name": "MOLE"
+    "name": "MOLE",
+    "category": []
   },
   {
     "appid": 4272720,
-    "name": "Pickupbal"
+    "name": "Pickupbal",
+    "category": []
   },
   {
     "appid": 3545150,
-    "name": "Fuck's Quest II"
+    "name": "Fuck's Quest II",
+    "category": []
   },
   {
     "appid": 3930510,
-    "name": "Don't Let It Starve"
+    "name": "Don't Let It Starve",
+    "category": []
   },
   {
     "appid": 3946810,
-    "name": "The seven days i spent with you"
+    "name": "The seven days i spent with you",
+    "category": []
   },
   {
     "appid": 1829470,
-    "name": "Melody's Escape 2"
+    "name": "Melody's Escape 2",
+    "category": []
   },
   {
     "appid": 3795760,
-    "name": "Burger Bots Inc."
+    "name": "Burger Bots Inc.",
+    "category": []
   },
   {
     "appid": 3400030,
-    "name": "Match! The 12 CZ Wars"
+    "name": "Match! The 12 CZ Wars",
+    "category": []
   },
   {
     "appid": 3551190,
-    "name": "The Last Salvage Squad"
+    "name": "The Last Salvage Squad",
+    "category": []
   },
   {
     "appid": 4280570,
-    "name": "SharedScreen Wagons 2"
+    "name": "SharedScreen Wagons 2",
+    "category": []
   },
   {
     "appid": 2790700,
-    "name": "SWAPMEAT"
+    "name": "SWAPMEAT",
+    "category": []
   },
   {
     "appid": 4710650,
-    "name": "The Shu legend"
+    "name": "The Shu legend",
+    "category": []
   },
   {
     "appid": 3547880,
-    "name": "FeeBay Simulator"
+    "name": "FeeBay Simulator",
+    "category": []
   },
   {
     "appid": 4674970,
-    "name": "Cheese Stack"
+    "name": "Cheese Stack",
+    "category": []
   },
   {
     "appid": 2613890,
-    "name": "Icaria"
+    "name": "Icaria",
+    "category": []
   },
   {
     "appid": 1222540,
-    "name": "Gastova: The Witches of Arkana"
+    "name": "Gastova: The Witches of Arkana",
+    "category": []
   },
   {
     "appid": 2555390,
-    "name": "Xanthiom 2"
+    "name": "Xanthiom 2",
+    "category": []
   },
   {
     "appid": 3072120,
-    "name": "Backrooms Lost Runners"
+    "name": "Backrooms Lost Runners",
+    "category": []
   },
   {
     "appid": 4160880,
-    "name": "Ember Seeker"
+    "name": "Ember Seeker",
+    "category": []
   },
   {
     "appid": 1675860,
-    "name": "Junkster"
+    "name": "Junkster",
+    "category": []
   },
   {
     "appid": 2258380,
-    "name": "Pact of Steel"
+    "name": "Pact of Steel",
+    "category": []
   },
   {
     "appid": 1944040,
-    "name": "goblinAmerica"
+    "name": "goblinAmerica",
+    "category": []
   },
   {
     "appid": 3976220,
-    "name": "Tollway Tycoon"
+    "name": "Tollway Tycoon",
+    "category": []
   },
   {
     "appid": 4169770,
-    "name": "Slice the Crops!"
+    "name": "Slice the Crops!",
+    "category": []
   },
   {
     "appid": 3765700,
-    "name": "Clown Camp"
+    "name": "Clown Camp",
+    "category": []
   },
   {
     "appid": 4774160,
-    "name": "Visual Novel: Chernobog's Seal"
+    "name": "Visual Novel: Chernobog's Seal",
+    "category": []
   },
   {
     "appid": 4356100,
-    "name": "Null Hørizøn"
+    "name": "Null Hørizøn",
+    "category": []
   },
   {
     "appid": 4725990,
-    "name": "101 Cats in Sydney"
+    "name": "101 Cats in Sydney",
+    "category": []
   },
   {
     "appid": 4726010,
-    "name": "101 Cats in Munich"
+    "name": "101 Cats in Munich",
+    "category": []
   },
   {
     "appid": 2483130,
-    "name": "Cube Kingdoms"
+    "name": "Cube Kingdoms",
+    "category": []
   },
   {
     "appid": 4789650,
-    "name": "Cowboy Busy: Mowdown"
+    "name": "Cowboy Busy: Mowdown",
+    "category": []
   },
   {
     "appid": 4785570,
-    "name": "Ghosts Keep Out"
+    "name": "Ghosts Keep Out",
+    "category": []
   },
   {
     "appid": 4708650,
-    "name": "Blockmind"
+    "name": "Blockmind",
+    "category": []
   },
   {
     "appid": 4765580,
-    "name": "Brainrot Autobattler"
+    "name": "Brainrot Autobattler",
+    "category": []
   },
   {
     "appid": 4725970,
-    "name": "101 Dogs Hidden in London"
+    "name": "101 Dogs Hidden in London",
+    "category": []
   },
   {
     "appid": 4746070,
-    "name": "Eldara"
+    "name": "Eldara",
+    "category": []
   },
   {
     "appid": 3403590,
-    "name": "Glimvale : My Mini Overworld"
+    "name": "Glimvale : My Mini Overworld",
+    "category": []
   },
   {
     "appid": 4745450,
-    "name": "Cradle of the Dark Brood"
+    "name": "Cradle of the Dark Brood",
+    "category": []
   },
   {
     "appid": 4708610,
-    "name": "PixelBoss: Shattered Depths"
+    "name": "PixelBoss: Shattered Depths",
+    "category": []
   },
   {
     "appid": 4391870,
-    "name": "Bounty Pro Pulling"
+    "name": "Bounty Pro Pulling",
+    "category": []
   },
   {
     "appid": 3864450,
-    "name": "Goblin Company"
+    "name": "Goblin Company",
+    "category": []
   },
   {
     "appid": 4618160,
-    "name": "Lobotomy"
+    "name": "Lobotomy",
+    "category": []
   },
   {
     "appid": 4541910,
-    "name": "Agari — Riichi Mahjong"
+    "name": "Agari — Riichi Mahjong",
+    "category": []
   },
   {
     "appid": 4705620,
-    "name": "WHERE the F$CK is my BITCOIN ⁉️"
+    "name": "WHERE the F$CK is my BITCOIN ⁉️",
+    "category": []
   },
   {
     "appid": 4733610,
-    "name": "Tilt It! Golf"
+    "name": "Tilt It! Golf",
+    "category": []
   },
   {
     "appid": 4699110,
-    "name": "Crococo"
+    "name": "Crococo",
+    "category": []
   },
   {
     "appid": 4009480,
-    "name": "Morbus"
+    "name": "Morbus",
+    "category": []
   },
   {
     "appid": 3935130,
-    "name": "Folklore Reloaded"
+    "name": "Folklore Reloaded",
+    "category": []
   },
   {
     "appid": 4782160,
-    "name": "Lawnmower Game Horrorland"
+    "name": "Lawnmower Game Horrorland",
+    "category": []
   },
   {
     "appid": 3975750,
-    "name": "The Gate Must Stand"
+    "name": "The Gate Must Stand",
+    "category": []
   },
   {
     "appid": 4600670,
-    "name": "Life in Tudorofka"
+    "name": "Life in Tudorofka",
+    "category": []
   },
   {
     "appid": 4014340,
-    "name": "100 Railway Cats"
+    "name": "100 Railway Cats",
+    "category": []
   },
   {
     "appid": 4315850,
-    "name": "Building 0: Hakuei University"
+    "name": "Building 0: Hakuei University",
+    "category": []
   },
   {
     "appid": 4785480,
-    "name": "Assassin Of Spider 2: 2099"
+    "name": "Assassin Of Spider 2: 2099",
+    "category": []
   },
   {
     "appid": 3428570,
-    "name": "Teller's Duty"
+    "name": "Teller's Duty",
+    "category": []
   },
   {
     "appid": 1601330,
-    "name": "Survival Machine"
+    "name": "Survival Machine",
+    "category": []
   },
   {
     "appid": 4222060,
-    "name": "Girl with gun"
+    "name": "Girl with gun",
+    "category": []
   },
   {
     "appid": 4767920,
-    "name": "Friendly Fire"
+    "name": "Friendly Fire",
+    "category": []
   },
   {
     "appid": 4787850,
-    "name": "Sad Virus Up & Up"
+    "name": "Sad Virus Up & Up",
+    "category": []
   },
   {
     "appid": 4322960,
-    "name": "Trail & Error"
+    "name": "Trail & Error",
+    "category": []
   },
   {
     "appid": 4682460,
-    "name": "G-MODEアーカイブス+ パックマン"
+    "name": "G-MODEアーカイブス+ パックマン",
+    "category": []
   },
   {
     "appid": 3504980,
-    "name": "MuteX+"
+    "name": "MuteX+",
+    "category": []
   },
   {
     "appid": 4545200,
-    "name": "Broken Crown"
+    "name": "Broken Crown",
+    "category": []
   },
   {
     "appid": 3391920,
-    "name": "Teddy Roller 2"
+    "name": "Teddy Roller 2",
+    "category": []
   },
   {
     "appid": 4503710,
-    "name": "SAMURAI CLICKER Infinite Build Mastery"
+    "name": "SAMURAI CLICKER Infinite Build Mastery",
+    "category": []
   },
   {
     "appid": 4775070,
-    "name": "Eternal Onslaught"
+    "name": "Eternal Onslaught",
+    "category": []
   },
   {
     "appid": 1627060,
-    "name": "Karting4Fun"
+    "name": "Karting4Fun",
+    "category": []
   },
   {
     "appid": 4228920,
-    "name": "Slime Tempest"
+    "name": "Slime Tempest",
+    "category": []
   },
   {
     "appid": 3424930,
-    "name": "Tome of the Damned"
+    "name": "Tome of the Damned",
+    "category": []
   },
   {
     "appid": 3121810,
-    "name": "ALARIC"
+    "name": "ALARIC",
+    "category": []
   },
   {
     "appid": 3719540,
-    "name": "TOTAL DRIFTIN': Touge Dreams"
+    "name": "TOTAL DRIFTIN': Touge Dreams",
+    "category": []
   },
   {
     "appid": 3421050,
-    "name": "Keepers of the Keep"
+    "name": "Keepers of the Keep",
+    "category": []
   },
   {
     "appid": 3779710,
-    "name": "CINESCAPE VR"
+    "name": "CINESCAPE VR",
+    "category": []
   },
   {
     "appid": 3237030,
-    "name": "Black Zen White"
+    "name": "Black Zen White",
+    "category": []
   },
   {
     "appid": 3915540,
-    "name": "Animal Times"
+    "name": "Animal Times",
+    "category": []
   },
   {
     "appid": 4719350,
-    "name": "A DAY TO REMEMBER"
+    "name": "A DAY TO REMEMBER",
+    "category": []
   },
   {
     "appid": 4699040,
-    "name": "Lumber Jax"
+    "name": "Lumber Jax",
+    "category": []
   },
   {
     "appid": 4687700,
-    "name": "Idle Asteroids"
+    "name": "Idle Asteroids",
+    "category": []
   },
   {
     "appid": 4323810,
-    "name": "nonogram"
+    "name": "nonogram",
+    "category": []
   },
   {
     "appid": 4765440,
-    "name": "Rat Musou"
+    "name": "Rat Musou",
+    "category": []
   },
   {
     "appid": 4732870,
-    "name": "Tidal Strings"
+    "name": "Tidal Strings",
+    "category": []
   },
   {
     "appid": 4663020,
-    "name": "Escape The Complex"
+    "name": "Escape The Complex",
+    "category": []
   },
   {
     "appid": 4787030,
-    "name": "Merge Hidden 合成寻物"
+    "name": "Merge Hidden 合成寻物",
+    "category": []
   },
   {
     "appid": 4754140,
-    "name": "ENDLESS SIGNAL"
+    "name": "ENDLESS SIGNAL",
+    "category": []
   },
   {
     "appid": 3804330,
-    "name": "Loop Fighter"
+    "name": "Loop Fighter",
+    "category": []
   },
   {
     "appid": 4754650,
-    "name": "Space Pew Pew"
+    "name": "Space Pew Pew",
+    "category": []
   },
   {
     "appid": 4727630,
-    "name": "Sudoku Infinity"
+    "name": "Sudoku Infinity",
+    "category": []
   },
   {
     "appid": 4754000,
-    "name": "I FORGOT TO TAKE THE CHICKEN OUT OF THE FREEZER"
+    "name": "I FORGOT TO TAKE THE CHICKEN OUT OF THE FREEZER",
+    "category": []
   },
   {
     "appid": 4736620,
-    "name": "Reverie Unbound"
+    "name": "Reverie Unbound",
+    "category": []
   },
   {
     "appid": 4225020,
-    "name": "SILVARN"
+    "name": "SILVARN",
+    "category": []
   },
   {
     "appid": 3936530,
-    "name": "Pro Cycling Manager 26"
+    "name": "Pro Cycling Manager 26",
+    "category": []
   },
   {
     "appid": 4081170,
-    "name": "Phone Flipper Simulator"
+    "name": "Phone Flipper Simulator",
+    "category": []
   },
   {
     "appid": 4620740,
-    "name": "Storage 8"
+    "name": "Storage 8",
+    "category": []
   },
   {
     "appid": 3569560,
-    "name": "The Escape to the Afterlife"
+    "name": "The Escape to the Afterlife",
+    "category": []
   },
   {
     "appid": 2854210,
-    "name": "HaeTae: Guardians"
+    "name": "HaeTae: Guardians",
+    "category": []
   },
   {
     "appid": 1416380,
-    "name": "Luna's Adventure: The Overlord"
+    "name": "Luna's Adventure: The Overlord",
+    "category": []
   },
   {
     "appid": 2661490,
-    "name": "Magia y Demonios"
+    "name": "Magia y Demonios",
+    "category": []
   },
   {
     "appid": 4021730,
-    "name": "Bee Streamer Idler"
+    "name": "Bee Streamer Idler",
+    "category": []
   },
   {
     "appid": 4566360,
-    "name": "Dead Head Drive"
+    "name": "Dead Head Drive",
+    "category": []
   },
   {
     "appid": 4654510,
-    "name": "Erareset: Rogue Forum"
+    "name": "Erareset: Rogue Forum",
+    "category": []
   },
   {
     "appid": 4553770,
-    "name": "Politisim"
+    "name": "Politisim",
+    "category": []
   },
   {
     "appid": 4110280,
-    "name": "Block In"
+    "name": "Block In",
+    "category": []
   },
   {
     "appid": 4754670,
-    "name": "Japanese with Mayu"
+    "name": "Japanese with Mayu",
+    "category": []
   },
   {
     "appid": 4285580,
-    "name": "Retrowave Barro Crazy Drift"
+    "name": "Retrowave Barro Crazy Drift",
+    "category": []
   },
   {
     "appid": 4747110,
-    "name": "Not A Customer"
+    "name": "Not A Customer",
+    "category": []
   },
   {
     "appid": 4672380,
-    "name": "H-Virus: Succubus Outbreak"
+    "name": "H-Virus: Succubus Outbreak",
+    "category": []
   },
   {
     "appid": 4771360,
-    "name": "Trail of Gods: The Cursed Island"
+    "name": "Trail of Gods: The Cursed Island",
+    "category": []
   },
   {
     "appid": 4682760,
-    "name": "Silk Home: echoes of the forbidden"
+    "name": "Silk Home: echoes of the forbidden",
+    "category": []
   },
   {
     "appid": 4115690,
-    "name": "Macrolens: The Slimes"
+    "name": "Macrolens: The Slimes",
+    "category": []
   },
   {
     "appid": 4766600,
-    "name": "Total Simp Death"
+    "name": "Total Simp Death",
+    "category": []
   },
   {
     "appid": 4267710,
-    "name": "Seeing Double"
+    "name": "Seeing Double",
+    "category": []
   },
   {
     "appid": 4763730,
-    "name": "Hunk Battle Gems"
+    "name": "Hunk Battle Gems",
+    "category": []
   },
   {
     "appid": 4730950,
-    "name": "BrightGlade Tales"
+    "name": "BrightGlade Tales",
+    "category": []
   },
   {
     "appid": 4625470,
-    "name": "Pixmox"
+    "name": "Pixmox",
+    "category": []
   },
   {
     "appid": 4750290,
-    "name": "Liminal 98"
+    "name": "Liminal 98",
+    "category": []
   },
   {
     "appid": 4657290,
-    "name": "Galactic Patrol"
+    "name": "Galactic Patrol",
+    "category": []
   },
   {
     "appid": 4788840,
-    "name": "The Big Owl Night"
+    "name": "The Big Owl Night",
+    "category": []
   },
   {
     "appid": 4349160,
-    "name": "STROZOWKA"
+    "name": "STROZOWKA",
+    "category": []
   },
   {
     "appid": 4773640,
-    "name": "PNG BATTLE"
+    "name": "PNG BATTLE",
+    "category": []
   },
   {
     "appid": 4767840,
-    "name": "Escape the Marine Lab"
+    "name": "Escape the Marine Lab",
+    "category": []
   },
   {
     "appid": 4712350,
-    "name": "HypnoTiles"
+    "name": "HypnoTiles",
+    "category": []
   },
   {
     "appid": 4692970,
-    "name": "Lockdown"
+    "name": "Lockdown",
+    "category": []
   },
   {
     "appid": 4776790,
-    "name": "Puzzle O´Matic"
+    "name": "Puzzle O´Matic",
+    "category": []
   },
   {
     "appid": 4754780,
-    "name": "MixCD"
+    "name": "MixCD",
+    "category": []
   },
   {
     "appid": 4701630,
-    "name": "Incense Nook"
+    "name": "Incense Nook",
+    "category": []
   },
   {
     "appid": 4611470,
-    "name": "HexTrial A C.O.R.E. Cognitive Test"
+    "name": "HexTrial A C.O.R.E. Cognitive Test",
+    "category": []
   },
   {
     "appid": 4341690,
-    "name": "How Much Is ?"
+    "name": "How Much Is ?",
+    "category": []
   },
   {
     "appid": 3423390,
-    "name": "My Donut"
+    "name": "My Donut",
+    "category": []
   },
   {
     "appid": 4764100,
-    "name": "PoopooDino"
+    "name": "PoopooDino",
+    "category": []
   },
   {
     "appid": 4728070,
-    "name": "The Crystalline Realm"
+    "name": "The Crystalline Realm",
+    "category": []
   },
   {
     "appid": 4430050,
-    "name": "SLOP FIGHTER"
+    "name": "SLOP FIGHTER",
+    "category": []
   },
   {
     "appid": 4749470,
-    "name": "SongSurfer"
+    "name": "SongSurfer",
+    "category": []
   },
   {
     "appid": 4719980,
-    "name": "Man of Y"
+    "name": "Man of Y",
+    "category": []
   },
   {
     "appid": 4130870,
-    "name": "Pinball Bounce 2d"
+    "name": "Pinball Bounce 2d",
+    "category": []
   },
   {
     "appid": 4715660,
-    "name": "Cursed House 16"
+    "name": "Cursed House 16",
+    "category": []
   },
   {
     "appid": 2489950,
-    "name": "Tales Of Wakana"
+    "name": "Tales Of Wakana",
+    "category": []
   },
   {
     "appid": 3834650,
-    "name": "怪棋物语"
+    "name": "怪棋物语",
+    "category": []
   },
   {
     "appid": 2327720,
-    "name": "City Car Driving 2.0"
+    "name": "City Car Driving 2.0",
+    "category": []
   },
   {
     "appid": 2210520,
-    "name": "COPA CITY"
+    "name": "COPA CITY",
+    "category": []
   },
   {
     "appid": 2695710,
-    "name": "God For A Day"
+    "name": "God For A Day",
+    "category": []
   },
   {
     "appid": 1009410,
-    "name": "Eternal Exodus"
+    "name": "Eternal Exodus",
+    "category": []
   },
   {
     "appid": 3761910,
-    "name": "Phantom Loop: Full Circle"
+    "name": "Phantom Loop: Full Circle",
+    "category": []
   },
   {
     "appid": 4687330,
-    "name": "Ultimate Blacksmith Tycoon ~The Appraiser-Shopkeeper Conquers the Blacksmith Trade~"
-  },
-  {
-    "appid": 1395930,
-    "name": "Break The Chain"
-  },
-  {
-    "appid": 4229600,
-    "name": "DON'T STOP SMILING"
-  },
-  {
-    "appid": 3772140,
-    "name": "Beggar's Life"
+    "name": "Ultimate Blacksmith Tycoon ~The Appraiser-Shopkeeper Conquers the Blacksmith Trade~",
+    "category": []
   },
   {
     "appid": 4794380,
-    "name": "Thousand Floors"
+    "name": "Thousand Floors",
+    "category": []
+  },
+  {
+    "appid": 1395930,
+    "name": "Break The Chain",
+    "category": []
+  },
+  {
+    "appid": 4229600,
+    "name": "DON'T STOP SMILING",
+    "category": []
+  },
+  {
+    "appid": 3772140,
+    "name": "Beggar's Life",
+    "category": []
   },
   {
     "appid": 4445360,
-    "name": "Grand Vegas Casino"
+    "name": "Grand Vegas Casino",
+    "category": []
   },
   {
     "appid": 4410980,
-    "name": "Backburner"
+    "name": "Backburner",
+    "category": []
   },
   {
     "appid": 4787740,
-    "name": "Lane 4: Track and Field Coach Simulator"
+    "name": "Lane 4: Track and Field Coach Simulator",
+    "category": []
   },
   {
     "appid": 4766160,
-    "name": "Rock,Paper,Scissors,SHOOT!"
+    "name": "Rock,Paper,Scissors,SHOOT!",
+    "category": []
   },
   {
     "appid": 3792530,
-    "name": "Playback"
+    "name": "Playback",
+    "category": []
   },
   {
     "appid": 4680960,
-    "name": "Fire Lookout: Abandoned Post"
+    "name": "Fire Lookout: Abandoned Post",
+    "category": []
   },
   {
     "appid": 3882270,
-    "name": "idel world"
+    "name": "idel world",
+    "category": []
   },
   {
     "appid": 4779360,
-    "name": "Day Trade Coach"
+    "name": "Day Trade Coach",
+    "category": []
   },
   {
     "appid": 3205520,
-    "name": "Kooeh: A Timeless Delight"
+    "name": "Kooeh: A Timeless Delight",
+    "category": []
   },
   {
     "appid": 4761980,
-    "name": "College Quest"
+    "name": "College Quest",
+    "category": []
   },
   {
     "appid": 4381330,
-    "name": "Disharmony"
+    "name": "Disharmony",
+    "category": []
   },
   {
     "appid": 4797940,
-    "name": "Gun Cultivate"
+    "name": "Gun Cultivate",
+    "category": []
   },
   {
     "appid": 4764570,
-    "name": "Kiki's Potion"
+    "name": "Kiki's Potion",
+    "category": []
   },
   {
     "appid": 4594000,
-    "name": "Dino Goodbye"
+    "name": "Dino Goodbye",
+    "category": []
   },
   {
     "appid": 4783420,
-    "name": "Ashentia Hauntings 2"
+    "name": "Ashentia Hauntings 2",
+    "category": []
   },
   {
     "appid": 4701420,
-    "name": "Trust Me"
+    "name": "Trust Me",
+    "category": []
   },
   {
     "appid": 4539460,
-    "name": "Fragments of Fear"
+    "name": "Fragments of Fear",
+    "category": []
   },
   {
     "appid": 4503540,
-    "name": "Fomo-trading"
+    "name": "Fomo-trading",
+    "category": []
   },
   {
     "appid": 4774270,
-    "name": "RE_ALLOC"
+    "name": "RE_ALLOC",
+    "category": []
   },
   {
     "appid": 4065490,
-    "name": "The Last Hope: Exodus"
+    "name": "The Last Hope: Exodus",
+    "category": []
   },
   {
     "appid": 4796850,
-    "name": "LIMINAL ESCAPE"
+    "name": "LIMINAL ESCAPE",
+    "category": []
   },
   {
     "appid": 4778860,
-    "name": "真弓-Mayumi-"
+    "name": "真弓-Mayumi-",
+    "category": []
   },
   {
     "appid": 4248870,
-    "name": "Incremental Ragebait"
+    "name": "Incremental Ragebait",
+    "category": []
   },
   {
     "appid": 4642730,
-    "name": "Optical Shop Simulator"
+    "name": "Optical Shop Simulator",
+    "category": []
   },
   {
     "appid": 4748040,
-    "name": "我的修仙日志 Cultivation Journal"
+    "name": "我的修仙日志 Cultivation Journal",
+    "category": []
   },
   {
     "appid": 3483510,
-    "name": "The Adventures of Elliot: The Millennium Tales"
+    "name": "The Adventures of Elliot: The Millennium Tales",
+    "category": []
   },
   {
     "appid": 4745770,
-    "name": "DreamRace"
+    "name": "DreamRace",
+    "category": []
   },
   {
     "appid": 4159000,
-    "name": "BunnyBakery"
+    "name": "BunnyBakery",
+    "category": []
   },
   {
     "appid": 3354200,
-    "name": "Bakso Simulator 2"
+    "name": "Bakso Simulator 2",
+    "category": []
   },
   {
     "appid": 4045010,
-    "name": "Meowtabolism - Examining Feline Behavior within Unicellular Algae"
+    "name": "Meowtabolism - Examining Feline Behavior within Unicellular Algae",
+    "category": []
   },
   {
     "appid": 4715350,
-    "name": "Room: 405 | Love Beyond Reality"
+    "name": "Room: 405 | Love Beyond Reality",
+    "category": []
   },
   {
     "appid": 2430020,
-    "name": "Infinium"
+    "name": "Infinium",
+    "category": []
   },
   {
     "appid": 3588170,
-    "name": "Daughter of the Rift"
+    "name": "Daughter of the Rift",
+    "category": []
   },
   {
     "appid": 4756480,
-    "name": "Cricket Captain 2026"
+    "name": "Cricket Captain 2026",
+    "category": []
   },
   {
     "appid": 3734560,
-    "name": "Midnight Train"
+    "name": "Midnight Train",
+    "category": []
   },
   {
     "appid": 4093630,
-    "name": "Crime Shadows: Stolen Spotlight Collector's Edition"
+    "name": "Crime Shadows: Stolen Spotlight Collector's Edition",
+    "category": []
   },
   {
     "appid": 4447890,
-    "name": "Soccer Kid Collection (QUByte Classics)"
+    "name": "Soccer Kid Collection (QUByte Classics)",
+    "category": []
   },
   {
     "appid": 1642440,
-    "name": "Kleopatra"
+    "name": "Kleopatra",
+    "category": []
   },
   {
     "appid": 4192480,
-    "name": "RE-TAPED"
+    "name": "RE-TAPED",
+    "category": []
   },
   {
     "appid": 4292150,
-    "name": "Songtail: Whiskers of Destiny"
+    "name": "Songtail: Whiskers of Destiny",
+    "category": []
   },
   {
     "appid": 4089110,
-    "name": "Seal of Shadows"
+    "name": "Seal of Shadows",
+    "category": []
   },
   {
     "appid": 4696530,
-    "name": "KRYONULL"
+    "name": "KRYONULL",
+    "category": []
   },
   {
     "appid": 4659370,
-    "name": "The Last Elf"
+    "name": "The Last Elf",
+    "category": []
   },
   {
     "appid": 4727880,
-    "name": "Hold The Line"
+    "name": "Hold The Line",
+    "category": []
   },
   {
     "appid": 3223170,
-    "name": "ChessRPG"
+    "name": "ChessRPG",
+    "category": []
   },
   {
     "appid": 3459400,
-    "name": "Tell Me Owl"
+    "name": "Tell Me Owl",
+    "category": []
   },
   {
     "appid": 4306300,
-    "name": "Saint George's Tavern"
+    "name": "Saint George's Tavern",
+    "category": []
   },
   {
     "appid": 4769620,
-    "name": "Isle Of Nexaryth"
+    "name": "Isle Of Nexaryth",
+    "category": []
   },
   {
     "appid": 4314500,
-    "name": "Waste Runner: Critical Waste"
+    "name": "Waste Runner: Critical Waste",
+    "category": []
   },
   {
     "appid": 3822040,
-    "name": "RouletteCircus"
+    "name": "RouletteCircus",
+    "category": []
   },
   {
     "appid": 4701920,
-    "name": "After the Hero"
+    "name": "After the Hero",
+    "category": []
   },
   {
     "appid": 4803470,
-    "name": "Dead Station Together"
+    "name": "Dead Station Together",
+    "category": []
   },
   {
     "appid": 4781730,
-    "name": "Vektor Chess"
+    "name": "Vektor Chess",
+    "category": []
   },
   {
     "appid": 4771190,
-    "name": "Storage 8 VR"
+    "name": "Storage 8 VR",
+    "category": []
   },
   {
     "appid": 4751870,
-    "name": "Play and Learn English"
+    "name": "Play and Learn English",
+    "category": []
   },
   {
     "appid": 4502020,
-    "name": "Sneaky Bimbuls"
+    "name": "Sneaky Bimbuls",
+    "category": []
   },
   {
     "appid": 4414480,
-    "name": "Logissey"
+    "name": "Logissey",
+    "category": []
   },
   {
     "appid": 4236490,
-    "name": "Trauma Pets"
+    "name": "Trauma Pets",
+    "category": []
   },
   {
     "appid": 2095440,
-    "name": "Beat The Markets"
+    "name": "Beat The Markets",
+    "category": []
   },
   {
     "appid": 4668480,
-    "name": "Downer Management"
+    "name": "Downer Management",
+    "category": []
   },
   {
     "appid": 4645430,
-    "name": "うさぎとたまきはお休みちゅー！3"
+    "name": "うさぎとたまきはお休みちゅー！3",
+    "category": []
   },
   {
     "appid": 4636490,
-    "name": "Mahjuro"
+    "name": "Mahjuro",
+    "category": []
   },
   {
     "appid": 4288830,
-    "name": "UNKNOWN CONQUEST"
+    "name": "UNKNOWN CONQUEST",
+    "category": []
   },
   {
     "appid": 3521030,
-    "name": "Chaotic Cute Ghost"
+    "name": "Chaotic Cute Ghost",
+    "category": []
   },
   {
     "appid": 4756570,
-    "name": "Darkness Has Eyes"
+    "name": "Darkness Has Eyes",
+    "category": []
   },
   {
     "appid": 4717690,
-    "name": "The Cornerman"
+    "name": "The Cornerman",
+    "category": []
   },
   {
     "appid": 4687560,
-    "name": "The Tenth Minute"
+    "name": "The Tenth Minute",
+    "category": []
   },
   {
     "appid": 4566370,
-    "name": "SKY LEAP PIXEL SKY"
+    "name": "SKY LEAP PIXEL SKY",
+    "category": []
   },
   {
     "appid": 4406250,
-    "name": "Crown Chained"
+    "name": "Crown Chained",
+    "category": []
   },
   {
     "appid": 4004940,
-    "name": "Race! Then Retry..."
+    "name": "Race! Then Retry...",
+    "category": []
   },
   {
     "appid": 4797930,
-    "name": "Ghost Tomb"
+    "name": "Ghost Tomb",
+    "category": []
   },
   {
     "appid": 4790830,
-    "name": "The Da Vinci Cryptex 5"
+    "name": "The Da Vinci Cryptex 5",
+    "category": []
   },
   {
     "appid": 4775190,
-    "name": "BlassHole"
+    "name": "BlassHole",
+    "category": []
   },
   {
     "appid": 4734610,
-    "name": "Reactor Critical"
+    "name": "Reactor Critical",
+    "category": []
   },
   {
     "appid": 4694800,
-    "name": "Pollux The Hero in The BOX"
+    "name": "Pollux The Hero in The BOX",
+    "category": []
   },
   {
     "appid": 4677090,
-    "name": "The Flame and the Fart"
+    "name": "The Flame and the Fart",
+    "category": []
   },
   {
     "appid": 4795080,
-    "name": "Retro Clicker"
+    "name": "Retro Clicker",
+    "category": []
   },
   {
     "appid": 4762630,
-    "name": "Lich King Bond"
+    "name": "Lich King Bond",
+    "category": []
   },
   {
     "appid": 4762620,
-    "name": "Force Purge"
+    "name": "Force Purge",
+    "category": []
   },
   {
     "appid": 4762610,
-    "name": "Lord Return"
+    "name": "Lord Return",
+    "category": []
   },
   {
     "appid": 4717430,
-    "name": "Cricket Management Tycoon"
+    "name": "Cricket Management Tycoon",
+    "category": []
   },
   {
     "appid": 4705790,
-    "name": "Night Shift SC"
+    "name": "Night Shift SC",
+    "category": []
   },
   {
     "appid": 4694380,
-    "name": "Today Tomorrow and the Next"
+    "name": "Today Tomorrow and the Next",
+    "category": []
   },
   {
     "appid": 4643280,
-    "name": "CLAW - Cosmic Legendary Animal Warfare"
+    "name": "CLAW - Cosmic Legendary Animal Warfare",
+    "category": []
   },
   {
     "appid": 4634810,
-    "name": "Crisis R"
+    "name": "Crisis R",
+    "category": []
   },
   {
     "appid": 4575980,
-    "name": "CLAWS: Command Line Advanced Warfare System"
+    "name": "CLAWS: Command Line Advanced Warfare System",
+    "category": []
   },
   {
     "appid": 4463660,
-    "name": "oooÖ"
+    "name": "oooÖ",
+    "category": []
   },
   {
     "appid": 4285950,
-    "name": "Key Clover"
+    "name": "Key Clover",
+    "category": []
   },
   {
     "appid": 3739720,
-    "name": "Obscuris"
+    "name": "Obscuris",
+    "category": []
   },
   {
     "appid": 4797950,
-    "name": "Magic Pig"
+    "name": "Magic Pig",
+    "category": []
   },
   {
     "appid": 4769400,
-    "name": "Just a stroll in the forest"
+    "name": "Just a stroll in the forest",
+    "category": []
   },
   {
     "appid": 4763100,
-    "name": "Ten Rings 2"
+    "name": "Ten Rings 2",
+    "category": []
   },
   {
     "appid": 4758660,
-    "name": "Vegas Hold'Em: Ultimate Casino Hold'em Poker Collection With Strategy Trainer"
+    "name": "Vegas Hold'Em: Ultimate Casino Hold'em Poker Collection With Strategy Trainer",
+    "category": []
   },
   {
     "appid": 4747060,
-    "name": "GobboQuestIdle"
+    "name": "GobboQuestIdle",
+    "category": []
   },
   {
     "appid": 4706680,
-    "name": "You Within Me"
+    "name": "You Within Me",
+    "category": []
   },
   {
     "appid": 4702220,
-    "name": "The Cursed Land"
+    "name": "The Cursed Land",
+    "category": []
   },
   {
     "appid": 4685090,
-    "name": "Hold'em Fold'em Poker"
+    "name": "Hold'em Fold'em Poker",
+    "category": []
   },
   {
     "appid": 4674040,
-    "name": "Eternal Exorcism"
+    "name": "Eternal Exorcism",
+    "category": []
   },
   {
     "appid": 4299160,
-    "name": "Atomic Synthesis"
+    "name": "Atomic Synthesis",
+    "category": []
   },
   {
     "appid": 4125810,
-    "name": "NZ78"
+    "name": "NZ78",
+    "category": []
   },
   {
     "appid": 4095440,
-    "name": "Bit Mine Clicker"
+    "name": "Bit Mine Clicker",
+    "category": []
   },
   {
     "appid": 4768730,
-    "name": "Petganza"
+    "name": "Petganza",
+    "category": []
   },
   {
     "appid": 4768420,
-    "name": "Argonauts Agency: When Spring Withered"
+    "name": "Argonauts Agency: When Spring Withered",
+    "category": []
   },
   {
     "appid": 4756320,
-    "name": "魔導少女イバラ"
+    "name": "魔導少女イバラ",
+    "category": []
   },
   {
     "appid": 4747910,
-    "name": "Spitter"
+    "name": "Spitter",
+    "category": []
   },
   {
     "appid": 4745530,
-    "name": "Again：Loop"
+    "name": "Again：Loop",
+    "category": []
   },
   {
     "appid": 4735560,
-    "name": "The Order of Things"
+    "name": "The Order of Things",
+    "category": []
   },
   {
     "appid": 4733630,
-    "name": "Mechgrave Overdrive"
+    "name": "Mechgrave Overdrive",
+    "category": []
   },
   {
     "appid": 4704490,
-    "name": "Fortune Pact"
+    "name": "Fortune Pact",
+    "category": []
   },
   {
     "appid": 4609400,
-    "name": "Errata"
+    "name": "Errata",
+    "category": []
   },
   {
     "appid": 4553310,
-    "name": "海賊物語"
+    "name": "海賊物語",
+    "category": []
   },
   {
     "appid": 4353780,
-    "name": "Knave Craps"
+    "name": "Knave Craps",
+    "category": []
   },
   {
     "appid": 4162640,
-    "name": "Super Billards Maker"
+    "name": "Super Billards Maker",
+    "category": []
   },
   {
     "appid": 1888760,
-    "name": "Tower Defense Monster"
+    "name": "Tower Defense Monster",
+    "category": []
   },
   {
     "appid": 4788710,
-    "name": "Ayuwoki Army"
+    "name": "Ayuwoki Army",
+    "category": []
   },
   {
     "appid": 4785050,
-    "name": "Bonk Market"
+    "name": "Bonk Market",
+    "category": []
   },
   {
     "appid": 4773680,
-    "name": "Cat Store"
+    "name": "Cat Store",
+    "category": []
   },
   {
     "appid": 4766570,
-    "name": "Anomaly Watcher"
+    "name": "Anomaly Watcher",
+    "category": []
   },
   {
     "appid": 4765120,
-    "name": "Dechamel Chess"
+    "name": "Dechamel Chess",
+    "category": []
   },
   {
     "appid": 4733640,
-    "name": "Neon Shard"
+    "name": "Neon Shard",
+    "category": []
+  },
+  {
+    "appid": 4731130,
+    "name": "Gospel Snow Town",
+    "category": []
   },
   {
     "appid": 4727130,
-    "name": "Backrooms: The Void"
+    "name": "Backrooms: The Void",
+    "category": []
   },
   {
     "appid": 4727060,
-    "name": "Street Workout Challenge"
+    "name": "Street Workout Challenge",
+    "category": []
   },
   {
     "appid": 4711650,
-    "name": "Geometry Guardian"
+    "name": "Geometry Guardian",
+    "category": []
   },
   {
     "appid": 4698440,
-    "name": "CTR"
+    "name": "CTR",
+    "category": []
   },
   {
     "appid": 4694070,
-    "name": "Roses In Concrete"
+    "name": "Roses In Concrete",
+    "category": []
   },
   {
     "appid": 4689130,
-    "name": "[Room Escape] April First"
+    "name": "[Room Escape] April First",
+    "category": []
   },
   {
     "appid": 4552860,
-    "name": "Illustack"
+    "name": "Illustack",
+    "category": []
   },
   {
     "appid": 4338450,
-    "name": "Heavy Is The Crown"
+    "name": "Heavy Is The Crown",
+    "category": []
   },
   {
     "appid": 4177170,
-    "name": "Slot Shogun"
+    "name": "Slot Shogun",
+    "category": []
   },
   {
     "appid": 4790940,
-    "name": "Vibe or Dare"
+    "name": "Vibe or Dare",
+    "category": []
   },
   {
     "appid": 4778900,
-    "name": "Blades of Four"
+    "name": "Blades of Four",
+    "category": []
   },
   {
     "appid": 4778350,
-    "name": "Cold Dark"
+    "name": "Cold Dark",
+    "category": []
   },
   {
     "appid": 4777320,
-    "name": "Rogue Jet Fighter"
+    "name": "Rogue Jet Fighter",
+    "category": []
   },
   {
     "appid": 4774790,
-    "name": "OSAKANA PING PONG"
+    "name": "OSAKANA PING PONG",
+    "category": []
   },
   {
     "appid": 4762280,
-    "name": "MINESTRIKE SURVIVORS"
+    "name": "MINESTRIKE SURVIVORS",
+    "category": []
   },
   {
     "appid": 4749420,
-    "name": "Suck Game For Friend"
+    "name": "Suck Game For Friend",
+    "category": []
   },
   {
     "appid": 4738740,
-    "name": "Dodgeball"
+    "name": "Dodgeball",
+    "category": []
   },
   {
     "appid": 4736940,
-    "name": "Mary Editor"
+    "name": "Mary Editor",
+    "category": []
   },
   {
     "appid": 4736200,
-    "name": "Dial Z to Zombie: Zombies Attack the Beach"
+    "name": "Dial Z to Zombie: Zombies Attack the Beach",
+    "category": []
   },
   {
     "appid": 4721080,
-    "name": "ELEMENTAL RUN"
+    "name": "ELEMENTAL RUN",
+    "category": []
   },
   {
     "appid": 4717350,
-    "name": "Carnival Runner"
+    "name": "Carnival Runner",
+    "category": []
   },
   {
     "appid": 4710210,
-    "name": "Arcade Architect"
+    "name": "Arcade Architect",
+    "category": []
   },
   {
     "appid": 4701060,
-    "name": "Chess Flicks"
+    "name": "Chess Flicks",
+    "category": []
   },
   {
     "appid": 4696900,
-    "name": "Escape Wheel"
+    "name": "Escape Wheel",
+    "category": []
   },
   {
     "appid": 4653460,
-    "name": "Gravora"
+    "name": "Gravora",
+    "category": []
   },
   {
     "appid": 4617450,
-    "name": "VectorSmash!"
+    "name": "VectorSmash!",
+    "category": []
   },
   {
     "appid": 4616630,
-    "name": "Ranger: Far From Home"
+    "name": "Ranger: Far From Home",
+    "category": []
   },
   {
     "appid": 4574350,
-    "name": "Firedrip Arcade"
+    "name": "Firedrip Arcade",
+    "category": []
   },
   {
     "appid": 4569020,
-    "name": "Star Hero"
+    "name": "Star Hero",
+    "category": []
   },
   {
     "appid": 4296030,
-    "name": "Boo Boo Families"
+    "name": "Boo Boo Families",
+    "category": []
   },
   {
     "appid": 4791100,
-    "name": "KNEE SLIDE"
+    "name": "KNEE SLIDE",
+    "category": []
   },
   {
     "appid": 4788390,
-    "name": "Cyber-Nanotech Horde Survivor"
+    "name": "Cyber-Nanotech Horde Survivor",
+    "category": []
   },
   {
     "appid": 4772770,
-    "name": "Wild Climbers Peak Panic"
+    "name": "Wild Climbers Peak Panic",
+    "category": []
   },
   {
     "appid": 4767030,
-    "name": "Block Match"
+    "name": "Block Match",
+    "category": []
   },
   {
     "appid": 4759410,
-    "name": "Parkour & Freerunning"
+    "name": "Parkour & Freerunning",
+    "category": []
   },
   {
     "appid": 4738350,
-    "name": "Velvet Emergency"
+    "name": "Velvet Emergency",
+    "category": []
   },
   {
     "appid": 4737700,
-    "name": "Tempo Tabbies"
+    "name": "Tempo Tabbies",
+    "category": []
   },
   {
     "appid": 4710580,
-    "name": "Rocinha Wars"
+    "name": "Rocinha Wars",
+    "category": []
   },
   {
     "appid": 4673080,
-    "name": "Sloperator Inc."
+    "name": "Sloperator Inc.",
+    "category": []
   },
   {
     "appid": 4661630,
-    "name": "Collective Corp"
+    "name": "Collective Corp",
+    "category": []
   },
   {
     "appid": 4524140,
-    "name": "Hello,Little Green"
+    "name": "Hello,Little Green",
+    "category": []
   },
   {
     "appid": 4370360,
-    "name": "ShiroboTanks"
+    "name": "ShiroboTanks",
+    "category": []
+  },
+  {
+    "appid": 3559510,
+    "name": "Capsule Lover",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4398360,
+    "name": "Reverse Dream of the Menasphere",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 3559840,
+    "name": "Sakura Hime 6",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4032770,
+    "name": "Warrior of Lust",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4186160,
+    "name": "Naughty Doug",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4362860,
+    "name": "Manhandled With Care",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4709880,
+    "name": "JPMAC: Privileged",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 2651410,
+    "name": "The Endless Abyss: A Busty Cop’s Corrupted Soul",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 3828610,
+    "name": "Beauties and the Stranded",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4627510,
+    "name": "Hentai Glacial",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4260530,
+    "name": "Rina's Undercover Train Operation",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 3061560,
+    "name": "SKIBIDI",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4751670,
+    "name": "Hentai Clicker: Akira is streaming",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4216930,
+    "name": "Wicked Ways",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4633000,
+    "name": "Vital Signs",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 3125090,
+    "name": "FIGHTING GIRL YURI",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4400130,
+    "name": "Immortal Joan: Cyber Revolution",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4563960,
+    "name": "Hentai Overtime",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 3610840,
+    "name": "Gagged Love",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 2866440,
+    "name": "Lily’s Labyrinth of Lust",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 1846420,
+    "name": "Monsters and Elves",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4769850,
+    "name": "Prostitute Empire",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4543360,
+    "name": "The Office: Dirty Secrets",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4355850,
+    "name": "Under the Desk",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4668230,
+    "name": "My Neighbors are Actresses",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4762210,
+    "name": "Yandere Goth Boss 2: First Session",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4784930,
+    "name": "Princess Waifu",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4788540,
+    "name": "Help! My Giant Goth Girlfriend Is Insane",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4779510,
+    "name": "Masochist Heaven",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 4764700,
+    "name": "Sexy Furries: Fetish",
+    "category": [
+      "nsfw"
+    ]
+  },
+  {
+    "appid": 3943810,
+    "name": "CockZilla",
+    "category": [
+      "nsfw"
+    ]
   }
 ]
