@@ -1,7 +1,19 @@
 [
   {
-    "appid": 1478500,
-    "name": "Big Walk"
+    "appid": 4115450,
+    "name": "Phantom Blade Zero"
+  },
+  {
+    "appid": 2523770,
+    "name": "The Lord of the Rings: War in the North™ - Legacy Edition"
+  },
+  {
+    "appid": 1067360,
+    "name": "Pax Autocratica"
+  },
+  {
+    "appid": 1867240,
+    "name": "WARDOGS"
   },
   {
     "appid": 3812600,
@@ -12,40 +24,44 @@
     "name": "IRON NEST: Heavy Turret Simulator"
   },
   {
-    "appid": 4115450,
-    "name": "Phantom Blade Zero"
+    "appid": 1478500,
+    "name": "Big Walk"
   },
   {
-    "appid": 1067360,
-    "name": "Pax Autocratica"
-  },
-  {
-    "appid": 2523770,
-    "name": "The Lord of the Rings: War in the North™ - Legacy Edition"
-  },
-  {
-    "appid": 1867240,
-    "name": "WARDOGS"
-  },
-  {
-    "appid": 4108000,
-    "name": "Machine Party"
+    "appid": 2075800,
+    "name": "STAR WARS Zero Company™"
   },
   {
     "appid": 4570720,
     "name": "DragonSword : Awakening"
   },
   {
+    "appid": 460930,
+    "name": "Tom Clancy's Ghost Recon® Wildlands"
+  },
+  {
+    "appid": 1733690,
+    "name": "Mandate Order"
+  },
+  {
+    "appid": 4108000,
+    "name": "Machine Party"
+  },
+  {
     "appid": 4450620,
     "name": "GRAIN ROT"
   },
   {
-    "appid": 2142790,
-    "name": "Fields of Mistria"
+    "appid": 3929470,
+    "name": "Warhounds"
   },
   {
-    "appid": 460930,
-    "name": "Tom Clancy's Ghost Recon® Wildlands"
+    "appid": 3079210,
+    "name": "Hell Let Loose: Vietnam"
+  },
+  {
+    "appid": 2142790,
+    "name": "Fields of Mistria"
   },
   {
     "appid": 3282300,
@@ -56,116 +72,128 @@
     "name": "Corsair Cove"
   },
   {
-    "appid": 3787240,
-    "name": "MARVEL Tōkon: Fighting Souls"
-  },
-  {
     "appid": 4113940,
     "name": "Sovereign Tower"
-  },
-  {
-    "appid": 3929470,
-    "name": "Warhounds"
-  },
-  {
-    "appid": 2285550,
-    "name": "Doloc Town"
-  },
-  {
-    "appid": 1623730,
-    "name": "Palworld"
   },
   {
     "appid": 108600,
     "name": "Project Zomboid"
   },
   {
-    "appid": 2075800,
-    "name": "STAR WARS Zero Company™"
-  },
-  {
-    "appid": 3010850,
-    "name": "Gears of War: E-Day"
-  },
-  {
-    "appid": 3483740,
-    "name": "Cast n Chill"
-  },
-  {
-    "appid": 1733690,
-    "name": "Mandate Order"
-  },
-  {
-    "appid": 1091500,
-    "name": "Cyberpunk 2077"
+    "appid": 1623730,
+    "name": "Palworld"
   },
   {
     "appid": 3562580,
     "name": "Agefield High: Rock the School"
   },
   {
-    "appid": 606150,
-    "name": "Moonlighter"
+    "appid": 3167920,
+    "name": "Low-Budget Repairs"
   },
   {
-    "appid": 4657570,
-    "name": "SEXOPHOBIA 🔞"
-  },
-  {
-    "appid": 250900,
-    "name": "The Binding of Isaac: Rebirth"
-  },
-  {
-    "appid": 4704690,
-    "name": "MECCHA CHAMELEON"
+    "appid": 3787240,
+    "name": "MARVEL Tōkon: Fighting Souls"
   },
   {
     "appid": 1648360,
     "name": "Luminary"
   },
   {
-    "appid": 227300,
-    "name": "Euro Truck Simulator 2"
+    "appid": 974480,
+    "name": "Echoes of Mystralia"
   },
   {
-    "appid": 3079210,
-    "name": "Hell Let Loose: Vietnam"
+    "appid": 3483740,
+    "name": "Cast n Chill"
   },
   {
-    "appid": 3722330,
-    "name": "Shift At Midnight"
-  },
-  {
-    "appid": 3904850,
-    "name": "Approximately Up"
-  },
-  {
-    "appid": 2231380,
-    "name": "Tom Clancy's Ghost Recon® Breakpoint"
+    "appid": 4657570,
+    "name": "SEXOPHOBIA 🔞"
   },
   {
     "appid": 2584270,
     "name": "Mortal Shell II"
   },
   {
-    "appid": 974480,
-    "name": "Echoes of Mystralia"
+    "appid": 1091500,
+    "name": "Cyberpunk 2077"
+  },
+  {
+    "appid": 292000,
+    "name": "No More Room in Hell 2"
+  },
+  {
+    "appid": 250900,
+    "name": "The Binding of Isaac: Rebirth"
+  },
+  {
+    "appid": 227300,
+    "name": "Euro Truck Simulator 2"
+  },
+  {
+    "appid": 1574480,
+    "name": "Agent 64: Spies Never Die"
+  },
+  {
+    "appid": 2764460,
+    "name": "Sandustry"
+  },
+  {
+    "appid": 2231380,
+    "name": "Tom Clancy's Ghost Recon® Breakpoint"
+  },
+  {
+    "appid": 553850,
+    "name": "HELLDIVERS™ 2"
+  },
+  {
+    "appid": 4704690,
+    "name": "MECCHA CHAMELEON"
+  },
+  {
+    "appid": 3010850,
+    "name": "Gears of War: E-Day"
   },
   {
     "appid": 252490,
     "name": "Rust"
   },
   {
+    "appid": 3722330,
+    "name": "Shift At Midnight"
+  },
+  {
+    "appid": 4246860,
+    "name": "Security 51"
+  },
+  {
+    "appid": 4164790,
+    "name": "Survival Log"
+  },
+  {
+    "appid": 2285550,
+    "name": "Doloc Town"
+  },
+  {
+    "appid": 3527290,
+    "name": "PEAK"
+  },
+  {
+    "appid": 2358720,
+    "name": "Black Myth: Wukong"
+  },
+  {
     "appid": 4369130,
     "name": "Chop Chop Inc."
   },
   {
-    "appid": 2212910,
-    "name": "Expeditions: Samurai"
+    "appid": 2483190,
+    "name": "Forza Horizon 6"
   },
   {
-    "appid": 2651280,
-    "name": "Marvel's Spider-Man 2"
+    "appid": 3394840,
+    "name": "Clawed"
   },
   {
     "appid": 738520,
@@ -176,36 +204,32 @@
     "name": "Stardew Valley"
   },
   {
-    "appid": 1574480,
-    "name": "Agent 64: Spies Never Die"
+    "appid": 3904850,
+    "name": "Approximately Up"
   },
   {
-    "appid": 3423990,
-    "name": "Frozen Ship"
+    "appid": 2651280,
+    "name": "Marvel's Spider-Man 2"
   },
   {
-    "appid": 2001760,
-    "name": "Beast of Reincarnation"
+    "appid": 4243990,
+    "name": "Path of Idle: Old Gods Rising"
+  },
+  {
+    "appid": 606150,
+    "name": "Moonlighter"
   },
   {
     "appid": 381210,
     "name": "Dead by Daylight"
   },
   {
-    "appid": 4403260,
-    "name": "Swarm Bunker: Lust Defense"
+    "appid": 3240220,
+    "name": "Grand Theft Auto V Enhanced"
   },
   {
-    "appid": 2483190,
-    "name": "Forza Horizon 6"
-  },
-  {
-    "appid": 3712080,
-    "name": "Funnel Runners"
-  },
-  {
-    "appid": 3527290,
-    "name": "PEAK"
+    "appid": 3636770,
+    "name": "Servant of the Lake"
   },
   {
     "appid": 550,
@@ -216,76 +240,124 @@
     "name": "The Severed Gods"
   },
   {
-    "appid": 1144200,
-    "name": "Ready or Not"
+    "appid": 4855450,
+    "name": "不心动才有鬼"
   },
   {
     "appid": 1245620,
     "name": "ELDEN RING"
   },
   {
-    "appid": 3240220,
-    "name": "Grand Theft Auto V Enhanced"
-  },
-  {
-    "appid": 2436940,
-    "name": "Sephiria"
-  },
-  {
-    "appid": 4080220,
-    "name": "EA SPORTS FC™ 27"
-  },
-  {
-    "appid": 2358720,
-    "name": "Black Myth: Wukong"
-  },
-  {
-    "appid": 4246860,
-    "name": "Security 51"
+    "appid": 3712080,
+    "name": "Funnel Runners"
   },
   {
     "appid": 3932890,
     "name": "Escape from Tarkov"
   },
   {
+    "appid": 3091140,
+    "name": "Lootbound"
+  },
+  {
+    "appid": 2542020,
+    "name": "Duskfade"
+  },
+  {
+    "appid": 1144200,
+    "name": "Ready or Not"
+  },
+  {
+    "appid": 2880730,
+    "name": "AI2U: With You 'Til The End"
+  },
+  {
+    "appid": 2001760,
+    "name": "Beast of Reincarnation"
+  },
+  {
+    "appid": 376210,
+    "name": "The Isle"
+  },
+  {
+    "appid": 2212910,
+    "name": "Expeditions: Samurai"
+  },
+  {
     "appid": 3576350,
     "name": "Sex, Secrets & Used Tech"
   },
   {
-    "appid": 4265410,
-    "name": "Innocent Assault SS"
-  },
-  {
-    "appid": 4164790,
-    "name": "Survival Log"
-  },
-  {
-    "appid": 247970,
-    "name": "Korea. IL-2 Series"
-  },
-  {
-    "appid": 3995190,
-    "name": "Obsessed Lucy"
-  },
-  {
-    "appid": 3156770,
-    "name": "Witchfire"
-  },
-  {
-    "appid": 4145350,
-    "name": "Alice and the Devil's Prison"
-  },
-  {
-    "appid": 284160,
-    "name": "BeamNG.drive"
+    "appid": 4208140,
+    "name": "Defender of the Crown: The Legend Returns"
   },
   {
     "appid": 3732310,
     "name": "Dark Succubus"
   },
   {
+    "appid": 3423990,
+    "name": "Frozen Ship"
+  },
+  {
+    "appid": 4080220,
+    "name": "EA SPORTS FC™ 27"
+  },
+  {
+    "appid": 699130,
+    "name": "World War Z"
+  },
+  {
+    "appid": 3144340,
+    "name": "Cult of PiN"
+  },
+  {
+    "appid": 2436940,
+    "name": "Sephiria"
+  },
+  {
+    "appid": 1118520,
+    "name": "Paralives"
+  },
+  {
+    "appid": 3226060,
+    "name": "DreamEcho"
+  },
+  {
+    "appid": 4265410,
+    "name": "Innocent Assault SS"
+  },
+  {
+    "appid": 284160,
+    "name": "BeamNG.drive"
+  },
+  {
+    "appid": 3934250,
+    "name": "Village in the Shade"
+  },
+  {
+    "appid": 3321460,
+    "name": "Crimson Desert"
+  },
+  {
+    "appid": 4145350,
+    "name": "Alice and the Devil's Prison"
+  },
+  {
     "appid": 3953160,
     "name": "Human Farm : Investigation :"
+  },
+  {
+    "appid": 3751260,
+    "name": "The Blood of Dawnwalker"
+  },
+  {
+    "appid": 1671210,
+    "name": "DELTARUNE"
+  },
+  {
+    "appid": 2543830,
+    "name": "Way of the Hunter 2"
   },
   {
     "appid": 3751950,
@@ -296,952 +368,832 @@
     "name": "Baldur's Gate 3"
   },
   {
-    "appid": 3934250,
-    "name": "Village in the Shade"
-  },
-  {
-    "appid": 1118520,
-    "name": "Paralives"
-  },
-  {
-    "appid": 1913120,
-    "name": "Tears of Metal"
-  },
-  {
-    "appid": 376210,
-    "name": "The Isle"
-  },
-  {
-    "appid": 3501540,
-    "name": "Spiritstead"
-  },
-  {
-    "appid": 3144340,
-    "name": "Cult of PiN"
-  },
-  {
-    "appid": 2660230,
-    "name": "Kill The Shadow"
+    "appid": 2282790,
+    "name": "RIFTSTORM"
   },
   {
     "appid": 1808680,
     "name": "Snufkin: Melody of Moominvalley"
   },
   {
-    "appid": 1174180,
-    "name": "Red Dead Redemption 2"
-  },
-  {
-    "appid": 553850,
-    "name": "HELLDIVERS™ 2"
-  },
-  {
-    "appid": 2059170,
-    "name": "Quasimorph"
-  },
-  {
-    "appid": 548430,
-    "name": "Deep Rock Galactic"
-  },
-  {
-    "appid": 1817070,
-    "name": "Marvel’s Spider-Man Remastered"
-  },
-  {
-    "appid": 292000,
-    "name": "No More Room in Hell 2"
-  },
-  {
-    "appid": 699130,
-    "name": "World War Z"
-  },
-  {
-    "appid": 1671210,
-    "name": "DELTARUNE"
-  },
-  {
-    "appid": 949230,
-    "name": "Cities: Skylines II"
-  },
-  {
-    "appid": 3751260,
-    "name": "The Blood of Dawnwalker"
-  },
-  {
-    "appid": 3906260,
-    "name": "Red Masked Ronin: Desires and Shadows"
-  },
-  {
-    "appid": 3321460,
-    "name": "Crimson Desert"
-  },
-  {
-    "appid": 2350790,
-    "name": "Moonlighter 2: The Endless Vault"
-  },
-  {
-    "appid": 2282790,
-    "name": "RIFTSTORM"
-  },
-  {
-    "appid": 105600,
-    "name": "Terraria"
-  },
-  {
-    "appid": 2569760,
-    "name": "The Mound: Omen of Cthulhu"
-  },
-  {
-    "appid": 489830,
-    "name": "The Elder Scrolls V: Skyrim Special Edition"
-  },
-  {
-    "appid": 896250,
-    "name": "Liquidation"
-  },
-  {
-    "appid": 4012810,
-    "name": "STEINS;GATE RE:BOOT"
-  },
-  {
-    "appid": 2684630,
-    "name": "Endacopia"
-  },
-  {
-    "appid": 346110,
-    "name": "ARK: Survival Evolved"
-  },
-  {
-    "appid": 3808690,
-    "name": "Pathogenic"
-  },
-  {
-    "appid": 3558600,
-    "name": "Leafy Corner"
-  },
-  {
-    "appid": 2399830,
-    "name": "ARK: Survival Ascended"
-  },
-  {
-    "appid": 1962700,
-    "name": "Subnautica 2"
-  },
-  {
-    "appid": 518790,
-    "name": "theHunter: Call of the Wild™"
-  },
-  {
-    "appid": 1605850,
-    "name": "ZeroSpace"
-  },
-  {
-    "appid": 3241660,
-    "name": "R.E.P.O."
-  },
-  {
-    "appid": 292030,
-    "name": "The Witcher 3: Wild Hunt"
-  },
-  {
-    "appid": 1374490,
-    "name": "RuneScape: Dragonwilds"
+    "appid": 4502710,
+    "name": "Stonewards"
   },
   {
     "appid": 2406770,
     "name": "Bodycam"
   },
   {
-    "appid": 2807960,
-    "name": "Battlefield™ 6"
+    "appid": 3241660,
+    "name": "R.E.P.O."
   },
   {
-    "appid": 2272360,
-    "name": "Warhammer 40,000: Dawn of War IV"
+    "appid": 1174180,
+    "name": "Red Dead Redemption 2"
   },
   {
-    "appid": 2880730,
-    "name": "AI2U: With You 'Til The End"
-  },
-  {
-    "appid": 3041230,
-    "name": "Windrose"
-  },
-  {
-    "appid": 261550,
-    "name": "Mount & Blade II: Bannerlord"
-  },
-  {
-    "appid": 2129530,
-    "name": "REANIMAL"
-  },
-  {
-    "appid": 668580,
-    "name": "Atomic Heart"
-  },
-  {
-    "appid": 1022980,
-    "name": "Ostranauts"
-  },
-  {
-    "appid": 4594150,
-    "name": "Sir, We Have an Orc Problem"
-  },
-  {
-    "appid": 294100,
-    "name": "RimWorld"
-  },
-  {
-    "appid": 3711590,
-    "name": "Train45"
-  },
-  {
-    "appid": 3226060,
-    "name": "DreamEcho"
-  },
-  {
-    "appid": 4502710,
-    "name": "Stonewards"
-  },
-  {
-    "appid": 2183900,
-    "name": "Warhammer 40,000: Space Marine 2"
-  },
-  {
-    "appid": 2543830,
-    "name": "Way of the Hunter 2"
-  },
-  {
-    "appid": 2246340,
-    "name": "Monster Hunter Wilds"
-  },
-  {
-    "appid": 2769570,
-    "name": "Fable"
-  },
-  {
-    "appid": 4421010,
-    "name": "Bills Must Be Paid"
-  },
-  {
-    "appid": 3934270,
-    "name": "How Many Dudes?"
-  },
-  {
-    "appid": 394360,
-    "name": "Hearts of Iron IV"
-  },
-  {
-    "appid": 4935510,
-    "name": "Cellar Keeper"
-  },
-  {
-    "appid": 4000,
-    "name": "Garry's Mod"
-  },
-  {
-    "appid": 1943950,
-    "name": "Escape the Backrooms"
-  },
-  {
-    "appid": 1442520,
-    "name": "Akatori"
-  },
-  {
-    "appid": 4466620,
-    "name": "SiNiSistar 2"
-  },
-  {
-    "appid": 3404260,
-    "name": "Dead as Disco"
-  },
-  {
-    "appid": 1426210,
-    "name": "It Takes Two"
-  },
-  {
-    "appid": 4074010,
-    "name": "Dig, Dig, Die"
-  },
-  {
-    "appid": 2713000,
-    "name": "Resonance: A Plague Tale Legacy"
-  },
-  {
-    "appid": 2186990,
-    "name": "Fatekeeper"
-  },
-  {
-    "appid": 393380,
-    "name": "Squad"
-  },
-  {
-    "appid": 4310610,
-    "name": "The Skin Stapler"
-  },
-  {
-    "appid": 221100,
-    "name": "DayZ"
-  },
-  {
-    "appid": 1363080,
-    "name": "Manor Lords"
-  },
-  {
-    "appid": 1222680,
-    "name": "Need for Speed™ Heat"
-  },
-  {
-    "appid": 2706020,
-    "name": "ALL WILL FALL"
-  },
-  {
-    "appid": 3922100,
-    "name": "Forest Doesn’t Care"
-  },
-  {
-    "appid": 979690,
-    "name": "The Ascent"
-  },
-  {
-    "appid": 2958130,
-    "name": "Jurassic World Evolution 3"
-  },
-  {
-    "appid": 270880,
-    "name": "American Truck Simulator"
-  },
-  {
-    "appid": 3219030,
-    "name": "Planet Zoo 2"
-  },
-  {
-    "appid": 275850,
-    "name": "No Man's Sky"
-  },
-  {
-    "appid": 3017860,
-    "name": "DOOM: The Dark Ages"
-  },
-  {
-    "appid": 2745870,
-    "name": "Warfare Legacy Collection"
-  },
-  {
-    "appid": 3100370,
-    "name": "Black Jacket"
-  },
-  {
-    "appid": 2806050,
-    "name": "Halo: Campaign Evolved"
-  },
-  {
-    "appid": 1913370,
-    "name": "OPERATOR"
-  },
-  {
-    "appid": 3892270,
-    "name": "Gamble With Your Friends"
-  },
-  {
-    "appid": 2638890,
-    "name": "Onimusha: Way of the Sword"
-  },
-  {
-    "appid": 4380490,
-    "name": "Cat Mail Co."
-  },
-  {
-    "appid": 387990,
-    "name": "Scrap Mechanic"
-  },
-  {
-    "appid": 311210,
-    "name": "Call of Duty®: Black Ops III"
-  },
-  {
-    "appid": 2661300,
-    "name": "Grounded 2"
-  },
-  {
-    "appid": 2679100,
-    "name": "Witchspire"
-  },
-  {
-    "appid": 3447070,
-    "name": "Emergency Call - The Firefighting Simulation 3"
-  },
-  {
-    "appid": 2300320,
-    "name": "Farming Simulator 25"
-  },
-  {
-    "appid": 4315550,
-    "name": "The Carcass"
-  },
-  {
-    "appid": 1805320,
-    "name": "Romestead"
-  },
-  {
-    "appid": 2966320,
-    "name": "Starsand Island"
-  },
-  {
-    "appid": 2456740,
-    "name": "inZOI"
-  },
-  {
-    "appid": 3859630,
-    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.2"
-  },
-  {
-    "appid": 3413800,
-    "name": "Hotel Tales"
-  },
-  {
-    "appid": 1324130,
-    "name": "Stranded: Alien Dawn"
-  },
-  {
-    "appid": 3293260,
-    "name": "Waterpark Simulator"
-  },
-  {
-    "appid": 812140,
-    "name": "Assassin's Creed® Odyssey"
-  },
-  {
-    "appid": 1371980,
-    "name": "No Rest for the Wicked"
-  },
-  {
-    "appid": 2050650,
-    "name": "Resident Evil 4"
-  },
-  {
-    "appid": 244210,
-    "name": "Assetto Corsa"
-  },
-  {
-    "appid": 1857950,
-    "name": "VEIN"
-  },
-  {
-    "appid": 4197990,
-    "name": "Cargo Hunters"
-  },
-  {
-    "appid": 4508020,
-    "name": "Hole Is Mine"
-  },
-  {
-    "appid": 3400350,
-    "name": "Third Crisis: Neon Nights"
-  },
-  {
-    "appid": 2963950,
-    "name": "Persona 4 Revival"
-  },
-  {
-    "appid": 3219630,
-    "name": "Halloween: The Game"
-  },
-  {
-    "appid": 3156330,
-    "name": "Anomaly President"
-  },
-  {
-    "appid": 1868140,
-    "name": "DAVE THE DIVER"
-  },
-  {
-    "appid": 322330,
-    "name": "Don't Starve Together"
-  },
-  {
-    "appid": 1364780,
-    "name": "Street Fighter™ 6"
-  },
-  {
-    "appid": 2424420,
-    "name": "Avatar Legends: The Fighting Game"
-  },
-  {
-    "appid": 648800,
-    "name": "Raft"
-  },
-  {
-    "appid": 3405690,
-    "name": "EA SPORTS FC™ 26"
-  },
-  {
-    "appid": 3764200,
-    "name": "Resident Evil Requiem"
-  },
-  {
-    "appid": 1158310,
-    "name": "Crusader Kings III"
-  },
-  {
-    "appid": 2665250,
-    "name": "Rancher: A new life"
-  },
-  {
-    "appid": 3259780,
-    "name": "FINAL FANTASY RESONANCE"
-  },
-  {
-    "appid": 3164500,
-    "name": "Schedule I"
-  },
-  {
-    "appid": 3112280,
-    "name": "Reclaiming the Lost"
-  },
-  {
-    "appid": 2057760,
-    "name": "Esoteric Ebb"
+    "appid": 949230,
+    "name": "Cities: Skylines II"
   },
   {
     "appid": 3832710,
     "name": "Cowgirl Maid Milk Cafe"
   },
   {
-    "appid": 1874880,
-    "name": "Arma Reforger"
+    "appid": 1374490,
+    "name": "RuneScape: Dragonwilds"
   },
   {
-    "appid": 1817190,
-    "name": "Marvel’s Spider-Man: Miles Morales"
+    "appid": 1913120,
+    "name": "Tears of Metal"
   },
   {
-    "appid": 2505590,
-    "name": "TK Punk Gold"
+    "appid": 3995190,
+    "name": "Obsessed Lucy"
   },
   {
-    "appid": 1297900,
-    "name": "Gothic 1 Remake"
+    "appid": 105600,
+    "name": "Terraria"
   },
   {
-    "appid": 3669870,
-    "name": "CONTROL Resonant"
+    "appid": 2661300,
+    "name": "Grounded 2"
   },
   {
-    "appid": 3314340,
-    "name": "Burgie's Cozy Kitchen"
+    "appid": 4403260,
+    "name": "Swarm Bunker: Lust Defense"
   },
   {
-    "appid": 2825860,
-    "name": "The Sinking City 2"
-  },
-  {
-    "appid": 251570,
-    "name": "7 Days to Die"
-  },
-  {
-    "appid": 1783560,
-    "name": "The Last Caretaker"
-  },
-  {
-    "appid": 2890240,
-    "name": "Capy Castaway"
-  },
-  {
-    "appid": 3768760,
-    "name": "007 First Light"
-  },
-  {
-    "appid": 1721110,
-    "name": "Abyssus"
-  },
-  {
-    "appid": 1142710,
-    "name": "Total War: WARHAMMER III"
-  },
-  {
-    "appid": 3032830,
-    "name": "Katanaut"
-  },
-  {
-    "appid": 4513880,
-    "name": "Could You Be a Gal Master?"
-  },
-  {
-    "appid": 1981610,
-    "name": "Wanted: Dead"
-  },
-  {
-    "appid": 1343070,
-    "name": "Call to Arms: Panzer Elite"
-  },
-  {
-    "appid": 2215200,
-    "name": "LEGO® Batman™: Legacy of the Dark Knight"
+    "appid": 2129530,
+    "name": "REANIMAL"
   },
   {
     "appid": 1313140,
     "name": "Cult of the Lamb"
   },
   {
-    "appid": 367270,
-    "name": "Angels Fall First"
+    "appid": 2019300,
+    "name": "Dokimon Quest"
   },
   {
-    "appid": 3561220,
-    "name": "Pass the Fear"
+    "appid": 2399830,
+    "name": "ARK: Survival Ascended"
   },
   {
-    "appid": 1866130,
-    "name": "Morbid Metal"
+    "appid": 2807960,
+    "name": "Battlefield™ 6"
   },
   {
-    "appid": 268910,
-    "name": "Cuphead"
+    "appid": 489830,
+    "name": "The Elder Scrolls V: Skyrim Special Edition"
   },
   {
-    "appid": 3552140,
-    "name": "Retro Rewind - Video Store Simulator"
+    "appid": 3315060,
+    "name": "Ledgerbound"
   },
   {
-    "appid": 3070070,
-    "name": "TCG Card Shop Simulator"
+    "appid": 1962700,
+    "name": "Subnautica 2"
   },
   {
-    "appid": 4333200,
-    "name": "Lost & Found: A This Bed We Made Story"
+    "appid": 261550,
+    "name": "Mount & Blade II: Bannerlord"
   },
   {
-    "appid": 3595270,
-    "name": "Call of Duty®: Modern Warfare® III"
+    "appid": 2183900,
+    "name": "Warhammer 40,000: Space Marine 2"
   },
   {
-    "appid": 2310,
-    "name": "Quake"
+    "appid": 2684630,
+    "name": "Endacopia"
   },
   {
-    "appid": 881020,
-    "name": "Granblue Fantasy: Relink"
-  },
-  {
-    "appid": 212630,
-    "name": "Tom Clancy's Ghost Recon: Future Soldier™"
-  },
-  {
-    "appid": 1805110,
-    "name": "Solarpunk™"
-  },
-  {
-    "appid": 2052650,
-    "name": "Sword & Shield Simulator"
-  },
-  {
-    "appid": 4929970,
-    "name": "No Socks RPG"
-  },
-  {
-    "appid": 1206560,
-    "name": "WorldBox - God Simulator"
-  },
-  {
-    "appid": 4927490,
-    "name": "Cleaning Up The Puzzle Gallery"
-  },
-  {
-    "appid": 2868840,
-    "name": "Slay the Spire 2"
-  },
-  {
-    "appid": 813780,
-    "name": "Age of Empires II: Definitive Edition"
+    "appid": 4012810,
+    "name": "STEINS;GATE RE:BOOT"
   },
   {
     "appid": 4622110,
     "name": "我的傲娇妹妹 MY TSUNDERE SISTER"
   },
   {
-    "appid": 3399900,
-    "name": "HellSlave II: Judgment of the Archon"
+    "appid": 3711590,
+    "name": "Train45"
   },
   {
-    "appid": 3105440,
-    "name": "Heroes of Might and Magic: Olden Era"
+    "appid": 1943950,
+    "name": "Escape the Backrooms"
   },
   {
-    "appid": 239140,
-    "name": "Dying Light"
+    "appid": 2713000,
+    "name": "Resonance: A Plague Tale Legacy"
   },
   {
-    "appid": 3590290,
-    "name": "DIVE or DIE - Children of Rain"
+    "appid": 4466620,
+    "name": "SiNiSistar 2"
   },
   {
-    "appid": 3489700,
-    "name": "Stellar Blade™"
+    "appid": 2569760,
+    "name": "The Mound: Omen of Cthulhu"
   },
   {
-    "appid": 1229490,
-    "name": "ULTRAKILL"
+    "appid": 275850,
+    "name": "No Man's Sky"
   },
   {
-    "appid": 4289340,
-    "name": "UNHUMAN"
+    "appid": 1817070,
+    "name": "Marvel’s Spider-Man Remastered"
   },
   {
-    "appid": 2001120,
-    "name": "Split Fiction"
+    "appid": 2272360,
+    "name": "Warhammer 40,000: Dawn of War IV"
   },
   {
-    "appid": 367520,
-    "name": "Hollow Knight"
+    "appid": 3595270,
+    "name": "Call of Duty®: Modern Warfare® III"
   },
   {
-    "appid": 3440070,
-    "name": "Dinoblade"
+    "appid": 2769570,
+    "name": "Fable"
   },
   {
-    "appid": 1771300,
-    "name": "Kingdom Come: Deliverance II"
+    "appid": 394360,
+    "name": "Hearts of Iron IV"
   },
   {
-    "appid": 758870,
-    "name": "Kynseed"
+    "appid": 4992070,
+    "name": "Sort Them Ducks"
   },
   {
-    "appid": 255710,
-    "name": "Cities: Skylines"
+    "appid": 3041230,
+    "name": "Windrose"
   },
   {
-    "appid": 1222140,
-    "name": "Detroit: Become Human"
+    "appid": 294100,
+    "name": "RimWorld"
   },
   {
-    "appid": 322170,
-    "name": "Geometry Dash"
+    "appid": 2186990,
+    "name": "Fatekeeper"
   },
   {
-    "appid": 3436280,
-    "name": "Glamour Kaleidoscope"
+    "appid": 292030,
+    "name": "The Witcher 3: Wild Hunt"
   },
   {
-    "appid": 4210580,
-    "name": "Ore Factory Squad ⛏️"
+    "appid": 2059170,
+    "name": "Quasimorph"
   },
   {
-    "appid": 2288340,
-    "name": "ACE COMBAT 8: WINGS OF THEVE"
+    "appid": 4042160,
+    "name": "Static Dread: The Submarine"
   },
   {
-    "appid": 728880,
-    "name": "Overcooked! 2"
+    "appid": 3808690,
+    "name": "Pathogenic"
   },
   {
-    "appid": 739630,
-    "name": "Phasmophobia"
+    "appid": 2958130,
+    "name": "Jurassic World Evolution 3"
   },
   {
-    "appid": 4819360,
-    "name": "Marie's Adventure"
+    "appid": 992300,
+    "name": "嗜血印 Bloody Spell"
   },
   {
-    "appid": 2694020,
-    "name": "Starbreed"
+    "appid": 346110,
+    "name": "ARK: Survival Evolved"
   },
   {
-    "appid": 3470550,
-    "name": "We, Junk Artists"
+    "appid": 1142710,
+    "name": "Total War: WARHAMMER III"
   },
   {
-    "appid": 1262560,
-    "name": "Need for Speed™ Most Wanted"
+    "appid": 1605850,
+    "name": "ZeroSpace"
   },
   {
-    "appid": 1326470,
-    "name": "Sons Of The Forest"
+    "appid": 221100,
+    "name": "DayZ"
   },
   {
-    "appid": 4423700,
-    "name": "LAST STAND Apocalypse"
+    "appid": 1921490,
+    "name": "Wild Blue Skies"
   },
   {
-    "appid": 1203620,
-    "name": "Enshrouded"
+    "appid": 668580,
+    "name": "Atomic Heart"
   },
   {
-    "appid": 4197610,
-    "name": "Librarian: Tidy Up the Arcane Library!"
+    "appid": 4000,
+    "name": "Garry's Mod"
   },
   {
-    "appid": 2141730,
-    "name": "Backrooms: Escape Together"
+    "appid": 3558600,
+    "name": "Leafy Corner"
   },
   {
-    "appid": 1903340,
-    "name": "Clair Obscur: Expedition 33"
+    "appid": 1426210,
+    "name": "It Takes Two"
   },
   {
-    "appid": 1149460,
-    "name": "ICARUS"
+    "appid": 3859630,
+    "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.2"
   },
   {
-    "appid": 4585340,
-    "name": "Horse Magnifier: The Full Horse"
+    "appid": 2638890,
+    "name": "Onimusha: Way of the Sword"
   },
   {
-    "appid": 865360,
-    "name": "We Were Here Together"
+    "appid": 247970,
+    "name": "Korea. IL-2 Series"
   },
   {
-    "appid": 1846380,
-    "name": "Need for Speed™ Unbound"
+    "appid": 4508020,
+    "name": "Hole Is Mine"
   },
   {
-    "appid": 1551360,
-    "name": "Forza Horizon 5"
+    "appid": 3501540,
+    "name": "Spiritstead"
   },
   {
-    "appid": 4563870,
-    "name": "Miseria"
+    "appid": 3017860,
+    "name": "DOOM: The Dark Ages"
   },
   {
-    "appid": 3738830,
-    "name": "FIRE STATE"
+    "appid": 1222680,
+    "name": "Need for Speed™ Heat"
   },
   {
-    "appid": 2215430,
-    "name": "Ghost of Tsushima DIRECTOR'S CUT"
+    "appid": 387990,
+    "name": "Scrap Mechanic"
   },
   {
-    "appid": 1172620,
-    "name": "Sea of Thieves: 2026 Edition"
+    "appid": 4421010,
+    "name": "Bills Must Be Paid"
   },
   {
-    "appid": 2221490,
-    "name": "Tom Clancy’s The Division® 2"
+    "appid": 270880,
+    "name": "American Truck Simulator"
   },
   {
-    "appid": 391540,
-    "name": "Undertale"
+    "appid": 518790,
+    "name": "theHunter: Call of the Wild™"
   },
   {
-    "appid": 289070,
-    "name": "Sid Meier’s Civilization® VI"
+    "appid": 2745870,
+    "name": "Warfare Legacy Collection"
   },
   {
-    "appid": 4018740,
-    "name": "Hariti"
+    "appid": 4197990,
+    "name": "Cargo Hunters"
   },
   {
-    "appid": 3942470,
-    "name": "Origin Story - Season 1"
+    "appid": 4594150,
+    "name": "Sir, We Have an Orc Problem"
   },
   {
-    "appid": 1643320,
-    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+    "appid": 2057760,
+    "name": "Esoteric Ebb"
   },
   {
-    "appid": 219990,
-    "name": "Grim Dawn"
+    "appid": 393380,
+    "name": "Squad"
   },
   {
-    "appid": 2161700,
-    "name": "Persona 3 Reload"
+    "appid": 2806050,
+    "name": "Halo: Campaign Evolved"
   },
   {
-    "appid": 892970,
-    "name": "Valheim"
+    "appid": 1857950,
+    "name": "VEIN"
   },
   {
-    "appid": 2637210,
-    "name": "Flow Of War"
+    "appid": 2300320,
+    "name": "Farming Simulator 25"
   },
   {
-    "appid": 2980270,
-    "name": "HackHub - Ultimate Hacker Simulator"
+    "appid": 3156770,
+    "name": "Witchfire"
   },
   {
-    "appid": 2863680,
-    "name": "ZERO PARADES: For Dead Spies"
+    "appid": 1158310,
+    "name": "Crusader Kings III"
   },
   {
-    "appid": 1845250,
-    "name": "Rubinite"
+    "appid": 1363080,
+    "name": "Manor Lords"
   },
   {
-    "appid": 3844970,
-    "name": "Burglin' Gnomes"
+    "appid": 3219030,
+    "name": "Planet Zoo 2"
   },
   {
-    "appid": 992840,
-    "name": "Car Wash Simulator"
+    "appid": 3404260,
+    "name": "Dead as Disco"
   },
   {
-    "appid": 4537400,
-    "name": "Paper2Galgame"
+    "appid": 3892270,
+    "name": "Gamble With Your Friends"
   },
   {
-    "appid": 1888930,
-    "name": "The Last of Us™ Part I"
+    "appid": 3934270,
+    "name": "How Many Dudes?"
   },
   {
-    "appid": 3614130,
-    "name": "Shelves and Sorcery: Tidy Up the Enchanted Shop"
+    "appid": 4380490,
+    "name": "Cat Mail Co."
   },
   {
-    "appid": 2916700,
-    "name": "Attack on Titan 3 / A.O.T. 3"
+    "appid": 2456740,
+    "name": "inZOI"
   },
   {
-    "appid": 392160,
-    "name": "X4: Foundations"
+    "appid": 3219630,
+    "name": "Halloween: The Game"
   },
   {
-    "appid": 588650,
-    "name": "Dead Cells"
+    "appid": 1913370,
+    "name": "OPERATOR"
   },
   {
-    "appid": 4705650,
-    "name": "Silent Shark"
+    "appid": 4364910,
+    "name": "Ruins of Dawn"
   },
   {
-    "appid": 814380,
-    "name": "Sekiro™: Shadows Die Twice - GOTY Edition"
+    "appid": 4228690,
+    "name": "Black Gold - Shining Town"
   },
   {
-    "appid": 2457220,
-    "name": "Avowed"
+    "appid": 3764200,
+    "name": "Resident Evil Requiem"
   },
   {
-    "appid": 2592160,
-    "name": "Dispatch"
+    "appid": 812140,
+    "name": "Assassin's Creed® Odyssey"
   },
   {
     "appid": 4883580,
     "name": "The One Fish"
   },
   {
-    "appid": 4011300,
-    "name": "Super Shout Showdown"
+    "appid": 2825860,
+    "name": "The Sinking City 2"
   },
   {
-    "appid": 4134600,
-    "name": "EverRail"
+    "appid": 2966320,
+    "name": "Starsand Island"
   },
   {
-    "appid": 2273430,
-    "name": "BlazBlue Entropy Effect"
+    "appid": 4529440,
+    "name": "FD 27: Direct Your Football Club"
   },
   {
-    "appid": 2605790,
-    "name": "Deep Rock Galactic: Rogue Core"
+    "appid": 1874880,
+    "name": "Arma Reforger"
   },
   {
-    "appid": 2019300,
-    "name": "Dokimon Quest"
+    "appid": 2963950,
+    "name": "Persona 4 Revival"
   },
   {
-    "appid": 2537590,
-    "name": "Microsoft Flight Simulator 2024"
+    "appid": 1868140,
+    "name": "DAVE THE DIVER"
+  },
+  {
+    "appid": 4935510,
+    "name": "Cellar Keeper"
+  },
+  {
+    "appid": 4310610,
+    "name": "The Skin Stapler"
+  },
+  {
+    "appid": 2679100,
+    "name": "Witchspire"
+  },
+  {
+    "appid": 311210,
+    "name": "Call of Duty®: Black Ops III"
+  },
+  {
+    "appid": 4705650,
+    "name": "Silent Shark"
+  },
+  {
+    "appid": 1805320,
+    "name": "Romestead"
+  },
+  {
+    "appid": 322330,
+    "name": "Don't Starve Together"
+  },
+  {
+    "appid": 548430,
+    "name": "Deep Rock Galactic"
+  },
+  {
+    "appid": 3293260,
+    "name": "Waterpark Simulator"
+  },
+  {
+    "appid": 3922100,
+    "name": "Forest Doesn’t Care"
+  },
+  {
+    "appid": 1297900,
+    "name": "Gothic 1 Remake"
+  },
+  {
+    "appid": 3405690,
+    "name": "EA SPORTS FC™ 26"
+  },
+  {
+    "appid": 4018740,
+    "name": "Hariti"
+  },
+  {
+    "appid": 3768760,
+    "name": "007 First Light"
+  },
+  {
+    "appid": 1804470,
+    "name": "Duel Corp."
+  },
+  {
+    "appid": 3236900,
+    "name": "Rebirth Pub"
+  },
+  {
+    "appid": 1536790,
+    "name": "GIANTESS PLAYGROUND"
+  },
+  {
+    "appid": 3489700,
+    "name": "Stellar Blade™"
+  },
+  {
+    "appid": 1371980,
+    "name": "No Rest for the Wicked"
+  },
+  {
+    "appid": 3164500,
+    "name": "Schedule I"
+  },
+  {
+    "appid": 3818020,
+    "name": "Evil School"
+  },
+  {
+    "appid": 2246340,
+    "name": "Monster Hunter Wilds"
+  },
+  {
+    "appid": 2871010,
+    "name": "VanySlash"
+  },
+  {
+    "appid": 3906260,
+    "name": "Red Masked Ronin: Desires and Shadows"
+  },
+  {
+    "appid": 3070070,
+    "name": "TCG Card Shop Simulator"
+  },
+  {
+    "appid": 1783560,
+    "name": "The Last Caretaker"
+  },
+  {
+    "appid": 3259780,
+    "name": "FINAL FANTASY RESONANCE"
+  },
+  {
+    "appid": 3669870,
+    "name": "CONTROL Resonant"
+  },
+  {
+    "appid": 2050650,
+    "name": "Resident Evil 4"
+  },
+  {
+    "appid": 2868840,
+    "name": "Slay the Spire 2"
+  },
+  {
+    "appid": 244210,
+    "name": "Assetto Corsa"
+  },
+  {
+    "appid": 3417140,
+    "name": "IGS Classic Arcade Collection"
+  },
+  {
+    "appid": 3614130,
+    "name": "Shelves and Sorcery: Tidy Up the Enchanted Shop"
+  },
+  {
+    "appid": 648800,
+    "name": "Raft"
+  },
+  {
+    "appid": 2660230,
+    "name": "Kill The Shadow"
+  },
+  {
+    "appid": 2215200,
+    "name": "LEGO® Batman™: Legacy of the Dark Knight"
+  },
+  {
+    "appid": 2350790,
+    "name": "Moonlighter 2: The Endless Vault"
+  },
+  {
+    "appid": 4289340,
+    "name": "UNHUMAN"
+  },
+  {
+    "appid": 255710,
+    "name": "Cities: Skylines"
+  },
+  {
+    "appid": 881020,
+    "name": "Granblue Fantasy: Relink"
+  },
+  {
+    "appid": 3413800,
+    "name": "Hotel Tales"
+  },
+  {
+    "appid": 251570,
+    "name": "7 Days to Die"
+  },
+  {
+    "appid": 1222140,
+    "name": "Detroit: Become Human"
+  },
+  {
+    "appid": 1771300,
+    "name": "Kingdom Come: Deliverance II"
+  },
+  {
+    "appid": 896250,
+    "name": "Liquidation"
+  },
+  {
+    "appid": 3105440,
+    "name": "Heroes of Might and Magic: Olden Era"
+  },
+  {
+    "appid": 3112280,
+    "name": "Reclaiming the Lost"
+  },
+  {
+    "appid": 4585340,
+    "name": "Horse Magnifier: The Full Horse"
+  },
+  {
+    "appid": 1206560,
+    "name": "WorldBox - God Simulator"
+  },
+  {
+    "appid": 2424420,
+    "name": "Avatar Legends: The Fighting Game"
+  },
+  {
+    "appid": 1782120,
+    "name": "ZERO Sievert"
+  },
+  {
+    "appid": 1817190,
+    "name": "Marvel’s Spider-Man: Miles Morales"
+  },
+  {
+    "appid": 2288340,
+    "name": "ACE COMBAT 8: WINGS OF THEVE"
+  },
+  {
+    "appid": 3314340,
+    "name": "Burgie's Cozy Kitchen"
+  },
+  {
+    "appid": 4934370,
+    "name": "TV Archive: Tidy Up Together"
+  },
+  {
+    "appid": 1229490,
+    "name": "ULTRAKILL"
+  },
+  {
+    "appid": 1364780,
+    "name": "Street Fighter™ 6"
+  },
+  {
+    "appid": 4315550,
+    "name": "The Carcass"
+  },
+  {
+    "appid": 1805110,
+    "name": "Solarpunk™"
+  },
+  {
+    "appid": 813780,
+    "name": "Age of Empires II: Definitive Edition"
+  },
+  {
+    "appid": 2001120,
+    "name": "Split Fiction"
+  },
+  {
+    "appid": 4513880,
+    "name": "Could You Be a Gal Master?"
+  },
+  {
+    "appid": 3032830,
+    "name": "Katanaut"
+  },
+  {
+    "appid": 782260,
+    "name": "Rogue Eclipse"
+  },
+  {
+    "appid": 322170,
+    "name": "Geometry Dash"
+  },
+  {
+    "appid": 3590290,
+    "name": "DIVE or DIE - Children of Rain"
+  },
+  {
+    "appid": 728880,
+    "name": "Overcooked! 2"
+  },
+  {
+    "appid": 1903340,
+    "name": "Clair Obscur: Expedition 33"
+  },
+  {
+    "appid": 4537400,
+    "name": "Paper2Galgame"
+  },
+  {
+    "appid": 2161700,
+    "name": "Persona 3 Reload"
+  },
+  {
+    "appid": 1288320,
+    "name": "Way of the Hunter"
+  },
+  {
+    "appid": 268910,
+    "name": "Cuphead"
+  },
+  {
+    "appid": 2437670,
+    "name": "Dagger Directive"
+  },
+  {
+    "appid": 1149460,
+    "name": "ICARUS"
+  },
+  {
+    "appid": 2106050,
+    "name": "heXtreaming:Deep"
+  },
+  {
+    "appid": 4210580,
+    "name": "Ore Factory Squad ⛏️"
+  },
+  {
+    "appid": 1172620,
+    "name": "Sea of Thieves: 2026 Edition"
+  },
+  {
+    "appid": 2863680,
+    "name": "ZERO PARADES: For Dead Spies"
+  },
+  {
+    "appid": 3552140,
+    "name": "Retro Rewind - Video Store Simulator"
+  },
+  {
+    "appid": 2552430,
+    "name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-"
+  },
+  {
+    "appid": 4074010,
+    "name": "Dig, Dig, Die"
+  },
+  {
+    "appid": 2438110,
+    "name": "Emergency Room Simulator"
+  },
+  {
+    "appid": 1888930,
+    "name": "The Last of Us™ Part I"
+  },
+  {
+    "appid": 3561220,
+    "name": "Pass the Fear"
+  },
+  {
+    "appid": 367270,
+    "name": "Angels Fall First"
+  },
+  {
+    "appid": 367520,
+    "name": "Hollow Knight"
+  },
+  {
+    "appid": 2513490,
+    "name": "HELL GALAXY"
+  },
+  {
+    "appid": 2052650,
+    "name": "Sword & Shield Simulator"
+  },
+  {
+    "appid": 2215430,
+    "name": "Ghost of Tsushima DIRECTOR'S CUT"
+  },
+  {
+    "appid": 2221490,
+    "name": "Tom Clancy’s The Division® 2"
+  },
+  {
+    "appid": 2393970,
+    "name": "Human Host"
+  },
+  {
+    "appid": 1154030,
+    "name": "Titan Quest II"
+  },
+  {
+    "appid": 1203620,
+    "name": "Enshrouded"
+  },
+  {
+    "appid": 814380,
+    "name": "Sekiro™: Shadows Die Twice - GOTY Edition"
+  },
+  {
+    "appid": 239140,
+    "name": "Dying Light"
+  },
+  {
+    "appid": 4197610,
+    "name": "Librarian: Tidy Up the Arcane Library!"
+  },
+  {
+    "appid": 1643320,
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl"
+  },
+  {
+    "appid": 1022980,
+    "name": "Ostranauts"
+  },
+  {
+    "appid": 2531310,
+    "name": "The Last of Us™ Part II Remastered"
+  },
+  {
+    "appid": 2201320,
+    "name": "Date Everything!"
+  },
+  {
+    "appid": 3738830,
+    "name": "FIRE STATE"
+  },
+  {
+    "appid": 468920,
+    "name": "Ultimate Fishing Simulator®"
+  },
+  {
+    "appid": 4290680,
+    "name": "Flock of the Seraphim"
+  },
+  {
+    "appid": 4929970,
+    "name": "No Socks RPG"
+  },
+  {
+    "appid": 3440070,
+    "name": "Dinoblade"
+  },
+  {
+    "appid": 758870,
+    "name": "Kynseed"
+  },
+  {
+    "appid": 3949040,
+    "name": "RV There Yet?"
+  },
+  {
+    "appid": 1304930,
+    "name": "The Outlast Trials"
+  },
+  {
+    "appid": 892970,
+    "name": "Valheim"
   },
   {
     "appid": 377160,
@@ -1252,84 +1204,308 @@
     "name": "Lies of P"
   },
   {
-    "appid": 1304930,
-    "name": "The Outlast Trials"
+    "appid": 2312370,
+    "name": "Bloodcrave"
   },
   {
-    "appid": 2531310,
-    "name": "The Last of Us™ Part II Remastered"
+    "appid": 2530470,
+    "name": "Garden of Witches"
   },
   {
-    "appid": 1030300,
-    "name": "Hollow Knight: Silksong"
+    "appid": 739630,
+    "name": "Phasmophobia"
   },
   {
-    "appid": 2697000,
-    "name": "The Legend of Khiimori"
-  },
-  {
-    "appid": 526870,
-    "name": "Satisfactory"
-  },
-  {
-    "appid": 3767850,
-    "name": "SpiritVale"
-  },
-  {
-    "appid": 3949040,
-    "name": "RV There Yet?"
-  },
-  {
-    "appid": 3141630,
-    "name": "Montabi"
-  },
-  {
-    "appid": 746850,
-    "name": "Cloudpunk"
-  },
-  {
-    "appid": 513710,
-    "name": "SCUM"
-  },
-  {
-    "appid": 1288320,
-    "name": "Way of the Hunter"
-  },
-  {
-    "appid": 1466860,
-    "name": "Age of Empires IV: Anniversary Edition"
-  },
-  {
-    "appid": 2479810,
-    "name": "Gray Zone Warfare"
-  },
-  {
-    "appid": 4032770,
-    "name": "Warrior of Lust"
-  },
-  {
-    "appid": 427520,
-    "name": "Factorio"
-  },
-  {
-    "appid": 1610440,
-    "name": "Minds Beneath Us"
-  },
-  {
-    "appid": 4231820,
-    "name": "Castlevania: Belmont's Curse"
-  },
-  {
-    "appid": 3558670,
-    "name": "Tomb Raider: Legacy of Atlantis"
+    "appid": 3621330,
+    "name": "Pro Jank Footy"
   },
   {
     "appid": 1659040,
     "name": "HITMAN World of Assassination"
   },
   {
+    "appid": 3357650,
+    "name": "PRAGMATA"
+  },
+  {
+    "appid": 2479810,
+    "name": "Gray Zone Warfare"
+  },
+  {
+    "appid": 1551360,
+    "name": "Forza Horizon 5"
+  },
+  {
+    "appid": 2694020,
+    "name": "Starbreed"
+  },
+  {
+    "appid": 219990,
+    "name": "Grim Dawn"
+  },
+  {
     "appid": 1876890,
     "name": "Wandering Sword"
+  },
+  {
+    "appid": 4078430,
+    "name": "STAR WARS: Galactic Racer™"
+  },
+  {
+    "appid": 427520,
+    "name": "Factorio"
+  },
+  {
+    "appid": 1326470,
+    "name": "Sons Of The Forest"
+  },
+  {
+    "appid": 2397300,
+    "name": "Half Sword"
+  },
+  {
+    "appid": 391540,
+    "name": "Undertale"
+  },
+  {
+    "appid": 3400350,
+    "name": "Third Crisis: Neon Nights"
+  },
+  {
+    "appid": 212630,
+    "name": "Tom Clancy's Ghost Recon: Future Soldier™"
+  },
+  {
+    "appid": 289070,
+    "name": "Sid Meier’s Civilization® VI"
+  },
+  {
+    "appid": 1845250,
+    "name": "Rubinite"
+  },
+  {
+    "appid": 2273430,
+    "name": "BlazBlue Entropy Effect"
+  },
+  {
+    "appid": 526870,
+    "name": "Satisfactory"
+  },
+  {
+    "appid": 2737070,
+    "name": "Crime Simulator"
+  },
+  {
+    "appid": 1687950,
+    "name": "Persona 5 Royal"
+  },
+  {
+    "appid": 2537590,
+    "name": "Microsoft Flight Simulator 2024"
+  },
+  {
+    "appid": 2694490,
+    "name": "Path of Exile 2"
+  },
+  {
+    "appid": 3844970,
+    "name": "Burglin' Gnomes"
+  },
+  {
+    "appid": 3558670,
+    "name": "Tomb Raider: Legacy of Atlantis"
+  },
+  {
+    "appid": 2322010,
+    "name": "God of War Ragnarök"
+  },
+  {
+    "appid": 1594320,
+    "name": "Captain of Industry"
+  },
+  {
+    "appid": 2592160,
+    "name": "Dispatch"
+  },
+  {
+    "appid": 2141730,
+    "name": "Backrooms: Escape Together"
+  },
+  {
+    "appid": 1343070,
+    "name": "Call to Arms: Panzer Elite"
+  },
+  {
+    "appid": 2310,
+    "name": "Quake"
+  },
+  {
+    "appid": 3470550,
+    "name": "We, Junk Artists"
+  },
+  {
+    "appid": 2665250,
+    "name": "Rancher: A new life"
+  },
+  {
+    "appid": 3280350,
+    "name": "DEATH STRANDING 2: ON THE BEACH"
+  },
+  {
+    "appid": 2344520,
+    "name": "Diablo® IV"
+  },
+  {
+    "appid": 1030300,
+    "name": "Hollow Knight: Silksong"
+  },
+  {
+    "appid": 4011300,
+    "name": "Super Shout Showdown"
+  },
+  {
+    "appid": 3004390,
+    "name": "The Cave Diver"
+  },
+  {
+    "appid": 3447070,
+    "name": "Emergency Call - The Firefighting Simulation 3"
+  },
+  {
+    "appid": 1817030,
+    "name": "Swordcery"
+  },
+  {
+    "appid": 2206270,
+    "name": "Vampire Hunters"
+  },
+  {
+    "appid": 4819360,
+    "name": "Marie's Adventure"
+  },
+  {
+    "appid": 2890240,
+    "name": "Capy Castaway"
+  },
+  {
+    "appid": 4423700,
+    "name": "LAST STAND Apocalypse"
+  },
+  {
+    "appid": 4134600,
+    "name": "EverRail"
+  },
+  {
+    "appid": 4356430,
+    "name": "NBA 2K27"
+  },
+  {
+    "appid": 3180070,
+    "name": "No, I'm not a Human"
+  },
+  {
+    "appid": 392160,
+    "name": "X4: Foundations"
+  },
+  {
+    "appid": 2605790,
+    "name": "Deep Rock Galactic: Rogue Core"
+  },
+  {
+    "appid": 4156580,
+    "name": "Weed Supermarket Simulator"
+  },
+  {
+    "appid": 3156330,
+    "name": "Anomaly President"
+  },
+  {
+    "appid": 2859970,
+    "name": "Omen"
+  },
+  {
+    "appid": 2012190,
+    "name": "KAISERPUNK"
+  },
+  {
+    "appid": 1237970,
+    "name": "Titanfall® 2"
+  },
+  {
+    "appid": 306130,
+    "name": "The Elder Scrolls® Online"
+  },
+  {
+    "appid": 1262560,
+    "name": "Need for Speed™ Most Wanted"
+  },
+  {
+    "appid": 2432860,
+    "name": "MENACE"
+  },
+  {
+    "appid": 976730,
+    "name": "Halo: The Master Chief Collection"
+  },
+  {
+    "appid": 3902800,
+    "name": "[HERROR] Gas Station Case"
+  },
+  {
+    "appid": 1510330,
+    "name": "Dragonhold"
+  },
+  {
+    "appid": 1588550,
+    "name": "Cairn"
+  },
+  {
+    "appid": 4689420,
+    "name": "Hachishakusama | 八尺様がいた夏休み"
+  },
+  {
+    "appid": 2186680,
+    "name": "Warhammer 40,000: Rogue Trader"
+  },
+  {
+    "appid": 588650,
+    "name": "Dead Cells"
+  },
+  {
+    "appid": 3767850,
+    "name": "SpiritVale"
+  },
+  {
+    "appid": 1238840,
+    "name": "Battlefield™ 1"
+  },
+  {
+    "appid": 992840,
+    "name": "Car Wash Simulator"
+  },
+  {
+    "appid": 3595230,
+    "name": "Call of Duty®: Modern Warfare® II"
+  },
+  {
+    "appid": 4142610,
+    "name": "Clan and Crown"
+  },
+  {
+    "appid": 1912410,
+    "name": "Minecraft Dungeons II"
+  },
+  {
+    "appid": 4121170,
+    "name": "Fears to Fathom® - Scratch Creek"
+  },
+  {
+    "appid": 2399420,
+    "name": "Le Mans Ultimate"
+  },
+  {
+    "appid": 281990,
+    "name": "Stellaris"
   },
   {
     "appid": 3100310,
@@ -1340,592 +1516,276 @@
     "name": "Tabletop Tavern"
   },
   {
-    "appid": 2399420,
-    "name": "Le Mans Ultimate"
-  },
-  {
-    "appid": 1133870,
-    "name": "Space Engineers 2"
-  },
-  {
-    "appid": 1260320,
-    "name": "Party Animals"
-  },
-  {
-    "appid": 3372060,
-    "name": "Hell Maiden"
-  },
-  {
-    "appid": 3357650,
-    "name": "PRAGMATA"
-  },
-  {
-    "appid": 2206270,
-    "name": "Vampire Hunters"
-  },
-  {
-    "appid": 1594320,
-    "name": "Captain of Industry"
-  },
-  {
-    "appid": 3641000,
-    "name": "The Incident at Galley House"
-  },
-  {
-    "appid": 4356430,
-    "name": "NBA 2K27"
-  },
-  {
-    "appid": 2432860,
-    "name": "MENACE"
-  },
-  {
-    "appid": 281990,
-    "name": "Stellaris"
-  },
-  {
-    "appid": 4108460,
-    "name": "PatriotMemoirs"
-  },
-  {
-    "appid": 4121170,
-    "name": "Fears to Fathom® - Scratch Creek"
-  },
-  {
-    "appid": 1154030,
-    "name": "Titan Quest II"
-  },
-  {
-    "appid": 976730,
-    "name": "Halo: The Master Chief Collection"
-  },
-  {
-    "appid": 606160,
-    "name": "ROUTINE"
-  },
-  {
-    "appid": 2397300,
-    "name": "Half Sword"
-  },
-  {
-    "appid": 4142610,
-    "name": "Clan and Crown"
-  },
-  {
-    "appid": 2694490,
-    "name": "Path of Exile 2"
-  },
-  {
-    "appid": 4611990,
-    "name": "日本事故物件監視協会3 -Japan Stigmatized Property-"
-  },
-  {
-    "appid": 4414880,
-    "name": "Passion's Playground"
-  },
-  {
-    "appid": 4689420,
-    "name": "Hachishakusama | 八尺様がいた夏休み"
-  },
-  {
-    "appid": 306130,
-    "name": "The Elder Scrolls® Online"
-  },
-  {
-    "appid": 447530,
-    "name": "VA-11 Hall-A: Cyberpunk Bartender Action"
-  },
-  {
-    "appid": 400750,
-    "name": "Call to Arms - Gates of Hell: Ostfront"
-  },
-  {
-    "appid": 4324480,
-    "name": "Dirty Business"
-  },
-  {
-    "appid": 1912410,
-    "name": "Minecraft Dungeons II"
-  },
-  {
-    "appid": 2060160,
-    "name": "The Farmer Was Replaced"
-  },
-  {
-    "appid": 4242290,
-    "name": "SPITE: Taking the Boss's Wife, Sister and Mother"
-  },
-  {
-    "appid": 2322010,
-    "name": "God of War Ragnarök"
-  },
-  {
-    "appid": 2530470,
-    "name": "Garden of Witches"
-  },
-  {
-    "appid": 2344520,
-    "name": "Diablo® IV"
-  },
-  {
-    "appid": 3280350,
-    "name": "DEATH STRANDING 2: ON THE BEACH"
-  },
-  {
-    "appid": 3595230,
-    "name": "Call of Duty®: Modern Warfare® II"
-  },
-  {
-    "appid": 1687950,
-    "name": "Persona 5 Royal"
-  },
-  {
-    "appid": 1431300,
-    "name": "SAND: Raiders of Sophie"
-  },
-  {
-    "appid": 1510330,
-    "name": "Dragonhold"
-  },
-  {
-    "appid": 1238840,
-    "name": "Battlefield™ 1"
-  },
-  {
-    "appid": 1617400,
-    "name": "The Bazaar"
-  },
-  {
-    "appid": 703080,
-    "name": "Planet Zoo"
-  },
-  {
-    "appid": 477160,
-    "name": "Human Fall Flat"
-  },
-  {
-    "appid": 4458730,
-    "name": "NTR Hunter"
-  },
-  {
-    "appid": 2437670,
-    "name": "Dagger Directive"
-  },
-  {
-    "appid": 1790600,
-    "name": "DRAGON BALL: Sparking! ZERO"
-  },
-  {
-    "appid": 3340780,
-    "name": "Kungfu Card"
-  },
-  {
-    "appid": 4666090,
-    "name": "Midnight Moments"
-  },
-  {
-    "appid": 2378900,
-    "name": "The Coffin of Andy and Leyley"
-  },
-  {
-    "appid": 4547970,
-    "name": "Pih 2"
-  },
-  {
-    "appid": 1237970,
-    "name": "Titanfall® 2"
-  },
-  {
-    "appid": 1162750,
-    "name": "Songs of Syx"
-  },
-  {
-    "appid": 3628950,
-    "name": "Succubus Successor: Delilah's Juicy Journey"
-  },
-  {
-    "appid": 2479090,
-    "name": "Prelude Dark Pain"
-  },
-  {
-    "appid": 3101040,
-    "name": "Magical Girl Witch Trials"
-  },
-  {
-    "appid": 1169040,
-    "name": "Necesse"
-  },
-  {
-    "appid": 4836540,
-    "name": "Company of Heroes 3: Final Stand"
-  },
-  {
-    "appid": 1462040,
-    "name": "FINAL FANTASY VII REMAKE INTERGRADE"
-  },
-  {
-    "appid": 233860,
-    "name": "Kenshi"
-  },
-  {
-    "appid": 4078430,
-    "name": "STAR WARS: Galactic Racer™"
-  },
-  {
-    "appid": 2209900,
-    "name": "Moonlight Peaks"
-  },
-  {
-    "appid": 1097840,
-    "name": "Gears 5"
-  },
-  {
-    "appid": 1794680,
-    "name": "Vampire Survivors"
-  },
-  {
-    "appid": 2680670,
-    "name": "Wardrum"
-  },
-  {
-    "appid": 107410,
-    "name": "Arma 3"
-  },
-  {
-    "appid": 1645820,
-    "name": "SurrounDead"
-  },
-  {
-    "appid": 3633750,
-    "name": "Love Confessions on the Adventure"
-  },
-  {
-    "appid": 945360,
-    "name": "Among Us"
-  },
-  {
-    "appid": 837470,
-    "name": "Untitled Goose Game"
-  },
-  {
-    "appid": 1947910,
-    "name": "OPUS: Prism Peak"
-  },
-  {
-    "appid": 2201320,
-    "name": "Date Everything!"
-  },
-  {
-    "appid": 3373660,
-    "name": "Look Outside"
-  },
-  {
-    "appid": 3180070,
-    "name": "No, I'm not a Human"
-  },
-  {
-    "appid": 3008130,
-    "name": "Dying Light: The Beast"
-  },
-  {
-    "appid": 3950130,
-    "name": "Database Detective: Minor Crimes Division"
-  },
-  {
-    "appid": 1465360,
-    "name": "SnowRunner"
-  },
-  {
-    "appid": 286160,
-    "name": "Tabletop Simulator"
-  },
-  {
-    "appid": 3724710,
-    "name": "Gunstoppable"
-  },
-  {
-    "appid": 1636440,
-    "name": "SILENT HILL: Townfall"
-  },
-  {
-    "appid": 2186680,
-    "name": "Warhammer 40,000: Rogue Trader"
-  },
-  {
-    "appid": 1259420,
-    "name": "Days Gone"
-  },
-  {
-    "appid": 2737070,
-    "name": "Crime Simulator"
-  },
-  {
-    "appid": 468920,
-    "name": "Ultimate Fishing Simulator®"
-  },
-  {
-    "appid": 1588550,
-    "name": "Cairn"
-  },
-  {
-    "appid": 312520,
-    "name": "Rain World"
-  },
-  {
-    "appid": 546900,
-    "name": "Fear Effect Sedna"
-  },
-  {
-    "appid": 2445980,
-    "name": "G-Rebels"
-  },
-  {
-    "appid": 686810,
-    "name": "Hell Let Loose"
-  },
-  {
-    "appid": 534380,
-    "name": "Dying Light 2 Stay Human: Reloaded Edition"
-  },
-  {
-    "appid": 3432480,
-    "name": "Shards of Order"
-  },
-  {
-    "appid": 3602290,
-    "name": "FEMBOY FUTA HOUSE"
-  },
-  {
-    "appid": 371970,
-    "name": "Barony"
-  },
-  {
-    "appid": 2372240,
-    "name": "Re:Night"
-  },
-  {
-    "appid": 3604560,
-    "name": "Figure Shop Simulator"
-  },
-  {
-    "appid": 3124540,
-    "name": "Far Far West"
-  },
-  {
-    "appid": 2513490,
-    "name": "HELL GALAXY"
-  },
-  {
-    "appid": 4031460,
-    "name": "Harem vs Zombies"
-  },
-  {
-    "appid": 4800590,
-    "name": "Supermarket Chaos"
-  },
-  {
-    "appid": 3024040,
-    "name": "Stronghold Crusader: Definitive Edition"
-  },
-  {
-    "appid": 2651410,
-    "name": "The Endless Abyss: A Busty Cop’s Corrupted Soul"
-  },
-  {
-    "appid": 4466090,
-    "name": "The Forbidden Tomes of Olipos"
-  },
-  {
-    "appid": 3882150,
-    "name": "Grim Axiom"
-  },
-  {
-    "appid": 3059520,
-    "name": "F1® 25"
-  },
-  {
-    "appid": 1040200,
-    "name": "Crime Scene Cleaner"
-  },
-  {
-    "appid": 632360,
-    "name": "Risk of Rain 2"
-  },
-  {
-    "appid": 457140,
-    "name": "Oxygen Not Included"
-  },
-  {
-    "appid": 524220,
-    "name": "NieR:Automata™"
-  },
-  {
-    "appid": 3981100,
-    "name": "Leaf it Alone"
-  },
-  {
-    "appid": 2681030,
-    "name": "Outbound"
-  },
-  {
-    "appid": 2377930,
-    "name": "Destiny of Immortal"
-  },
-  {
-    "appid": 3472040,
-    "name": "NBA 2K26"
-  },
-  {
-    "appid": 2958210,
-    "name": "Connie and the Essence of Chaos"
-  },
-  {
-    "appid": 602960,
-    "name": "Barotrauma"
-  },
-  {
-    "appid": 1262540,
-    "name": "Need for Speed™"
-  },
-  {
-    "appid": 1324780,
-    "name": "Easy Red 2"
-  },
-  {
-    "appid": 960090,
-    "name": "Bloons TD 6"
-  },
-  {
-    "appid": 977950,
-    "name": "A Dance of Fire and Ice"
-  },
-  {
-    "appid": 1172710,
-    "name": "Dune: Awakening"
-  },
-  {
-    "appid": 753640,
-    "name": "Outer Wilds"
-  },
-  {
-    "appid": 2622380,
-    "name": "ELDEN RING NIGHTREIGN"
-  },
-  {
-    "appid": 1190970,
-    "name": "House Flipper 2"
-  },
-  {
-    "appid": 1284190,
-    "name": "The Planet Crafter"
-  },
-  {
-    "appid": 2909400,
-    "name": "FINAL FANTASY VII REBIRTH"
-  },
-  {
-    "appid": 568220,
-    "name": "Lobotomy Corporation | Monster Management Simulation"
-  },
-  {
-    "appid": 594650,
-    "name": "Hunt: Showdown 1896"
-  },
-  {
-    "appid": 3004390,
-    "name": "The Cave Diver"
-  },
-  {
-    "appid": 805550,
-    "name": "Assetto Corsa Competizione"
-  },
-  {
-    "appid": 2527160,
-    "name": "Desktop Explorer"
-  },
-  {
-    "appid": 774171,
-    "name": "Muse Dash"
-  },
-  {
-    "appid": 2957720,
-    "name": "Neon Inferno"
-  },
-  {
-    "appid": 1151340,
-    "name": "Fallout 76"
-  },
-  {
-    "appid": 1812450,
-    "name": "Bellwright"
-  },
-  {
-    "appid": 440900,
-    "name": "Conan Exiles Enhanced"
-  },
-  {
-    "appid": 2668510,
-    "name": "Red Dead Redemption"
-  },
-  {
-    "appid": 1361210,
-    "name": "Warhammer 40,000: Darktide"
-  },
-  {
-    "appid": 1238810,
-    "name": "Battlefield™ V"
+    "appid": 4032770,
+    "name": "Warrior of Lust"
   },
   {
     "appid": 4260840,
     "name": "STRANGER THAN HEAVEN"
   },
   {
-    "appid": 2623190,
-    "name": "The Elder Scrolls IV: Oblivion Remastered"
+    "appid": 1466860,
+    "name": "Age of Empires IV: Anniversary Edition"
   },
   {
-    "appid": 1915380,
-    "name": "Garden Life: A Cozy Simulator"
+    "appid": 2505590,
+    "name": "TK Punk Gold"
+  },
+  {
+    "appid": 3604560,
+    "name": "Figure Shop Simulator"
+  },
+  {
+    "appid": 2697000,
+    "name": "The Legend of Khiimori"
+  },
+  {
+    "appid": 979690,
+    "name": "The Ascent"
+  },
+  {
+    "appid": 233860,
+    "name": "Kenshi"
+  },
+  {
+    "appid": 1839060,
+    "name": "Polylithic"
+  },
+  {
+    "appid": 1790600,
+    "name": "DRAGON BALL: Sparking! ZERO"
+  },
+  {
+    "appid": 4231820,
+    "name": "Castlevania: Belmont's Curse"
+  },
+  {
+    "appid": 1794680,
+    "name": "Vampire Survivors"
+  },
+  {
+    "appid": 513710,
+    "name": "SCUM"
+  },
+  {
+    "appid": 3340780,
+    "name": "Kungfu Card"
+  },
+  {
+    "appid": 1162750,
+    "name": "Songs of Syx"
+  },
+  {
+    "appid": 312520,
+    "name": "Rain World"
+  },
+  {
+    "appid": 107410,
+    "name": "Arma 3"
+  },
+  {
+    "appid": 3641000,
+    "name": "The Incident at Galley House"
+  },
+  {
+    "appid": 477160,
+    "name": "Human Fall Flat"
+  },
+  {
+    "appid": 1133870,
+    "name": "Space Engineers 2"
+  },
+  {
+    "appid": 286160,
+    "name": "Tabletop Simulator"
+  },
+  {
+    "appid": 3950130,
+    "name": "Database Detective: Minor Crimes Division"
+  },
+  {
+    "appid": 4242290,
+    "name": "SPITE: Taking the Boss's Wife, Sister and Mother"
+  },
+  {
+    "appid": 1721110,
+    "name": "Abyssus"
+  },
+  {
+    "appid": 1260320,
+    "name": "Party Animals"
+  },
+  {
+    "appid": 1846380,
+    "name": "Need for Speed™ Unbound"
+  },
+  {
+    "appid": 1431300,
+    "name": "SAND: Raiders of Sophie"
+  },
+  {
+    "appid": 4225400,
+    "name": "I.T. Never Ends"
+  },
+  {
+    "appid": 2916700,
+    "name": "Attack on Titan 3 / A.O.T. 3"
+  },
+  {
+    "appid": 2622380,
+    "name": "ELDEN RING NIGHTREIGN"
+  },
+  {
+    "appid": 3372060,
+    "name": "Hell Maiden"
+  },
+  {
+    "appid": 3633750,
+    "name": "Love Confessions on the Adventure"
+  },
+  {
+    "appid": 2956680,
+    "name": "LORT"
+  },
+  {
+    "appid": 400750,
+    "name": "Call to Arms - Gates of Hell: Ostfront"
+  },
+  {
+    "appid": 3602290,
+    "name": "FEMBOY FUTA HOUSE"
+  },
+  {
+    "appid": 3101040,
+    "name": "Magical Girl Witch Trials"
+  },
+  {
+    "appid": 4216180,
+    "name": "IGNOBLE"
+  },
+  {
+    "appid": 3432480,
+    "name": "Shards of Order"
+  },
+  {
+    "appid": 2209900,
+    "name": "Moonlight Peaks"
+  },
+  {
+    "appid": 2060160,
+    "name": "The Farmer Was Replaced"
   },
   {
     "appid": 3748480,
     "name": "Homeostasis"
   },
   {
-    "appid": 4402950,
-    "name": "HEXSTORM: Tears of Arcadia"
+    "appid": 1169040,
+    "name": "Necesse"
   },
   {
-    "appid": 1262580,
-    "name": "Need for Speed™ Payback"
+    "appid": 703080,
+    "name": "Planet Zoo"
   },
   {
-    "appid": 2244210,
-    "name": "Echoes of Aincrad"
+    "appid": 1465360,
+    "name": "SnowRunner"
   },
   {
-    "appid": 427410,
-    "name": "Abiotic Factor"
+    "appid": 2378900,
+    "name": "The Coffin of Andy and Leyley"
   },
   {
-    "appid": 4217690,
-    "name": "Uncanny Tales: The Watcher"
+    "appid": 4611990,
+    "name": "日本事故物件監視協会3 -Japan Stigmatized Property-"
   },
   {
-    "appid": 1943730,
-    "name": "Wicked Island"
+    "appid": 945360,
+    "name": "Among Us"
   },
   {
-    "appid": 2975950,
-    "name": "Solasta II"
+    "appid": 4950470,
+    "name": "Tidy Up Together"
   },
   {
-    "appid": 3672400,
-    "name": "Farever"
+    "appid": 3008130,
+    "name": "Dying Light: The Beast"
   },
   {
-    "appid": 2840770,
-    "name": "Avatar: Frontiers of Pandora™"
+    "appid": 4324480,
+    "name": "Dirty Business"
+  },
+  {
+    "appid": 3059520,
+    "name": "F1® 25"
+  },
+  {
+    "appid": 805550,
+    "name": "Assetto Corsa Competizione"
+  },
+  {
+    "appid": 3628950,
+    "name": "Succubus Successor: Delilah's Juicy Journey"
+  },
+  {
+    "appid": 1361210,
+    "name": "Warhammer 40,000: Darktide"
+  },
+  {
+    "appid": 3373660,
+    "name": "Look Outside"
+  },
+  {
+    "appid": 1284190,
+    "name": "The Planet Crafter"
+  },
+  {
+    "appid": 686810,
+    "name": "Hell Let Loose"
+  },
+  {
+    "appid": 1201270,
+    "name": "A Space for the Unbound"
+  },
+  {
+    "appid": 1621690,
+    "name": "Core Keeper"
+  },
+  {
+    "appid": 440900,
+    "name": "Conan Exiles Enhanced"
+  },
+  {
+    "appid": 1190970,
+    "name": "House Flipper 2"
+  },
+  {
+    "appid": 2680670,
+    "name": "Wardrum"
+  },
+  {
+    "appid": 3940610,
+    "name": "EA SPORTS™ Madden NFL 27"
+  },
+  {
+    "appid": 3942470,
+    "name": "Origin Story - Season 1"
+  },
+  {
+    "appid": 2377930,
+    "name": "Destiny of Immortal"
+  },
+  {
+    "appid": 2651410,
+    "name": "The Endless Abyss: A Busty Cop’s Corrupted Soul"
+  },
+  {
+    "appid": 1812450,
+    "name": "Bellwright"
+  },
+  {
+    "appid": 1172710,
+    "name": "Dune: Awakening"
   },
   {
     "appid": 1766060,
@@ -1936,1200 +1796,1280 @@
     "name": "Supermarket Simulator"
   },
   {
-    "appid": 3902800,
-    "name": "[HERROR] Gas Station Case"
-  },
-  {
-    "appid": 1817030,
-    "name": "Swordcery"
-  },
-  {
-    "appid": 1922560,
-    "name": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition"
-  },
-  {
-    "appid": 1808500,
-    "name": "ARC Raiders"
-  },
-  {
-    "appid": 1681430,
-    "name": "RoboCop: Rogue City"
-  },
-  {
-    "appid": 2835570,
-    "name": "Buckshot Roulette"
-  },
-  {
-    "appid": 2906500,
-    "name": "The Thing That Happened"
-  },
-  {
-    "appid": 3326230,
-    "name": "Hozy"
-  },
-  {
-    "appid": 2277560,
-    "name": "WUCHANG: Fallen Feathers"
-  },
-  {
-    "appid": 4223300,
-    "name": "Birds of War"
-  },
-  {
-    "appid": 2379780,
-    "name": "Balatro"
-  },
-  {
-    "appid": 1839060,
-    "name": "Polylithic"
-  },
-  {
-    "appid": 2004680,
-    "name": "Voidling Bound"
-  },
-  {
-    "appid": 3119540,
-    "name": "Scriptorium: Master of Manuscripts"
-  },
-  {
-    "appid": 2710480,
-    "name": "The Wife Next Door"
-  },
-  {
-    "appid": 3962040,
-    "name": "Ranchbound"
-  },
-  {
-    "appid": 1766240,
-    "name": "Mazey Village"
-  },
-  {
-    "appid": 1221480,
-    "name": "Big Hops Together"
-  },
-  {
-    "appid": 2524850,
-    "name": "Denshattack!"
-  },
-  {
-    "appid": 333640,
-    "name": "Caves of Qud"
-  },
-  {
-    "appid": 314650,
-    "name": "SpaceEngine"
-  },
-  {
-    "appid": 1621690,
-    "name": "Core Keeper"
-  },
-  {
-    "appid": 3825390,
-    "name": "BLUE REFLECTION Quartet"
-  },
-  {
-    "appid": 3279440,
-    "name": "Drone Sector"
-  },
-  {
-    "appid": 3214610,
-    "name": "Cinderia"
-  },
-  {
-    "appid": 3115220,
-    "name": "Town to City"
-  },
-  {
-    "appid": 1509960,
-    "name": "PICO PARK"
-  },
-  {
-    "appid": 2939790,
-    "name": "Lunarium"
-  },
-  {
-    "appid": 435150,
-    "name": "Divinity: Original Sin 2 - Definitive Edition"
-  },
-  {
-    "appid": 2533960,
-    "name": "SUMMERHOUSE"
-  },
-  {
-    "appid": 1437760,
-    "name": "Peripeteia"
-  },
-  {
-    "appid": 3117820,
-    "name": "Sultan's Game"
-  },
-  {
-    "appid": 3929740,
-    "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow"
-  },
-  {
-    "appid": 2168680,
-    "name": "Nuclear Option"
-  },
-  {
-    "appid": 1604270,
-    "name": "Broken Arrow"
-  },
-  {
-    "appid": 22380,
-    "name": "Fallout: New Vegas"
-  },
-  {
-    "appid": 3834090,
-    "name": "YAPYAP"
-  },
-  {
-    "appid": 582010,
-    "name": "Monster Hunter: World"
+    "appid": 1259420,
+    "name": "Days Gone"
   },
   {
     "appid": 3994680,
     "name": "Meat Grinder: Hotdog Simulator"
   },
   {
-    "appid": 1444480,
-    "name": "Turing Complete"
+    "appid": 2975950,
+    "name": "Solasta II"
   },
   {
-    "appid": 202970,
-    "name": "Call of Duty®: Black Ops II"
+    "appid": 602960,
+    "name": "Barotrauma"
   },
   {
-    "appid": 585420,
-    "name": "Trailmakers"
+    "appid": 1462040,
+    "name": "FINAL FANTASY VII REMAKE INTERGRADE"
   },
   {
-    "appid": 1942280,
-    "name": "Brotato"
+    "appid": 3981100,
+    "name": "Leaf it Alone"
   },
   {
-    "appid": 3873040,
-    "name": "Last Breath"
+    "appid": 753640,
+    "name": "Outer Wilds"
   },
   {
-    "appid": 2019620,
-    "name": "GERONIMO"
+    "appid": 22380,
+    "name": "Fallout: New Vegas"
   },
   {
-    "appid": 686060,
-    "name": "Mewgenics"
+    "appid": 4563870,
+    "name": "Miseria"
   },
   {
-    "appid": 2527500,
-    "name": "MiSide"
+    "appid": 933110,
+    "name": "Age of Empires III: Definitive Edition"
   },
   {
-    "appid": 632470,
-    "name": "Disco Elysium - The Final Cut"
-  },
-  {
-    "appid": 4216280,
-    "name": "Dverghold"
-  },
-  {
-    "appid": 4088670,
-    "name": "Ludus Magnatus: Gladiator Manager Simulator"
-  },
-  {
-    "appid": 3483510,
-    "name": "The Adventures of Elliot: The Millennium Tales"
-  },
-  {
-    "appid": 303210,
-    "name": "The Beginner's Guide"
-  },
-  {
-    "appid": 990080,
-    "name": "Hogwarts Legacy"
-  },
-  {
-    "appid": 2163330,
-    "name": "Yet Another Zombie Survivors"
-  },
-  {
-    "appid": 1295660,
-    "name": "Sid Meier's Civilization VII"
-  },
-  {
-    "appid": 1466060,
-    "name": "Tainted Grail: The Fall of Avalon"
-  },
-  {
-    "appid": 3453910,
-    "name": "Happy's Humble Burger Cult"
-  },
-  {
-    "appid": 1201270,
-    "name": "A Space for the Unbound"
-  },
-  {
-    "appid": 1256670,
-    "name": "Library Of Ruina"
-  },
-  {
-    "appid": 204360,
-    "name": "Castle Crashers®"
-  },
-  {
-    "appid": 220200,
-    "name": "Kerbal Space Program"
-  },
-  {
-    "appid": 3282420,
-    "name": "Zoominoes"
-  },
-  {
-    "appid": 3914860,
-    "name": "Moss: The Forgotten Relic"
-  },
-  {
-    "appid": 1577120,
-    "name": "The Quarry"
-  },
-  {
-    "appid": 1286220,
-    "name": "Sea Power : Naval Combat in the Missile Age"
-  },
-  {
-    "appid": 454650,
-    "name": "DRAGON BALL XENOVERSE 2"
-  },
-  {
-    "appid": 374320,
-    "name": "DARK SOULS™ III"
-  },
-  {
-    "appid": 4413460,
-    "name": "Airport Manager Simulator 2026"
-  },
-  {
-    "appid": 3219010,
-    "name": "Fogpiercer"
-  },
-  {
-    "appid": 2195120,
-    "name": "Go-Go Town!"
-  },
-  {
-    "appid": 2747330,
-    "name": "Species: Unknown"
-  },
-  {
-    "appid": 2495100,
-    "name": "Hello Kitty Island Adventure"
-  },
-  {
-    "appid": 1129580,
-    "name": "Medieval Dynasty"
-  },
-  {
-    "appid": 2936290,
-    "name": "The Life and Suffering of Prince Jerian"
-  },
-  {
-    "appid": 1262350,
-    "name": "SIGNALIS"
-  },
-  {
-    "appid": 1984270,
-    "name": "Digimon Story Time Stranger"
-  },
-  {
-    "appid": 4071500,
-    "name": "Lilim Clicker"
-  },
-  {
-    "appid": 1963610,
-    "name": "Road to Vostok"
-  },
-  {
-    "appid": 4809100,
-    "name": "Heartbeat Impact"
-  },
-  {
-    "appid": 447040,
-    "name": "Watch_Dogs® 2"
-  },
-  {
-    "appid": 242760,
-    "name": "The Forest"
-  },
-  {
-    "appid": 1602000,
-    "name": "Hotel Architect"
-  },
-  {
-    "appid": 2062430,
-    "name": "BALL x PIT"
-  },
-  {
-    "appid": 386940,
-    "name": "Ultimate Chicken Horse"
-  },
-  {
-    "appid": 570940,
-    "name": "DARK SOULS™: REMASTERED"
-  },
-  {
-    "appid": 3940610,
-    "name": "EA SPORTS™ Madden NFL 27"
-  },
-  {
-    "appid": 3258560,
-    "name": "I'm No Demonlord"
-  },
-  {
-    "appid": 3357960,
-    "name": "KuloNiku: Bowl Up!"
-  },
-  {
-    "appid": 2677660,
-    "name": "Indiana Jones and the Great Circle"
-  },
-  {
-    "appid": 3580160,
-    "name": "Ambrosia Sky"
-  },
-  {
-    "appid": 1501310,
-    "name": "The Ranchers"
-  },
-  {
-    "appid": 3948120,
-    "name": "Scritchy Scratchy"
-  },
-  {
-    "appid": 3656800,
-    "name": "Train Sim World® 6"
-  },
-  {
-    "appid": 208650,
-    "name": "Batman™: Arkham Knight"
-  },
-  {
-    "appid": 1966720,
-    "name": "Lethal Company"
-  },
-  {
-    "appid": 3928550,
-    "name": "Fog of War: Book Two"
-  },
-  {
-    "appid": 1216320,
-    "name": "Shieldwall"
+    "appid": 4031460,
+    "name": "Harem vs Zombies"
   },
   {
     "appid": 1449690,
     "name": "The Walking Dead: The Telltale Definitive Series"
   },
   {
-    "appid": 4468030,
-    "name": "OFFBEAT"
+    "appid": 1040200,
+    "name": "Crime Scene Cleaner"
   },
   {
-    "appid": 39210,
-    "name": "FINAL FANTASY XIV Online"
+    "appid": 1151340,
+    "name": "Fallout 76"
   },
   {
-    "appid": 1663850,
-    "name": "REPLACED"
+    "appid": 1129580,
+    "name": "Medieval Dynasty"
   },
   {
-    "appid": 4156580,
-    "name": "Weed Supermarket Simulator"
+    "appid": 2277560,
+    "name": "WUCHANG: Fallen Feathers"
   },
   {
-    "appid": 648410,
-    "name": "Colony Ship: A Post-Earth Role Playing Game"
+    "appid": 3436280,
+    "name": "Glamour Kaleidoscope"
   },
   {
-    "appid": 880940,
-    "name": "Pummel Party"
+    "appid": 1866130,
+    "name": "Morbid Metal"
   },
   {
-    "appid": 782330,
-    "name": "DOOM Eternal"
+    "appid": 1324780,
+    "name": "Easy Red 2"
   },
   {
-    "appid": 3562120,
-    "name": "Magical Princess"
+    "appid": 1238810,
+    "name": "Battlefield™ V"
   },
   {
-    "appid": 3551340,
-    "name": "Football Manager 26"
+    "appid": 4800590,
+    "name": "Supermarket Chaos"
   },
   {
-    "appid": 1941540,
-    "name": "Mafia: The Old Country"
+    "appid": 865360,
+    "name": "We Were Here Together"
   },
   {
-    "appid": 1044720,
-    "name": "Farthest Frontier"
+    "appid": 1645820,
+    "name": "SurrounDead"
   },
   {
-    "appid": 4080030,
-    "name": "The Message from Deep Space"
+    "appid": 314650,
+    "name": "SpaceEngine"
   },
   {
-    "appid": 3855540,
-    "name": "BLACK SOULS II"
+    "appid": 427410,
+    "name": "Abiotic Factor"
   },
   {
-    "appid": 1004640,
-    "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles"
+    "appid": 1636440,
+    "name": "SILENT HILL: Townfall"
   },
   {
-    "appid": 1593500,
-    "name": "God of War"
+    "appid": 568220,
+    "name": "Lobotomy Corporation | Monster Management Simulation"
   },
   {
-    "appid": 2567870,
-    "name": "Chained Together"
-  },
-  {
-    "appid": 2210,
-    "name": "Quake 4"
-  },
-  {
-    "appid": 4061800,
-    "name": "A Game About Penguins"
-  },
-  {
-    "appid": 4533730,
-    "name": "Yokai: Lust Secret 🪭"
-  },
-  {
-    "appid": 4773840,
-    "name": "City Lights Love Bites Season 1 - The Reset"
-  },
-  {
-    "appid": 1203190,
-    "name": "Wreckfest 2"
+    "appid": 582660,
+    "name": "Black Desert"
   },
   {
     "appid": 3959530,
     "name": "Landscaper Simulator"
   },
   {
-    "appid": 4434840,
-    "name": "AI is Home - Survival Thriller"
+    "appid": 4836540,
+    "name": "Company of Heroes 3: Final Stand"
   },
   {
-    "appid": 3276050,
-    "name": "SpaceCraft"
+    "appid": 2379780,
+    "name": "Balatro"
   },
   {
-    "appid": 508440,
-    "name": "Totally Accurate Battle Simulator"
+    "appid": 632360,
+    "name": "Risk of Rain 2"
   },
   {
-    "appid": 3199390,
-    "name": "INAYAH - Life after Gods"
+    "appid": 4927490,
+    "name": "Cleaning Up The Puzzle Gallery"
   },
   {
-    "appid": 1446900,
-    "name": "Fallen Tear: The Ascension"
+    "appid": 4458730,
+    "name": "NTR Hunter"
   },
   {
-    "appid": 3709430,
-    "name": "Witch's Apocalyptic Journey"
+    "appid": 2479090,
+    "name": "Prelude Dark Pain"
   },
   {
-    "appid": 3198890,
-    "name": "Scale the Depths"
+    "appid": 3472040,
+    "name": "NBA 2K26"
   },
   {
-    "appid": 883710,
-    "name": "Resident Evil 2"
+    "appid": 1942280,
+    "name": "Brotato"
   },
   {
-    "appid": 1677280,
-    "name": "Company of Heroes 3"
+    "appid": 686060,
+    "name": "Mewgenics"
   },
   {
-    "appid": 3621330,
-    "name": "Pro Jank Footy"
+    "appid": 606160,
+    "name": "ROUTINE"
   },
   {
-    "appid": 4244510,
-    "name": "Pratfall"
+    "appid": 220200,
+    "name": "Kerbal Space Program"
   },
   {
-    "appid": 1328660,
-    "name": "Need for Speed™ Hot Pursuit Remastered"
+    "appid": 774171,
+    "name": "Muse Dash"
   },
   {
-    "appid": 1833570,
-    "name": "Vampire Syndicate: Gangs of MoonFall"
+    "appid": 4673710,
+    "name": "Infinite Backrooms"
   },
   {
-    "appid": 951770,
-    "name": "Forsaken Realms: Vahrin's Call"
+    "appid": 1604270,
+    "name": "Broken Arrow"
   },
   {
-    "appid": 3314790,
-    "name": "CloverPit"
+    "appid": 2527500,
+    "name": "MiSide"
   },
   {
-    "appid": 1659420,
-    "name": "UNCHARTED™: Legacy of Thieves Collection"
+    "appid": 371970,
+    "name": "Barony"
   },
   {
-    "appid": 3404470,
-    "name": "Maltese's Fluffy Onsen"
+    "appid": 1577120,
+    "name": "The Quarry"
   },
   {
-    "appid": 1262600,
-    "name": "Need for Speed™ Rivals"
+    "appid": 977950,
+    "name": "A Dance of Fire and Ice"
   },
   {
-    "appid": 2417610,
-    "name": "METAL GEAR SOLID Δ: SNAKE EATER"
+    "appid": 3124540,
+    "name": "Far Far West"
   },
   {
-    "appid": 3522360,
-    "name": "WARSHIFT 2"
+    "appid": 202970,
+    "name": "Call of Duty®: Black Ops II"
   },
   {
-    "appid": 4148240,
-    "name": "Road to Empress Ⅱ"
+    "appid": 2710480,
+    "name": "The Wife Next Door"
   },
   {
-    "appid": 2904040,
-    "name": "Cheap Car Repair"
+    "appid": 2524850,
+    "name": "Denshattack!"
   },
   {
-    "appid": 1501750,
-    "name": "Lords of the Fallen"
+    "appid": 457140,
+    "name": "Oxygen Not Included"
   },
   {
-    "appid": 3137100,
-    "name": "Where Girls Are Made"
+    "appid": 632470,
+    "name": "Disco Elysium - The Final Cut"
   },
   {
-    "appid": 249130,
-    "name": "LEGO® Marvel™ Super Heroes"
+    "appid": 534380,
+    "name": "Dying Light 2 Stay Human: Reloaded Edition"
   },
   {
-    "appid": 1401590,
-    "name": "Disney Dreamlight Valley"
+    "appid": 1582650,
+    "name": "Caravan SandWitch"
   },
   {
-    "appid": 992300,
-    "name": "嗜血印 Bloody Spell"
+    "appid": 2980270,
+    "name": "HackHub - Ultimate Hacker Simulator"
   },
   {
-    "appid": 12210,
-    "name": "Grand Theft Auto IV: The Complete Edition"
+    "appid": 3672400,
+    "name": "Farever"
   },
   {
-    "appid": 3872710,
-    "name": "Is the Vat Utopia or Dystopia?"
+    "appid": 1097840,
+    "name": "Gears 5"
   },
   {
-    "appid": 2688950,
-    "name": "Planet Coaster 2"
+    "appid": 2936290,
+    "name": "The Life and Suffering of Prince Jerian"
   },
   {
-    "appid": 1971650,
-    "name": "OCTOPATH TRAVELER II"
+    "appid": 1466060,
+    "name": "Tainted Grail: The Fall of Avalon"
   },
   {
-    "appid": 3097560,
-    "name": "Liar's Bar"
+    "appid": 837470,
+    "name": "Untitled Goose Game"
   },
   {
-    "appid": 1285190,
-    "name": "Borderlands 4"
+    "appid": 386940,
+    "name": "Ultimate Chicken Horse"
   },
   {
-    "appid": 2393970,
-    "name": "Human Host"
+    "appid": 1295660,
+    "name": "Sid Meier's Civilization VII"
   },
   {
-    "appid": 2212670,
-    "name": "MakeRoom"
+    "appid": 4414880,
+    "name": "Passion's Playground"
   },
   {
-    "appid": 307780,
-    "name": "Mortal Kombat X"
+    "appid": 3141630,
+    "name": "Montabi"
   },
   {
-    "appid": 3417940,
-    "name": "Cat Chaos"
+    "appid": 4626940,
+    "name": "Scratch the Ticket"
   },
   {
-    "appid": 4286040,
-    "name": "Unicycle Together"
+    "appid": 2163330,
+    "name": "Yet Another Zombie Survivors"
   },
   {
-    "appid": 3186040,
-    "name": "拖拖拉拉小菲镇"
+    "appid": 2527160,
+    "name": "Desktop Explorer"
   },
   {
-    "appid": 2101390,
-    "name": "Lost and Found Co."
+    "appid": 1922560,
+    "name": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition"
   },
   {
-    "appid": 1703340,
-    "name": "The Stanley Parable: Ultra Deluxe"
+    "appid": 4071500,
+    "name": "Lilim Clicker"
   },
   {
-    "appid": 2373990,
-    "name": "Solo Leveling: ARISE OVERDRIVE"
+    "appid": 3929740,
+    "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow"
   },
   {
-    "appid": 1282100,
-    "name": "REMNANT II®"
+    "appid": 3214610,
+    "name": "Cinderia"
   },
   {
-    "appid": 1465460,
-    "name": "Infection Free Zone"
+    "appid": 2681030,
+    "name": "Outbound"
   },
   {
-    "appid": 747660,
-    "name": "Five Nights at Freddy's: Security Breach"
+    "appid": 3294440,
+    "name": "Memoirium"
   },
   {
-    "appid": 286690,
-    "name": "Metro 2033 Redux"
-  },
-  {
-    "appid": 3026730,
-    "name": "Tamer: King of Dinosaurs"
-  },
-  {
-    "appid": 1211020,
-    "name": "Wobbly Life"
-  },
-  {
-    "appid": 4297840,
-    "name": "Rock Bottom"
-  },
-  {
-    "appid": 3841510,
-    "name": "DYNASTY WARRIORS 3: Complete Edition Remastered"
-  },
-  {
-    "appid": 2274620,
-    "name": "Discounty"
-  },
-  {
-    "appid": 1702390,
-    "name": "Voor De Kroon"
-  },
-  {
-    "appid": 2536520,
-    "name": "Diablo II: Resurrected – Infernal Edition"
-  },
-  {
-    "appid": 529340,
-    "name": "Victoria 3"
-  },
-  {
-    "appid": 10,
-    "name": "Counter-Strike"
-  },
-  {
-    "appid": 3570110,
-    "name": "Summoner's Gambit"
-  },
-  {
-    "appid": 2014780,
-    "name": "X-Plane 12"
-  },
-  {
-    "appid": 2739590,
-    "name": "Mad Island"
-  },
-  {
-    "appid": 1594940,
-    "name": "Little Witch in the Woods"
-  },
-  {
-    "appid": 1778820,
-    "name": "TEKKEN 8"
-  },
-  {
-    "appid": 3331000,
-    "name": "Retrowave 2"
-  },
-  {
-    "appid": 3615160,
-    "name": "Teddy's Haven"
-  },
-  {
-    "appid": 2827200,
-    "name": "MIMESIS"
-  },
-  {
-    "appid": 1451940,
-    "name": "NEEDY STREAMER OVERLOAD"
-  },
-  {
-    "appid": 1145350,
-    "name": "Hades II"
-  },
-  {
-    "appid": 2208920,
-    "name": "Assassin's Creed Valhalla"
-  },
-  {
-    "appid": 1809540,
-    "name": "Nine Sols"
-  },
-  {
-    "appid": 3159330,
-    "name": "Assassin’s Creed Shadows"
+    "appid": 960090,
+    "name": "Bloons TD 6"
   },
   {
     "appid": 2416450,
     "name": "MOUSE: P.I. For Hire"
   },
   {
-    "appid": 1693980,
-    "name": "Dead Space"
+    "appid": 2004680,
+    "name": "Voidling Bound"
   },
   {
-    "appid": 3698490,
-    "name": "ACRODRIFT: FPV Drone Simulator"
+    "appid": 3276050,
+    "name": "SpaceCraft"
   },
   {
-    "appid": 4064510,
-    "name": "MOLE"
+    "appid": 4466090,
+    "name": "The Forbidden Tomes of Olipos"
   },
   {
-    "appid": 2698940,
-    "name": "The Crew Motorfest"
+    "appid": 303210,
+    "name": "The Beginner's Guide"
   },
   {
-    "appid": 625960,
-    "name": "Stoneshard"
+    "appid": 286690,
+    "name": "Metro 2033 Redux"
   },
   {
-    "appid": 4246300,
-    "name": "Chainsaw"
+    "appid": 594650,
+    "name": "Hunt: Showdown 1896"
   },
   {
-    "appid": 2492670,
-    "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
+    "appid": 1981610,
+    "name": "Wanted: Dead"
   },
   {
-    "appid": 2859970,
-    "name": "Omen"
+    "appid": 1509960,
+    "name": "PICO PARK"
   },
   {
-    "appid": 2824380,
-    "name": "Exotica 2: Pet Shop Simulator"
+    "appid": 4333200,
+    "name": "Lost & Found: A This Bed We Made Story"
   },
   {
-    "appid": 2808550,
-    "name": "Sudden Strike 5"
+    "appid": 1221480,
+    "name": "Big Hops Together"
   },
   {
-    "appid": 3446240,
-    "name": "Eastern Era"
+    "appid": 2668510,
+    "name": "Red Dead Redemption"
   },
   {
-    "appid": 2445690,
-    "name": "Lost Castle 2"
+    "appid": 1941540,
+    "name": "Mafia: The Old Country"
   },
   {
-    "appid": 1222700,
-    "name": "A Way Out"
+    "appid": 3656800,
+    "name": "Train Sim World® 6"
   },
   {
-    "appid": 1641960,
-    "name": "Forever Skies"
+    "appid": 3117820,
+    "name": "Sultan's Game"
   },
   {
-    "appid": 2054970,
-    "name": "Dragon's Dogma 2"
+    "appid": 447040,
+    "name": "Watch_Dogs® 2"
   },
   {
-    "appid": 4092940,
-    "name": "Lucky Shot"
+    "appid": 2019620,
+    "name": "GERONIMO"
   },
   {
-    "appid": 2379910,
-    "name": "Dystopika"
+    "appid": 1943730,
+    "name": "Wicked Island"
   },
   {
-    "appid": 1165870,
-    "name": "Mahou Arms"
+    "appid": 1703340,
+    "name": "The Stanley Parable: Ultra Deluxe"
   },
   {
-    "appid": 1335790,
-    "name": "Operation: Tango"
+    "appid": 1324130,
+    "name": "Stranded: Alien Dawn"
   },
   {
-    "appid": 1934680,
-    "name": "Age of Mythology: Retold"
+    "appid": 208650,
+    "name": "Batman™: Arkham Knight"
   },
   {
-    "appid": 1468810,
-    "name": "鬼谷八荒 Tale of Immortal"
+    "appid": 1610440,
+    "name": "Minds Beneath Us"
   },
   {
-    "appid": 1609230,
-    "name": "Scarlet Hollow"
+    "appid": 1044720,
+    "name": "Farthest Frontier"
   },
   {
-    "appid": 2873080,
-    "name": "The NOexistenceN of you AND me"
+    "appid": 3855540,
+    "name": "BLACK SOULS II"
   },
   {
-    "appid": 1353230,
-    "name": "Bomb Rush Cyberfunk"
+    "appid": 3024040,
+    "name": "Stronghold Crusader: Definitive Edition"
   },
   {
-    "appid": 1167630,
-    "name": "Teardown"
+    "appid": 585420,
+    "name": "Trailmakers"
   },
   {
-    "appid": 3910920,
-    "name": "Agent Sherine: Dancing Fox"
+    "appid": 4061800,
+    "name": "A Game About Penguins"
   },
   {
-    "appid": 599140,
-    "name": "Graveyard Keeper"
+    "appid": 2026820,
+    "name": "Die in the Dungeon"
   },
   {
-    "appid": 1332010,
-    "name": "Stray"
+    "appid": 2835570,
+    "name": "Buckshot Roulette"
   },
   {
-    "appid": 1181550,
-    "name": "Carnival Hunt"
-  },
-  {
-    "appid": 1859910,
-    "name": "Legend of Mortal"
-  },
-  {
-    "appid": 921570,
-    "name": "OCTOPATH TRAVELER™"
-  },
-  {
-    "appid": 620,
-    "name": "Portal 2"
-  },
-  {
-    "appid": 3683770,
-    "name": "Boba Cafe Simulator"
-  },
-  {
-    "appid": 1150690,
-    "name": "OMORI"
-  },
-  {
-    "appid": 1062090,
-    "name": "Timberborn"
-  },
-  {
-    "appid": 3256150,
-    "name": "Moomintroll: Winter's Warmth"
-  },
-  {
-    "appid": 1875580,
-    "name": "Mina the Hollower"
-  },
-  {
-    "appid": 1629520,
-    "name": "A Little to the Left"
-  },
-  {
-    "appid": 3110760,
-    "name": "Alabaster Dawn"
-  },
-  {
-    "appid": 2185060,
-    "name": "Two Point Museum"
-  },
-  {
-    "appid": 1989270,
-    "name": "Slay the Princess — The Pristine Cut"
-  },
-  {
-    "appid": 500,
-    "name": "Left 4 Dead"
-  },
-  {
-    "appid": 3529670,
-    "name": "FULL METAL COFFIN"
-  },
-  {
-    "appid": 2803490,
-    "name": "Atomcraft"
-  },
-  {
-    "appid": 2133760,
-    "name": "Tiny Bookshop"
-  },
-  {
-    "appid": 220,
-    "name": "Half-Life 2"
-  },
-  {
-    "appid": 2624870,
-    "name": "Life is Strange: Reunion"
-  },
-  {
-    "appid": 1066890,
-    "name": "Automobilista 2"
-  },
-  {
-    "appid": 239030,
-    "name": "Papers, Please"
-  },
-  {
-    "appid": 1210320,
-    "name": "Potion Craft: Alchemist Simulator"
-  },
-  {
-    "appid": 328470,
-    "name": "Slave Zero"
-  },
-  {
-    "appid": 1920780,
-    "name": "Stray Gods: The Roleplaying Musical"
-  },
-  {
-    "appid": 3755860,
-    "name": "BLACK SOULS"
-  },
-  {
-    "appid": 2384580,
-    "name": "DYNASTY WARRIORS: ORIGINS"
-  },
-  {
-    "appid": 1562430,
-    "name": "DREDGE"
-  },
-  {
-    "appid": 2172910,
-    "name": "CAPTAIN TSUBASA 2: WORLD FIGHTERS"
-  },
-  {
-    "appid": 4643090,
-    "name": "The NOexistenceN of Lilith"
-  },
-  {
-    "appid": 1337010,
-    "name": "Alba: A Wildlife Adventure"
-  },
-  {
-    "appid": 266410,
-    "name": "iRacing"
-  },
-  {
-    "appid": 3167020,
-    "name": "Escape From Duckov"
-  },
-  {
-    "appid": 690830,
-    "name": "Foundation"
-  },
-  {
-    "appid": 4084710,
-    "name": "Rayman Legends Retold"
-  },
-  {
-    "appid": 3097300,
-    "name": "Creature Kitchen"
-  },
-  {
-    "appid": 1909950,
-    "name": "SUPER ROBOT WARS Y"
-  },
-  {
-    "appid": 1533390,
-    "name": "Gorilla Tag"
-  },
-  {
-    "appid": 1971870,
-    "name": "Mortal Kombat 1"
-  },
-  {
-    "appid": 1714510,
-    "name": "Kusan: City of Wolves"
-  },
-  {
-    "appid": 1139900,
-    "name": "Ghostrunner"
-  },
-  {
-    "appid": 3681610,
-    "name": "DRAGON QUEST MONSTERS: The Withered World"
-  },
-  {
-    "appid": 4111370,
-    "name": "Birdwatching Notebook"
-  },
-  {
-    "appid": 1411910,
-    "name": "Fallen Aces"
-  },
-  {
-    "appid": 2458860,
-    "name": "Summer Clover"
-  },
-  {
-    "appid": 2124490,
-    "name": "SILENT HILL 2"
-  },
-  {
-    "appid": 4033150,
-    "name": "Moka Love Relive♪"
-  },
-  {
-    "appid": 1388880,
-    "name": "Doki Doki Literature Club Plus!"
-  },
-  {
-    "appid": 307690,
-    "name": "Sleeping Dogs: Definitive Edition"
-  },
-  {
-    "appid": 4286120,
-    "name": "Photomaly"
-  },
-  {
-    "appid": 2290180,
-    "name": "Riders Republic"
-  },
-  {
-    "appid": 701160,
-    "name": "Kingdom Two Crowns"
-  },
-  {
-    "appid": 2420110,
-    "name": "Horizon Forbidden West™ Complete Edition"
-  },
-  {
-    "appid": 815370,
-    "name": "Green Hell"
-  },
-  {
-    "appid": 601150,
-    "name": "Devil May Cry 5"
-  },
-  {
-    "appid": 4824420,
-    "name": "Vespera"
-  },
-  {
-    "appid": 1574820,
-    "name": "Until Then"
-  },
-  {
-    "appid": 2444750,
-    "name": "Shape of Dreams"
-  },
-  {
-    "appid": 1672970,
-    "name": "Minecraft Dungeons"
-  },
-  {
-    "appid": 4914830,
-    "name": "Toy Shop Tidy Up"
-  },
-  {
-    "appid": 3116500,
-    "name": "Summer at Smile Café"
-  },
-  {
-    "appid": 1843840,
-    "name": "Rogue Point"
-  },
-  {
-    "appid": 648100,
-    "name": "Raging Loop"
-  },
-  {
-    "appid": 2878450,
-    "name": "Master of Command"
-  },
-  {
-    "appid": 3654560,
-    "name": "Plants vs. Zombies™: Replanted"
-  },
-  {
-    "appid": 3419520,
-    "name": "Quarantine Zone: The Last Check"
-  },
-  {
-    "appid": 4731620,
-    "name": "Fortune Mill"
-  },
-  {
-    "appid": 1631270,
-    "name": "StarRupture"
-  },
-  {
-    "appid": 262060,
-    "name": "Darkest Dungeon®"
+    "appid": 454650,
+    "name": "DRAGON BALL XENOVERSE 2"
   },
   {
     "appid": 4736830,
     "name": "S.O.L School Of Labyrinth"
   },
   {
-    "appid": 3418500,
-    "name": "CS Manager"
+    "appid": 1939390,
+    "name": "Dino Party"
   },
   {
-    "appid": 2836100,
-    "name": "Gemporium: A Cute Mining Sim"
+    "appid": 3967130,
+    "name": "Wild West Miner Simulator"
   },
   {
-    "appid": 2593340,
-    "name": "Wonderia"
+    "appid": 2824380,
+    "name": "Exotica 2: Pet Shop Simulator"
   },
   {
-    "appid": 1757300,
-    "name": "Jump Space"
+    "appid": 2840770,
+    "name": "Avatar: Frontiers of Pandora™"
   },
   {
-    "appid": 4003770,
-    "name": "Hololive Fantasy Battle"
+    "appid": 747660,
+    "name": "Five Nights at Freddy's: Security Breach"
   },
   {
-    "appid": 3882410,
-    "name": "Qliphah in Providence's Shadow"
+    "appid": 1282100,
+    "name": "REMNANT II®"
   },
   {
-    "appid": 4163030,
-    "name": "Cat Chess"
+    "appid": 2208920,
+    "name": "Assassin's Creed Valhalla"
   },
   {
-    "appid": 3797990,
-    "name": "Mind Inc"
+    "appid": 4246300,
+    "name": "Chainsaw"
   },
   {
-    "appid": 3534790,
-    "name": "Mesmalie"
+    "appid": 2623190,
+    "name": "The Elder Scrolls IV: Oblivion Remastered"
+  },
+  {
+    "appid": 204360,
+    "name": "Castle Crashers®"
+  },
+  {
+    "appid": 4468030,
+    "name": "OFFBEAT"
+  },
+  {
+    "appid": 1216320,
+    "name": "Shieldwall"
+  },
+  {
+    "appid": 1593500,
+    "name": "God of War"
+  },
+  {
+    "appid": 2747330,
+    "name": "Species: Unknown"
+  },
+  {
+    "appid": 1501750,
+    "name": "Lords of the Fallen"
+  },
+  {
+    "appid": 39210,
+    "name": "FINAL FANTASY XIV Online"
+  },
+  {
+    "appid": 648100,
+    "name": "Raging Loop"
+  },
+  {
+    "appid": 3483510,
+    "name": "The Adventures of Elliot: The Millennium Tales"
+  },
+  {
+    "appid": 2062430,
+    "name": "BALL x PIT"
+  },
+  {
+    "appid": 1062090,
+    "name": "Timberborn"
+  },
+  {
+    "appid": 4209830,
+    "name": "One Last Hand"
+  },
+  {
+    "appid": 3279440,
+    "name": "Drone Sector"
+  },
+  {
+    "appid": 1808500,
+    "name": "ARC Raiders"
+  },
+  {
+    "appid": 4773840,
+    "name": "City Lights Love Bites Season 1 - The Reset"
+  },
+  {
+    "appid": 2168680,
+    "name": "Nuclear Option"
+  },
+  {
+    "appid": 4223300,
+    "name": "Birds of War"
+  },
+  {
+    "appid": 3357960,
+    "name": "KuloNiku: Bowl Up!"
+  },
+  {
+    "appid": 1203190,
+    "name": "Wreckfest 2"
+  },
+  {
+    "appid": 524220,
+    "name": "NieR:Automata™"
+  },
+  {
+    "appid": 4207080,
+    "name": "HR Department of Love"
+  },
+  {
+    "appid": 1920780,
+    "name": "Stray Gods: The Roleplaying Musical"
+  },
+  {
+    "appid": 2909400,
+    "name": "FINAL FANTASY VII REBIRTH"
+  },
+  {
+    "appid": 3615160,
+    "name": "Teddy's Haven"
+  },
+  {
+    "appid": 1947910,
+    "name": "OPUS: Prism Peak"
+  },
+  {
+    "appid": 3551340,
+    "name": "Football Manager 26"
+  },
+  {
+    "appid": 239030,
+    "name": "Papers, Please"
+  },
+  {
+    "appid": 1659420,
+    "name": "UNCHARTED™: Legacy of Thieves Collection"
+  },
+  {
+    "appid": 990080,
+    "name": "Hogwarts Legacy"
+  },
+  {
+    "appid": 1256670,
+    "name": "Library Of Ruina"
+  },
+  {
+    "appid": 1984270,
+    "name": "Digimon Story Time Stranger"
+  },
+  {
+    "appid": 3873040,
+    "name": "Last Breath"
+  },
+  {
+    "appid": 880940,
+    "name": "Pummel Party"
+  },
+  {
+    "appid": 10,
+    "name": "Counter-Strike"
+  },
+  {
+    "appid": 1286220,
+    "name": "Sea Power : Naval Combat in the Missile Age"
+  },
+  {
+    "appid": 3430330,
+    "name": "Body Sushi"
+  },
+  {
+    "appid": 2939790,
+    "name": "Lunarium"
+  },
+  {
+    "appid": 3115220,
+    "name": "Town to City"
+  },
+  {
+    "appid": 1778820,
+    "name": "TEKKEN 8"
+  },
+  {
+    "appid": 570940,
+    "name": "DARK SOULS™: REMASTERED"
+  },
+  {
+    "appid": 3399900,
+    "name": "HellSlave II: Judgment of the Archon"
+  },
+  {
+    "appid": 2445980,
+    "name": "G-Rebels"
+  },
+  {
+    "appid": 2523720,
+    "name": "Gears of War: Reloaded"
+  },
+  {
+    "appid": 1989270,
+    "name": "Slay the Princess — The Pristine Cut"
+  },
+  {
+    "appid": 1963610,
+    "name": "Road to Vostok"
+  },
+  {
+    "appid": 582160,
+    "name": "Assassin's Creed® Origins"
+  },
+  {
+    "appid": 3709430,
+    "name": "Witch's Apocalyptic Journey"
+  },
+  {
+    "appid": 3834090,
+    "name": "YAPYAP"
+  },
+  {
+    "appid": 883710,
+    "name": "Resident Evil 2"
+  },
+  {
+    "appid": 1262540,
+    "name": "Need for Speed™"
+  },
+  {
+    "appid": 2567870,
+    "name": "Chained Together"
+  },
+  {
+    "appid": 1465460,
+    "name": "Infection Free Zone"
+  },
+  {
+    "appid": 435150,
+    "name": "Divinity: Original Sin 2 - Definitive Edition"
+  },
+  {
+    "appid": 4413460,
+    "name": "Airport Manager Simulator 2026"
+  },
+  {
+    "appid": 3282420,
+    "name": "Zoominoes"
+  },
+  {
+    "appid": 3404470,
+    "name": "Maltese's Fluffy Onsen"
+  },
+  {
+    "appid": 1444480,
+    "name": "Turing Complete"
   },
   {
     "appid": 1466640,
     "name": "Road 96 🛣️"
   },
   {
+    "appid": 2677660,
+    "name": "Indiana Jones and the Great Circle"
+  },
+  {
+    "appid": 3097560,
+    "name": "Liar's Bar"
+  },
+  {
+    "appid": 4809100,
+    "name": "Heartbeat Impact"
+  },
+  {
+    "appid": 1562430,
+    "name": "DREDGE"
+  },
+  {
+    "appid": 374320,
+    "name": "DARK SOULS™ III"
+  },
+  {
+    "appid": 1150690,
+    "name": "OMORI"
+  },
+  {
+    "appid": 1934680,
+    "name": "Age of Mythology: Retold"
+  },
+  {
+    "appid": 1285190,
+    "name": "Borderlands 4"
+  },
+  {
+    "appid": 12210,
+    "name": "Grand Theft Auto IV: The Complete Edition"
+  },
+  {
+    "appid": 447530,
+    "name": "VA-11 Hall-A: Cyberpunk Bartender Action"
+  },
+  {
+    "appid": 1677280,
+    "name": "Company of Heroes 3"
+  },
+  {
+    "appid": 500,
+    "name": "Left 4 Dead"
+  },
+  {
+    "appid": 3453910,
+    "name": "Happy's Humble Burger Cult"
+  },
+  {
+    "appid": 2244210,
+    "name": "Echoes of Aincrad"
+  },
+  {
+    "appid": 3841510,
+    "name": "DYNASTY WARRIORS 3: Complete Edition Remastered"
+  },
+  {
+    "appid": 3948120,
+    "name": "Scritchy Scratchy"
+  },
+  {
+    "appid": 3446240,
+    "name": "Eastern Era"
+  },
+  {
+    "appid": 4244510,
+    "name": "Pratfall"
+  },
+  {
+    "appid": 266410,
+    "name": "iRacing"
+  },
+  {
+    "appid": 4307360,
+    "name": "Fallen Adventurer Anna"
+  },
+  {
+    "appid": 3914860,
+    "name": "Moss: The Forgotten Relic"
+  },
+  {
+    "appid": 2904040,
+    "name": "Cheap Car Repair"
+  },
+  {
+    "appid": 1693980,
+    "name": "Dead Space"
+  },
+  {
+    "appid": 582010,
+    "name": "Monster Hunter: World"
+  },
+  {
+    "appid": 782330,
+    "name": "DOOM Eternal"
+  },
+  {
+    "appid": 3119540,
+    "name": "Scriptorium: Master of Manuscripts"
+  },
+  {
+    "appid": 1602000,
+    "name": "Hotel Architect"
+  },
+  {
+    "appid": 3326230,
+    "name": "Hozy"
+  },
+  {
+    "appid": 1451940,
+    "name": "NEEDY STREAMER OVERLOAD"
+  },
+  {
+    "appid": 3562120,
+    "name": "Magical Princess"
+  },
+  {
+    "appid": 951770,
+    "name": "Forsaken Realms: Vahrin's Call"
+  },
+  {
+    "appid": 2408820,
+    "name": "Luma Island"
+  },
+  {
+    "appid": 2195120,
+    "name": "Go-Go Town!"
+  },
+  {
+    "appid": 1262350,
+    "name": "SIGNALIS"
+  },
+  {
+    "appid": 3882150,
+    "name": "Grim Axiom"
+  },
+  {
+    "appid": 3928550,
+    "name": "Fog of War: Book Two"
+  },
+  {
+    "appid": 1657740,
+    "name": "Mr. Sleepy Man"
+  },
+  {
+    "appid": 1966720,
+    "name": "Lethal Company"
+  },
+  {
+    "appid": 2492670,
+    "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version"
+  },
+  {
+    "appid": 3219010,
+    "name": "Fogpiercer"
+  },
+  {
+    "appid": 2210,
+    "name": "Quake 4"
+  },
+  {
+    "appid": 2624870,
+    "name": "Life is Strange: Reunion"
+  },
+  {
+    "appid": 2842040,
+    "name": "Star Wars Outlaws"
+  },
+  {
+    "appid": 529340,
+    "name": "Victoria 3"
+  },
+  {
+    "appid": 1468810,
+    "name": "鬼谷八荒 Tale of Immortal"
+  },
+  {
+    "appid": 3825390,
+    "name": "BLUE REFLECTION Quartet"
+  },
+  {
+    "appid": 625960,
+    "name": "Stoneshard"
+  },
+  {
+    "appid": 2637210,
+    "name": "Flow Of War"
+  },
+  {
+    "appid": 3580160,
+    "name": "Ambrosia Sky"
+  },
+  {
+    "appid": 3314790,
+    "name": "CloverPit"
+  },
+  {
+    "appid": 1809540,
+    "name": "Nine Sols"
+  },
+  {
+    "appid": 1167630,
+    "name": "Teardown"
+  },
+  {
+    "appid": 242760,
+    "name": "The Forest"
+  },
+  {
+    "appid": 1609230,
+    "name": "Scarlet Hollow"
+  },
+  {
+    "appid": 2014780,
+    "name": "X-Plane 12"
+  },
+  {
+    "appid": 2458860,
+    "name": "Summer Clover"
+  },
+  {
+    "appid": 1702390,
+    "name": "Voor De Kroon"
+  },
+  {
+    "appid": 1262580,
+    "name": "Need for Speed™ Payback"
+  },
+  {
+    "appid": 2445690,
+    "name": "Lost Castle 2"
+  },
+  {
+    "appid": 2739590,
+    "name": "Mad Island"
+  },
+  {
+    "appid": 2373990,
+    "name": "Solo Leveling: ARISE OVERDRIVE"
+  },
+  {
+    "appid": 2054970,
+    "name": "Dragon's Dogma 2"
+  },
+  {
+    "appid": 508440,
+    "name": "Totally Accurate Battle Simulator"
+  },
+  {
+    "appid": 1332010,
+    "name": "Stray"
+  },
+  {
+    "appid": 1875580,
+    "name": "Mina the Hollower"
+  },
+  {
+    "appid": 2688950,
+    "name": "Planet Coaster 2"
+  },
+  {
+    "appid": 3755860,
+    "name": "BLACK SOULS"
+  },
+  {
+    "appid": 3164310,
+    "name": "Verde"
+  },
+  {
+    "appid": 2172910,
+    "name": "CAPTAIN TSUBASA 2: WORLD FIGHTERS"
+  },
+  {
+    "appid": 1004640,
+    "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles"
+  },
+  {
+    "appid": 307780,
+    "name": "Mortal Kombat X"
+  },
+  {
+    "appid": 601150,
+    "name": "Devil May Cry 5"
+  },
+  {
+    "appid": 3913840,
+    "name": "Drink Factory Simulator"
+  },
+  {
+    "appid": 2958210,
+    "name": "Connie and the Essence of Chaos"
+  },
+  {
+    "appid": 2533960,
+    "name": "SUMMERHOUSE"
+  },
+  {
+    "appid": 1971870,
+    "name": "Mortal Kombat 1"
+  },
+  {
+    "appid": 921570,
+    "name": "OCTOPATH TRAVELER™"
+  },
+  {
+    "appid": 262060,
+    "name": "Darkest Dungeon®"
+  },
+  {
+    "appid": 4088670,
+    "name": "Ludus Magnatus: Gladiator Manager Simulator"
+  },
+  {
+    "appid": 1222700,
+    "name": "A Way Out"
+  },
+  {
+    "appid": 599140,
+    "name": "Graveyard Keeper"
+  },
+  {
+    "appid": 1145350,
+    "name": "Hades II"
+  },
+  {
+    "appid": 4235410,
+    "name": "Future Knight"
+  },
+  {
+    "appid": 4148240,
+    "name": "Road to Empress Ⅱ"
+  },
+  {
+    "appid": 4914830,
+    "name": "Toy Shop Tidy Up"
+  },
+  {
+    "appid": 4064510,
+    "name": "MOLE"
+  },
+  {
+    "appid": 319510,
+    "name": "Five Nights at Freddy's"
+  },
+  {
+    "appid": 2499040,
+    "name": "Volkolak: The Will of Gods"
+  },
+  {
+    "appid": 2698940,
+    "name": "The Crew Motorfest"
+  },
+  {
+    "appid": 1533390,
+    "name": "Gorilla Tag"
+  },
+  {
+    "appid": 2420110,
+    "name": "Horizon Forbidden West™ Complete Edition"
+  },
+  {
+    "appid": 3256150,
+    "name": "Moomintroll: Winter's Warmth"
+  },
+  {
+    "appid": 3026730,
+    "name": "Tamer: King of Dinosaurs"
+  },
+  {
+    "appid": 307690,
+    "name": "Sleeping Dogs: Definitive Edition"
+  },
+  {
+    "appid": 3397100,
+    "name": "Eye of the Incubus"
+  },
+  {
+    "appid": 3681610,
+    "name": "DRAGON QUEST MONSTERS: The Withered World"
+  },
+  {
+    "appid": 1926520,
+    "name": "Ambulance Life: A Paramedic Simulator"
+  },
+  {
+    "appid": 2185060,
+    "name": "Two Point Museum"
+  },
+  {
+    "appid": 1401590,
+    "name": "Disney Dreamlight Valley"
+  },
+  {
+    "appid": 552520,
+    "name": "Far Cry® 5"
+  },
+  {
+    "appid": 3681010,
+    "name": "Nioh 3"
+  },
+  {
+    "appid": 4092940,
+    "name": "Lucky Shot"
+  },
+  {
+    "appid": 4080030,
+    "name": "The Message from Deep Space"
+  },
+  {
+    "appid": 2827750,
+    "name": "Fatal Claw"
+  },
+  {
+    "appid": 2827200,
+    "name": "MIMESIS"
+  },
+  {
+    "appid": 3462650,
+    "name": "Creepshow"
+  },
+  {
+    "appid": 4084710,
+    "name": "Rayman Legends Retold"
+  },
+  {
+    "appid": 1631270,
+    "name": "StarRupture"
+  },
+  {
+    "appid": 4108460,
+    "name": "PatriotMemoirs"
+  },
+  {
+    "appid": 1335790,
+    "name": "Operation: Tango"
+  },
+  {
+    "appid": 3419520,
+    "name": "Quarantine Zone: The Last Check"
+  },
+  {
+    "appid": 1337010,
+    "name": "Alba: A Wildlife Adventure"
+  },
+  {
+    "appid": 746850,
+    "name": "Cloudpunk"
+  },
+  {
+    "appid": 2417610,
+    "name": "METAL GEAR SOLID Δ: SNAKE EATER"
+  },
+  {
+    "appid": 2873080,
+    "name": "The NOexistenceN of you AND me"
+  },
+  {
+    "appid": 1574820,
+    "name": "Until Then"
+  },
+  {
+    "appid": 1859910,
+    "name": "Legend of Mortal"
+  },
+  {
+    "appid": 2706020,
+    "name": "ALL WILL FALL"
+  },
+  {
+    "appid": 1716740,
+    "name": "Starfield"
+  },
+  {
+    "appid": 3198890,
+    "name": "Scale the Depths"
+  },
+  {
+    "appid": 3116500,
+    "name": "Summer at Smile Café"
+  },
+  {
+    "appid": 1165870,
+    "name": "Mahou Arms"
+  },
+  {
+    "appid": 1210320,
+    "name": "Potion Craft: Alchemist Simulator"
+  },
+  {
+    "appid": 4216280,
+    "name": "Dverghold"
+  },
+  {
+    "appid": 2101390,
+    "name": "Lost and Found Co."
+  },
+  {
+    "appid": 2679460,
+    "name": "Metaphor: ReFantazio"
+  },
+  {
+    "appid": 2803490,
+    "name": "Atomcraft"
+  },
+  {
+    "appid": 366250,
+    "name": "METAL SLUG"
+  },
+  {
+    "appid": 249130,
+    "name": "LEGO® Marvel™ Super Heroes"
+  },
+  {
+    "appid": 1669000,
+    "name": "Age of Wonders 4"
+  },
+  {
+    "appid": 3167020,
+    "name": "Escape From Duckov"
+  },
+  {
+    "appid": 494840,
+    "name": "UBOAT"
+  },
+  {
+    "appid": 2124490,
+    "name": "SILENT HILL 2"
+  },
+  {
+    "appid": 214950,
+    "name": "Total War: ROME II - Emperor Edition"
+  },
+  {
+    "appid": 1196590,
+    "name": "Resident Evil Village"
+  },
+  {
     "appid": 379720,
     "name": "DOOM"
   },
   {
-    "appid": 4295960,
-    "name": "Manga Club Advisor wants to support Saeki Sasara"
+    "appid": 4712500,
+    "name": "Legacy of Subjugation"
   },
   {
-    "appid": 2713690,
-    "name": "Shattered Minds"
+    "appid": 3683770,
+    "name": "Boba Cafe Simulator"
+  },
+  {
+    "appid": 2552450,
+    "name": "KINGDOM HEARTS III + Re Mind (DLC)"
+  },
+  {
+    "appid": 2536520,
+    "name": "Diablo II: Resurrected – Infernal Edition"
+  },
+  {
+    "appid": 1211020,
+    "name": "Wobbly Life"
+  },
+  {
+    "appid": 3110760,
+    "name": "Alabaster Dawn"
+  },
+  {
+    "appid": 3159330,
+    "name": "Assassin’s Creed Shadows"
+  },
+  {
+    "appid": 1227890,
+    "name": "Summer Memories"
+  },
+  {
+    "appid": 2862860,
+    "name": "Ukrainian Fight Drone Simulator (UFDS) - FPV drone simulator"
+  },
+  {
+    "appid": 1066890,
+    "name": "Automobilista 2"
   },
   {
     "appid": 2825530,
@@ -3140,208 +3080,328 @@
     "name": "Grand Theft Auto: San Andreas – The Definitive Edition"
   },
   {
-    "appid": 319510,
-    "name": "Five Nights at Freddy's"
+    "appid": 2495100,
+    "name": "Hello Kitty Island Adventure"
   },
   {
-    "appid": 2487150,
-    "name": "Deconstruction Simulator"
+    "appid": 1672970,
+    "name": "Minecraft Dungeons"
   },
   {
-    "appid": 1243850,
-    "name": "This Bed We Made"
+    "appid": 690830,
+    "name": "Foundation"
   },
   {
-    "appid": 3548580,
-    "name": "Chill with You : Lo-Fi Story"
+    "appid": 2444750,
+    "name": "Shape of Dreams"
   },
   {
-    "appid": 460950,
-    "name": "Katana ZERO"
+    "appid": 1663850,
+    "name": "REPLACED"
   },
   {
-    "appid": 433340,
-    "name": "Slime Rancher"
+    "appid": 1971650,
+    "name": "OCTOPATH TRAVELER II"
   },
   {
-    "appid": 2702260,
-    "name": "Map Map - A Game About Maps"
+    "appid": 1850570,
+    "name": "DEATH STRANDING DIRECTOR'S CUT"
   },
   {
-    "appid": 3863760,
-    "name": "侠影录"
+    "appid": 4033150,
+    "name": "Moka Love Relive♪"
   },
   {
-    "appid": 3882980,
-    "name": "Space Tail: Definitive Edition"
-  },
-  {
-    "appid": 2749950,
-    "name": "Esports Manager 2026"
-  },
-  {
-    "appid": 2116120,
-    "name": "Incursion Red River"
-  },
-  {
-    "appid": 1696770,
-    "name": "The Mermaid Mask"
-  },
-  {
-    "appid": 1606340,
-    "name": "Conquest of Elysium 5"
-  },
-  {
-    "appid": 1553260,
-    "name": "Scarlet Deer Inn"
-  },
-  {
-    "appid": 1927720,
-    "name": "Monument Valley"
-  },
-  {
-    "appid": 2904000,
-    "name": "The Spell Brigade"
-  },
-  {
-    "appid": 3375490,
-    "name": "Block Block Block"
-  },
-  {
-    "appid": 4032350,
-    "name": "EA SPORTS™ College Football 27"
-  },
-  {
-    "appid": 1144400,
-    "name": "Senren＊Banka"
-  },
-  {
-    "appid": 268050,
-    "name": "The Evil Within"
-  },
-  {
-    "appid": 1196590,
-    "name": "Resident Evil Village"
-  },
-  {
-    "appid": 418370,
-    "name": "Resident Evil 7 Biohazard"
-  },
-  {
-    "appid": 1604030,
-    "name": "V Rising"
-  },
-  {
-    "appid": 1716740,
-    "name": "Starfield"
-  },
-  {
-    "appid": 3642010,
-    "name": "Truck-kun is Supporting Me from Another World?!"
-  },
-  {
-    "appid": 3582250,
-    "name": "Farm to Table"
-  },
-  {
-    "appid": 3089420,
-    "name": "Prop Sumo"
-  },
-  {
-    "appid": 38400,
-    "name": "Fallout: A Post Nuclear Role Playing Game"
-  },
-  {
-    "appid": 784080,
-    "name": "MechWarrior 5: Mercenaries"
-  },
-  {
-    "appid": 3010280,
-    "name": "Powerplay"
-  },
-  {
-    "appid": 2968420,
-    "name": "PowerWash Simulator 2"
-  },
-  {
-    "appid": 3681010,
-    "name": "Nioh 3"
+    "appid": 3654560,
+    "name": "Plants vs. Zombies™: Replanted"
   },
   {
     "appid": 264710,
     "name": "Subnautica"
   },
   {
-    "appid": 3507880,
-    "name": "My Fav Chill Streamer Dies a Million Times｜ゆるゆる生配信する推しは100万回死ぬ"
+    "appid": 2906500,
+    "name": "The Thing That Happened"
   },
   {
-    "appid": 2327720,
-    "name": "City Car Driving 2.0"
+    "appid": 2646460,
+    "name": "Soulmask"
   },
   {
-    "appid": 541570,
-    "name": "Sally Face - Episode One"
+    "appid": 4533730,
+    "name": "Yokai: Lust Secret 🪭"
   },
   {
-    "appid": 3450310,
-    "name": "Europa Universalis V"
+    "appid": 1437760,
+    "name": "Peripeteia"
   },
   {
-    "appid": 1725410,
-    "name": "Talespinner"
+    "appid": 1501310,
+    "name": "The Ranchers"
   },
   {
-    "appid": 9010,
-    "name": "Return to Castle Wolfenstein"
+    "appid": 1388880,
+    "name": "Doki Doki Literature Club Plus!"
   },
   {
-    "appid": 2899050,
-    "name": "Desert Stalker"
+    "appid": 1594940,
+    "name": "Little Witch in the Woods"
   },
   {
-    "appid": 4158870,
-    "name": "Japanese Rural Life Adventure"
+    "appid": 1190000,
+    "name": "Car Mechanic Simulator 2021"
   },
   {
-    "appid": 3195790,
-    "name": "White Knuckle"
+    "appid": 220,
+    "name": "Half-Life 2"
   },
   {
-    "appid": 2696050,
-    "name": "Yarimono"
+    "appid": 2372240,
+    "name": "Re:Night"
   },
   {
-    "appid": 3407390,
-    "name": "ENDLESS Legend™ 2"
+    "appid": 3882410,
+    "name": "Qliphah in Providence's Shadow"
   },
   {
-    "appid": 70,
-    "name": "Half-Life"
+    "appid": 4666090,
+    "name": "Midnight Moments"
   },
   {
-    "appid": 582160,
-    "name": "Assassin's Creed® Origins"
+    "appid": 3003460,
+    "name": "Bang Bang Barrage"
   },
   {
-    "appid": 3526710,
-    "name": "Everything is Crab: The Animal Evolution Roguelite"
+    "appid": 2119830,
+    "name": "MISERY"
   },
   {
-    "appid": 3917090,
-    "name": "Assetto Corsa Rally"
+    "appid": 2672470,
+    "name": "UnLoop"
   },
   {
-    "appid": 2627260,
-    "name": "NINJA GAIDEN 4"
+    "appid": 3186040,
+    "name": "拖拖拉拉小菲镇"
   },
   {
-    "appid": 214950,
-    "name": "Total War: ROME II - Emperor Edition"
+    "appid": 1205970,
+    "name": "MX vs ATV Legends"
   },
   {
-    "appid": 4923090,
-    "name": "Rent Due"
+    "appid": 3089420,
+    "name": "Prop Sumo"
+  },
+  {
+    "appid": 1369700,
+    "name": "Solar Expanse - Space Exploration Manager"
+  },
+  {
+    "appid": 1331550,
+    "name": "Big Ambitions"
+  },
+  {
+    "appid": 1384160,
+    "name": "GUILTY GEAR -STRIVE-"
+  },
+  {
+    "appid": 1757300,
+    "name": "Jump Space"
+  },
+  {
+    "appid": 962130,
+    "name": "Grounded"
+  },
+  {
+    "appid": 3656530,
+    "name": "Sex Hill"
+  },
+  {
+    "appid": 3522360,
+    "name": "WARSHIFT 2"
+  },
+  {
+    "appid": 2808550,
+    "name": "Sudden Strike 5"
+  },
+  {
+    "appid": 2904000,
+    "name": "The Spell Brigade"
+  },
+  {
+    "appid": 1629520,
+    "name": "A Little to the Left"
+  },
+  {
+    "appid": 3534790,
+    "name": "Mesmalie"
+  },
+  {
+    "appid": 3100370,
+    "name": "Black Jacket"
+  },
+  {
+    "appid": 2290180,
+    "name": "Riders Republic"
+  },
+  {
+    "appid": 1446900,
+    "name": "Fallen Tear: The Ascension"
+  },
+  {
+    "appid": 2212670,
+    "name": "MakeRoom"
+  },
+  {
+    "appid": 1617400,
+    "name": "The Bazaar"
+  },
+  {
+    "appid": 2384580,
+    "name": "DYNASTY WARRIORS: ORIGINS"
+  },
+  {
+    "appid": 2881650,
+    "name": "Content Warning"
+  },
+  {
+    "appid": 4163000,
+    "name": "Crypto Trading Simulator"
+  },
+  {
+    "appid": 2116120,
+    "name": "Incursion Red River"
+  },
+  {
+    "appid": 3405340,
+    "name": "Megabonk"
+  },
+  {
+    "appid": 2947440,
+    "name": "SILENT HILL f"
+  },
+  {
+    "appid": 1446780,
+    "name": "MONSTER HUNTER RISE"
+  },
+  {
+    "appid": 1604030,
+    "name": "V Rising"
+  },
+  {
+    "appid": 3097300,
+    "name": "Creature Kitchen"
+  },
+  {
+    "appid": 718670,
+    "name": "Cultist Simulator"
+  },
+  {
+    "appid": 1184370,
+    "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
+  },
+  {
+    "appid": 4643090,
+    "name": "The NOexistenceN of Lilith"
+  },
+  {
+    "appid": 2713690,
+    "name": "Shattered Minds"
+  },
+  {
+    "appid": 362490,
+    "name": "Exanima"
+  },
+  {
+    "appid": 219740,
+    "name": "Don't Starve"
+  },
+  {
+    "appid": 4824420,
+    "name": "Vespera"
+  },
+  {
+    "appid": 4227400,
+    "name": "Sineus Arena Survivors"
+  },
+  {
+    "appid": 1927720,
+    "name": "Monument Valley"
+  },
+  {
+    "appid": 1975440,
+    "name": "Under The Waves"
+  },
+  {
+    "appid": 2968420,
+    "name": "PowerWash Simulator 2"
+  },
+  {
+    "appid": 3548580,
+    "name": "Chill with You : Lo-Fi Story"
+  },
+  {
+    "appid": 3035500,
+    "name": "Fantasy Map Simulator"
+  },
+  {
+    "appid": 1681430,
+    "name": "RoboCop: Rogue City"
+  },
+  {
+    "appid": 916440,
+    "name": "Anno 1800"
+  },
+  {
+    "appid": 3838370,
+    "name": "TR-49"
+  },
+  {
+    "appid": 2878450,
+    "name": "Master of Command"
+  },
+  {
+    "appid": 1139900,
+    "name": "Ghostrunner"
+  },
+  {
+    "appid": 838350,
+    "name": "The Scroll of Taiwu : Beyond The Dome"
+  },
+  {
+    "appid": 3910920,
+    "name": "Agent Sherine: Dancing Fox"
+  },
+  {
+    "appid": 3607440,
+    "name": "A.A.U. Black Site"
+  },
+  {
+    "appid": 4111370,
+    "name": "Birdwatching Notebook"
+  },
+  {
+    "appid": 1181550,
+    "name": "Carnival Hunt"
+  },
+  {
+    "appid": 2254890,
+    "name": "The Killing Antidote"
+  },
+  {
+    "appid": 418370,
+    "name": "Resident Evil 7 Biohazard"
+  },
+  {
+    "appid": 359320,
+    "name": "Elite Dangerous"
+  },
+  {
+    "appid": 3829280,
+    "name": "The Merchant's Eden"
+  },
+  {
+    "appid": 1262600,
+    "name": "Need for Speed™ Rivals"
   },
   {
     "appid": 2114740,
@@ -3352,368 +3412,56 @@
     "name": "Anno 117: Pax Romana"
   },
   {
-    "appid": 1176470,
-    "name": "Terra Invicta"
-  },
-  {
-    "appid": 2881650,
-    "name": "Content Warning"
-  },
-  {
     "appid": 2198150,
     "name": "Tiny Glade"
   },
   {
-    "appid": 3687790,
-    "name": "Deadliest Pigeon"
+    "appid": 412020,
+    "name": "Metro Exodus"
   },
   {
-    "appid": 2859100,
-    "name": "The Adventures of HILLS"
+    "appid": 1696770,
+    "name": "The Mermaid Mask"
   },
   {
-    "appid": 38410,
-    "name": "Fallout 2: A Post Nuclear Role Playing Game"
+    "appid": 2133760,
+    "name": "Tiny Bookshop"
   },
   {
-    "appid": 3638920,
-    "name": "CastleOn"
+    "appid": 2172010,
+    "name": "Until Dawn™"
   },
   {
-    "appid": 2340520,
-    "name": "Tales of Seikyu"
-  },
-  {
-    "appid": 1002300,
-    "name": "Fear & Hunger"
-  },
-  {
-    "appid": 962130,
-    "name": "Grounded"
-  },
-  {
-    "appid": 3876710,
-    "name": "Pigeon: A Love Story"
-  },
-  {
-    "appid": 1694600,
-    "name": "THE HOUSE OF THE DEAD: Remake"
-  },
-  {
-    "appid": 2784470,
-    "name": "9 Kings"
-  },
-  {
-    "appid": 1227890,
-    "name": "Summer Memories"
-  },
-  {
-    "appid": 2646460,
-    "name": "Soulmask"
-  },
-  {
-    "appid": 4227400,
-    "name": "Sineus Arena Survivors"
-  },
-  {
-    "appid": 3618030,
-    "name": "Flock Around"
-  },
-  {
-    "appid": 3607440,
-    "name": "A.A.U. Black Site"
-  },
-  {
-    "appid": 405310,
-    "name": "LEGO® MARVEL's Avengers"
-  },
-  {
-    "appid": 1939970,
-    "name": "Nobody Wants to Die"
-  },
-  {
-    "appid": 21690,
-    "name": "Resident Evil 5"
-  },
-  {
-    "appid": 1611600,
-    "name": "WARNO"
-  },
-  {
-    "appid": 362490,
-    "name": "Exanima"
-  },
-  {
-    "appid": 3165590,
-    "name": "Gemblades"
-  },
-  {
-    "appid": 4163000,
-    "name": "Crypto Trading Simulator"
-  },
-  {
-    "appid": 3176720,
-    "name": "Royalty Free-For-All"
-  },
-  {
-    "appid": 4252700,
-    "name": "Archon Soul"
-  },
-  {
-    "appid": 3444020,
-    "name": "Demonic Mahjong"
-  },
-  {
-    "appid": 1836560,
-    "name": "Aether & Iron"
-  },
-  {
-    "appid": 2914150,
-    "name": "Yunyun Syndrome!? Rhythm Psychosis"
-  },
-  {
-    "appid": 3846120,
-    "name": "MineMogul"
-  },
-  {
-    "appid": 1931770,
-    "name": "Chants of Sennaar"
-  },
-  {
-    "appid": 1384160,
-    "name": "GUILTY GEAR -STRIVE-"
-  },
-  {
-    "appid": 838350,
-    "name": "The Scroll of Taiwu : Beyond The Dome"
-  },
-  {
-    "appid": 661500,
-    "name": "Rekindling"
-  },
-  {
-    "appid": 2499040,
-    "name": "Volkolak: The Will of Gods"
-  },
-  {
-    "appid": 2827750,
-    "name": "Fatal Claw"
-  },
-  {
-    "appid": 2294730,
-    "name": "MILFs of Sunville - Season 2"
-  },
-  {
-    "appid": 710230,
-    "name": "Urban Strife"
-  },
-  {
-    "appid": 2956680,
-    "name": "LORT"
-  },
-  {
-    "appid": 2426530,
-    "name": "Nova Roma"
-  },
-  {
-    "appid": 2947440,
-    "name": "SILENT HILL f"
-  },
-  {
-    "appid": 2617400,
-    "name": "Minimalist Tower Defense"
-  },
-  {
-    "appid": 3151380,
-    "name": "Small Spaces"
-  },
-  {
-    "appid": 3975510,
-    "name": "CYAN BRAIN"
-  },
-  {
-    "appid": 1669000,
-    "name": "Age of Wonders 4"
-  },
-  {
-    "appid": 16900,
-    "name": "GROUND BRANCH"
-  },
-  {
-    "appid": 2828860,
-    "name": "The Forever Winter"
-  },
-  {
-    "appid": 3453070,
-    "name": "COTTOn RockWithYou -ORIENTAL NIGHT DREAMS-"
-  },
-  {
-    "appid": 1205970,
-    "name": "MX vs ATV Legends"
-  },
-  {
-    "appid": 1582650,
-    "name": "Caravan SandWitch"
-  },
-  {
-    "appid": 2753900,
-    "name": "The King is Watching"
-  },
-  {
-    "appid": 2515020,
-    "name": "FINAL FANTASY XVI"
-  },
-  {
-    "appid": 420530,
-    "name": "OneShot"
-  },
-  {
-    "appid": 1248130,
-    "name": "Farming Simulator 22"
-  },
-  {
-    "appid": 3651310,
-    "name": "Little Corners"
-  },
-  {
-    "appid": 1044980,
-    "name": "Mech Mechanic Simulator"
-  },
-  {
-    "appid": 2963800,
-    "name": "DrainSim"
-  },
-  {
-    "appid": 588030,
-    "name": "Derail Valley"
-  },
-  {
-    "appid": 926990,
-    "name": "WolfQuest: Anniversary Edition"
-  },
-  {
-    "appid": 3438850,
-    "name": "Sledding Game"
-  },
-  {
-    "appid": 2000950,
-    "name": "Call of Duty®: Modern Warfare®"
-  },
-  {
-    "appid": 1850570,
-    "name": "DEATH STRANDING DIRECTOR'S CUT"
-  },
-  {
-    "appid": 4049910,
-    "name": "Nuclear Epoch"
-  },
-  {
-    "appid": 3202030,
-    "name": "龙胤立志传"
-  },
-  {
-    "appid": 3035120,
-    "name": "Is This Seat Taken?"
-  },
-  {
-    "appid": 2408820,
-    "name": "Luma Island"
+    "appid": 718850,
+    "name": "Age of Wonders: Planetfall"
   },
   {
     "appid": 612880,
     "name": "Wolfenstein II: The New Colossus"
   },
   {
-    "appid": 4011180,
-    "name": "NTR Idol: Déjà Vu"
+    "appid": 779340,
+    "name": "Total War: THREE KINGDOMS"
   },
   {
-    "appid": 1369700,
-    "name": "Solar Expanse - Space Exploration Manager"
+    "appid": 2593340,
+    "name": "Wonderia"
   },
   {
-    "appid": 2052410,
-    "name": "WITCH ON THE HOLY NIGHT"
+    "appid": 2963800,
+    "name": "DrainSim"
   },
   {
-    "appid": 1599600,
-    "name": "PlateUp!"
+    "appid": 3202030,
+    "name": "龙胤立志传"
   },
   {
-    "appid": 1575940,
-    "name": "Sins of a Solar Empire II"
+    "appid": 2369390,
+    "name": "Far Cry® 6"
   },
   {
-    "appid": 493490,
-    "name": "City Car Driving"
-  },
-  {
-    "appid": 2625420,
-    "name": "Drive Beyond Horizons"
-  },
-  {
-    "appid": 1184370,
-    "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition"
-  },
-  {
-    "appid": 3330210,
-    "name": "Kinny and the Cosmic Cauldron"
-  },
-  {
-    "appid": 2819470,
-    "name": "Aquapark Tycoon"
-  },
-  {
-    "appid": 2697940,
-    "name": "Ascend to ZERO"
-  },
-  {
-    "appid": 1669480,
-    "name": "Firefighting Simulator: Ignite"
-  },
-  {
-    "appid": 269650,
-    "name": "Dex"
-  },
-  {
-    "appid": 2754380,
-    "name": "The Roottrees are Dead"
-  },
-  {
-    "appid": 1682970,
-    "name": "Uncrashed : FPV Drone Simulator"
-  },
-  {
-    "appid": 2755480,
-    "name": "The Censor DX Edition"
-  },
-  {
-    "appid": 2897760,
-    "name": "Romantic Escapades"
-  },
-  {
-    "appid": 1824220,
-    "name": "Chivalry 2"
-  },
-  {
-    "appid": 494840,
-    "name": "UBOAT"
-  },
-  {
-    "appid": 219740,
-    "name": "Don't Starve"
-  },
-  {
-    "appid": 3133020,
-    "name": "Cozyrama"
-  },
-  {
-    "appid": 2679460,
-    "name": "Metaphor: ReFantazio"
-  },
-  {
-    "appid": 1601570,
-    "name": "The Alters"
+    "appid": 268050,
+    "name": "The Evil Within"
   },
   {
     "appid": 501300,
@@ -3724,140 +3472,356 @@
     "name": "Workers & Resources: Soviet Republic"
   },
   {
-    "appid": 779340,
-    "name": "Total War: THREE KINGDOMS"
+    "appid": 4938200,
+    "name": "Snowed Under | 雪葬"
   },
   {
-    "appid": 3578980,
-    "name": "Lovecraft Locker 2: Tentacle Breach"
+    "appid": 4547970,
+    "name": "Pih 2"
   },
   {
-    "appid": 1139980,
-    "name": "Travellers Rest"
+    "appid": 4032350,
+    "name": "EA SPORTS™ College Football 27"
   },
   {
-    "appid": 480490,
-    "name": "Prey"
+    "appid": 1553260,
+    "name": "Scarlet Deer Inn"
   },
   {
-    "appid": 3782080,
-    "name": "中国式地雷女"
+    "appid": 1243830,
+    "name": "Overcooked! All You Can Eat"
   },
   {
-    "appid": 4384550,
-    "name": "Call of Duty®: Black Ops 6"
+    "appid": 1641960,
+    "name": "Forever Skies"
   },
   {
-    "appid": 3061390,
-    "name": "Inkwellers"
+    "appid": 4434840,
+    "name": "AI is Home - Survival Thriller"
   },
   {
-    "appid": 2768380,
-    "name": "Repterra"
+    "appid": 4295960,
+    "name": "Manga Club Advisor wants to support Saeki Sasara"
   },
   {
-    "appid": 3447040,
-    "name": "Sora no Kiseki the 1st"
+    "appid": 4731620,
+    "name": "Fortune Mill"
   },
   {
-    "appid": 3014320,
-    "name": "OCTOPATH TRAVELER 0"
+    "appid": 1328660,
+    "name": "Need for Speed™ Hot Pursuit Remastered"
   },
   {
-    "appid": 235460,
-    "name": "METAL GEAR RISING: REVENGEANCE"
+    "appid": 756800,
+    "name": "Contraband Police"
   },
   {
-    "appid": 1114150,
-    "name": "CarX Street"
+    "appid": 3495730,
+    "name": "Lucid Blocks"
   },
   {
-    "appid": 412830,
-    "name": "STEINS;GATE"
-  },
-  {
-    "appid": 1118200,
-    "name": "People Playground"
+    "appid": 3450310,
+    "name": "Europa Universalis V"
   },
   {
     "appid": 1328670,
     "name": "Mass Effect™ Legendary Edition"
   },
   {
-    "appid": 1057090,
-    "name": "Ori and the Will of the Wisps"
+    "appid": 220240,
+    "name": "Far Cry 3"
   },
   {
-    "appid": 1446780,
-    "name": "MONSTER HUNTER RISE"
+    "appid": 4297840,
+    "name": "Rock Bottom"
   },
   {
-    "appid": 4519130,
-    "name": "MOLDRISE"
+    "appid": 2859100,
+    "name": "The Adventures of HILLS"
   },
   {
-    "appid": 4712500,
-    "name": "Legacy of Subjugation"
-  },
-  {
-    "appid": 4512570,
-    "name": "A Game About Chopping Trees"
-  },
-  {
-    "appid": 3219180,
-    "name": "Cursemark"
-  },
-  {
-    "appid": 2254890,
-    "name": "The Killing Antidote"
-  },
-  {
-    "appid": 552100,
-    "name": "Brick Rigs"
-  },
-  {
-    "appid": 774361,
-    "name": "Blasphemous"
-  },
-  {
-    "appid": 238320,
-    "name": "Outlast"
+    "appid": 1601570,
+    "name": "The Alters"
   },
   {
     "appid": 516750,
     "name": "My Summer Car"
   },
   {
-    "appid": 916440,
-    "name": "Anno 1800"
+    "appid": 4402950,
+    "name": "HEXSTORM: Tears of Arcadia"
   },
   {
-    "appid": 359320,
-    "name": "Elite Dangerous"
+    "appid": 2768380,
+    "name": "Repterra"
   },
   {
-    "appid": 3819640,
-    "name": "Megastore Simulator"
+    "appid": 2702260,
+    "name": "Map Map - A Game About Maps"
   },
   {
-    "appid": 605230,
-    "name": "Grey Hack"
+    "appid": 333640,
+    "name": "Caves of Qud"
   },
   {
-    "appid": 2280,
-    "name": "DOOM + DOOM II"
+    "appid": 541570,
+    "name": "Sally Face - Episode One"
   },
   {
-    "appid": 2879840,
-    "name": "Escape Simulator 2"
+    "appid": 2625420,
+    "name": "Drive Beyond Horizons"
   },
   {
-    "appid": 2172010,
-    "name": "Until Dawn™"
+    "appid": 3176720,
+    "name": "Royalty Free-For-All"
   },
   {
-    "appid": 3556750,
-    "name": "Warhammer 40,000: Dawn of War - Definitive Edition"
+    "appid": 3061390,
+    "name": "Inkwellers"
+  },
+  {
+    "appid": 1694600,
+    "name": "THE HOUSE OF THE DEAD: Remake"
+  },
+  {
+    "appid": 701160,
+    "name": "Kingdom Two Crowns"
+  },
+  {
+    "appid": 16900,
+    "name": "GROUND BRANCH"
+  },
+  {
+    "appid": 1092790,
+    "name": "Inscryption"
+  },
+  {
+    "appid": 2749950,
+    "name": "Esports Manager 2026"
+  },
+  {
+    "appid": 1833570,
+    "name": "Vampire Syndicate: Gangs of MoonFall"
+  },
+  {
+    "appid": 1265920,
+    "name": "Life is Strange Remastered"
+  },
+  {
+    "appid": 926990,
+    "name": "WolfQuest: Anniversary Edition"
+  },
+  {
+    "appid": 1888160,
+    "name": "ARMORED CORE™ VI FIRES OF RUBICON™"
+  },
+  {
+    "appid": 4286120,
+    "name": "Photomaly"
+  },
+  {
+    "appid": 1606340,
+    "name": "Conquest of Elysium 5"
+  },
+  {
+    "appid": 3088070,
+    "name": "Dark Light: Survivor"
+  },
+  {
+    "appid": 2899050,
+    "name": "Desert Stalker"
+  },
+  {
+    "appid": 2052410,
+    "name": "WITCH ON THE HOLY NIGHT"
+  },
+  {
+    "appid": 648410,
+    "name": "Colony Ship: A Post-Earth Role Playing Game"
+  },
+  {
+    "appid": 2696050,
+    "name": "Yarimono"
+  },
+  {
+    "appid": 2000950,
+    "name": "Call of Duty®: Modern Warfare®"
+  },
+  {
+    "appid": 1114150,
+    "name": "CarX Street"
+  },
+  {
+    "appid": 1248130,
+    "name": "Farming Simulator 22"
+  },
+  {
+    "appid": 3084370,
+    "name": "Ricochet Abyss"
+  },
+  {
+    "appid": 2334170,
+    "name": "Metal Bringer"
+  },
+  {
+    "appid": 458710,
+    "name": "Kingdom Rush Frontiers - Tower Defense"
+  },
+  {
+    "appid": 2897760,
+    "name": "Romantic Escapades"
+  },
+  {
+    "appid": 1176470,
+    "name": "Terra Invicta"
+  },
+  {
+    "appid": 405310,
+    "name": "LEGO® MARVEL's Avengers"
+  },
+  {
+    "appid": 1948980,
+    "name": "Hero's Adventure: Road to Passion"
+  },
+  {
+    "appid": 774361,
+    "name": "Blasphemous"
+  },
+  {
+    "appid": 4129770,
+    "name": "Dream about yoU"
+  },
+  {
+    "appid": 480490,
+    "name": "Prey"
+  },
+  {
+    "appid": 4265570,
+    "name": "Parking in Tight Spaces"
+  },
+  {
+    "appid": 661500,
+    "name": "Rekindling"
+  },
+  {
+    "appid": 546900,
+    "name": "Fear Effect Sedna"
+  },
+  {
+    "appid": 2617400,
+    "name": "Minimalist Tower Defense"
+  },
+  {
+    "appid": 2957720,
+    "name": "Neon Inferno"
+  },
+  {
+    "appid": 3035570,
+    "name": "Assassin's Creed Mirage"
+  },
+  {
+    "appid": 2340520,
+    "name": "Tales of Seikyu"
+  },
+  {
+    "appid": 1575940,
+    "name": "Sins of a Solar Empire II"
+  },
+  {
+    "appid": 2828860,
+    "name": "The Forever Winter"
+  },
+  {
+    "appid": 1029780,
+    "name": "Going Medieval"
+  },
+  {
+    "appid": 298110,
+    "name": "Far Cry® 4"
+  },
+  {
+    "appid": 1145360,
+    "name": "Hades"
+  },
+  {
+    "appid": 4507690,
+    "name": "Blind Touch VR"
+  },
+  {
+    "appid": 4706650,
+    "name": "Thirty Years War"
+  },
+  {
+    "appid": 4217690,
+    "name": "Uncanny Tales: The Watcher"
+  },
+  {
+    "appid": 3582250,
+    "name": "Farm to Table"
+  },
+  {
+    "appid": 4158870,
+    "name": "Japanese Rural Life Adventure"
+  },
+  {
+    "appid": 2294730,
+    "name": "MILFs of Sunville - Season 2"
+  },
+  {
+    "appid": 2327720,
+    "name": "City Car Driving 2.0"
+  },
+  {
+    "appid": 2755480,
+    "name": "The Censor DX Edition"
+  },
+  {
+    "appid": 243470,
+    "name": "Watch_Dogs™"
+  },
+  {
+    "appid": 1002300,
+    "name": "Fear & Hunger"
+  },
+  {
+    "appid": 3846120,
+    "name": "MineMogul"
+  },
+  {
+    "appid": 3338950,
+    "name": "The Scouring"
+  },
+  {
+    "appid": 2101960,
+    "name": "Cronos: The New Dawn"
+  },
+  {
+    "appid": 460950,
+    "name": "Katana ZERO"
+  },
+  {
+    "appid": 870780,
+    "name": "CONTROL Ultimate Edition"
+  },
+  {
+    "appid": 1774580,
+    "name": "STAR WARS Jedi: Survivor™"
+  },
+  {
+    "appid": 976310,
+    "name": "Mortal Kombat 11"
+  },
+  {
+    "appid": 3698490,
+    "name": "ACRODRIFT: FPV Drone Simulator"
+  },
+  {
+    "appid": 3133020,
+    "name": "Cozyrama"
+  },
+  {
+    "appid": 1353230,
+    "name": "Bomb Rush Cyberfunk"
   },
   {
     "appid": 1569580,
@@ -3868,135 +3832,171 @@
     "name": "Cloud Meadow"
   },
   {
-    "appid": 1495320,
-    "name": "Carnal Instinct"
+    "appid": 70,
+    "name": "Half-Life"
   },
   {
-    "appid": 536270,
-    "name": "Ancestors: The Humankind Odyssey"
+    "appid": 1237950,
+    "name": "STAR WARS™ Battlefront™ II"
   },
   {
-    "appid": 1092790,
-    "name": "Inscryption"
+    "appid": 236850,
+    "name": "Europa Universalis IV"
   },
   {
-    "appid": 225540,
-    "name": "Just Cause™ 3"
+    "appid": 38400,
+    "name": "Fallout: A Post Nuclear Role Playing Game"
   },
   {
-    "appid": 3693650,
-    "name": "Thrifty Business"
+    "appid": 1824220,
+    "name": "Chivalry 2"
   },
   {
-    "appid": 2240620,
-    "name": "UNBEATABLE"
+    "appid": 1057090,
+    "name": "Ori and the Will of the Wisps"
   },
   {
-    "appid": 2842040,
-    "name": "Star Wars Outlaws"
+    "appid": 613100,
+    "name": "House Flipper"
   },
   {
-    "appid": 1498570,
-    "name": "THE KING OF FIGHTERS XV"
+    "appid": 4161140,
+    "name": "Finding Polka"
   },
   {
-    "appid": 2119830,
-    "name": "MISERY"
-  },
-  {
-    "appid": 3405340,
-    "name": "Megabonk"
-  },
-  {
-    "appid": 1366540,
-    "name": "Dyson Sphere Program"
-  },
-  {
-    "appid": 977510,
-    "name": "Time to Morp"
-  },
-  {
-    "appid": 1859620,
-    "name": "BRUTAL JOHN 2"
+    "appid": 3863760,
+    "name": "侠影录"
   },
   {
     "appid": 3690030,
     "name": "The Last Gas Station"
   },
   {
-    "appid": 3527760,
-    "name": "RoboCop: Rogue City - Unfinished Business"
-  },
-  {
-    "appid": 3920610,
-    "name": "FATAL FRAME II: Crimson Butterfly REMAKE"
-  },
-  {
-    "appid": 2420660,
-    "name": "Neva"
-  },
-  {
-    "appid": 4815890,
-    "name": "Monster Garden: Monster Girls Labyrinth"
-  },
-  {
-    "appid": 2457960,
-    "name": "Space Tales"
-  },
-  {
-    "appid": 4249850,
-    "name": "E-Shop Tycoon"
-  },
-  {
-    "appid": 3417490,
-    "name": "With Eyes Closed - Season 2"
-  },
-  {
-    "appid": 3838370,
-    "name": "TR-49"
-  },
-  {
-    "appid": 2862860,
-    "name": "Ukrainian Fight Drone Simulator (UFDS) - FPV drone simulator"
-  },
-  {
-    "appid": 3929630,
-    "name": "Terrinoth®: Heroes of Descent"
-  },
-  {
-    "appid": 2334170,
-    "name": "Metal Bringer"
-  },
-  {
-    "appid": 2464530,
-    "name": "VOIN"
-  },
-  {
-    "appid": 491540,
-    "name": "The Bus"
-  },
-  {
-    "appid": 934700,
-    "name": "Dead Island 2"
-  },
-  {
-    "appid": 1273400,
-    "name": "Construction Simulator"
-  },
-  {
-    "appid": 601430,
-    "name": "The Evil Within 2"
+    "appid": 2928600,
+    "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2"
   },
   {
     "appid": 49520,
     "name": "Borderlands 2"
   },
   {
-    "appid": 4216180,
-    "name": "IGNOBLE"
+    "appid": 4163030,
+    "name": "Cat Chess"
   },
   {
-    "appid": 223470,
-    "name": "POSTAL 2"
+    "appid": 3618030,
+    "name": "Flock Around"
+  },
+  {
+    "appid": 3444020,
+    "name": "Demonic Mahjong"
+  },
+  {
+    "appid": 3035120,
+    "name": "Is This Seat Taken?"
+  },
+  {
+    "appid": 3447040,
+    "name": "Sora no Kiseki the 1st"
+  },
+  {
+    "appid": 1682970,
+    "name": "Uncrashed : FPV Drone Simulator"
+  },
+  {
+    "appid": 3014320,
+    "name": "OCTOPATH TRAVELER 0"
+  },
+  {
+    "appid": 2914150,
+    "name": "Yunyun Syndrome!? Rhythm Psychosis"
+  },
+  {
+    "appid": 1198970,
+    "name": "I Am Jesus Christ"
+  },
+  {
+    "appid": 505460,
+    "name": "Foxhole"
+  },
+  {
+    "appid": 285900,
+    "name": "Gang Beasts"
+  },
+  {
+    "appid": 433340,
+    "name": "Slime Rancher"
+  },
+  {
+    "appid": 815370,
+    "name": "Green Hell"
+  },
+  {
+    "appid": 2238400,
+    "name": "PizzaBoy"
+  },
+  {
+    "appid": 3529670,
+    "name": "FULL METAL COFFIN"
+  },
+  {
+    "appid": 3438810,
+    "name": "Princess Maker: Children of Revelation"
+  },
+  {
+    "appid": 3642010,
+    "name": "Truck-kun is Supporting Me from Another World?!"
+  },
+  {
+    "appid": 3539440,
+    "name": "Metal Garden"
+  },
+  {
+    "appid": 3929630,
+    "name": "Terrinoth®: Heroes of Descent"
+  },
+  {
+    "appid": 3195790,
+    "name": "White Knuckle"
+  },
+  {
+    "appid": 784080,
+    "name": "MechWarrior 5: Mercenaries"
+  },
+  {
+    "appid": 1676840,
+    "name": "For The King II"
+  },
+  {
+    "appid": 552100,
+    "name": "Brick Rigs"
+  },
+  {
+    "appid": 881100,
+    "name": "Noita"
+  },
+  {
+    "appid": 203160,
+    "name": "Tomb Raider Game of the Year"
+  },
+  {
+    "appid": 3526710,
+    "name": "Everything is Crab: The Animal Evolution Roguelite"
+  },
+  {
+    "appid": 410340,
+    "name": "Liftoff®: FPV Drone Racing"
+  },
+  {
+    "appid": 1939970,
+    "name": "Nobody Wants to Die"
+  },
+  {
+    "appid": 19680,
+    "name": "Alice: Madness Returns"
+  },
+  {
+    "appid": 1611600,
+    "name": "WARNO"
   }
 ]
